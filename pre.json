@@ -227,12 +227,12 @@
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZE82oHERodQQi9RAg09ycBmRqTEpZz9497uf3iBXOXEA=="
          },
          {
-            "name":"DIRECTV SPORTS",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/directvsports.png",
-            "uri":"lmqmXZTeG7ZpaZqOa/P0mYRiNBGLwDhOwCIsld2fmyDgLLzshlOTEbkm1tNyzAvp",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZO2Mrz+irNCIx1YcDZPv9q"
-         },
+    "name": "DIRECTV SPORTS",
+    "ico": "https://serbox.com.ar/panel/ico/deportes/directvsports.png",
+    "uri": "WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmD8SXvldS1s+R6yubDn3fwvovi+PRLIaW7slA+CHYBBgw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZO2Mrz+irNCIx1YcDZPv9q"
+  },
          {
             "name":"DIRECTV SPORTS 2",
             "ico":"https://serbox.com.ar/panel/ico/deportes/directvsports2.png",
