@@ -832,12 +832,12 @@
             "drm_license_url":""
          },
          {
-            "name":"TNT NOVELAS",
-            "ico":"https://www.foromedios.com/uploads/monthly_2023_06/large.TNT_Novelas_2023.png.94ea5fca47e44b5ac99744542ad502d1.png",
-            "uri":"9PtIAu32Y1lCOdWkd1STMcU6lkO21ZRtIE8nK8MToJyMvYGZJ0csiB6WJ5ds5DRxxtw0aLGIPo5cpIYCZYrEJQ==",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"LS1xPgR8M7/8p2Qd3hxhL7N7YxFj2QQNDAG76pltWicpwh5pcdBgbJsz/NvA6ZVT"
-         },
+    "name": "TNT NOVELAS",
+    "ico": "https://www.foromedios.com/uploads/monthly_2023_06/large.TNT_Novelas_2023.png.94ea5fca47e44b5ac99744542ad502d1.png",
+    "uri": "9PtIAu32Y1lCOdWkd1STMcU6lkO21ZRtIE8nK8MToJyMvYGZJ0csiB6WJ5ds5DRxxtw0aLGIPo5cpIYCZYrEJQ==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZpAIsnYnPlcrNSWfichjiTQDu1PpwyqvnD+6X9OmJyxA=="
+  },
          {
             "name":"GH Chile",
             "ico":"https://i.imgur.com/7NGWeOM.png",
