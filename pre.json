@@ -1062,12 +1062,12 @@
       "mode":false,
       "lista":[
          {
-            "name":"CIUDAD MAGAZINE",
-            "ico":"https://static.flow.com.ar/images/64/CH_LOGO/350/500/0/0/731751480726.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa19VP7ajrayeQfh9hDxsKMOHmv/IYU9+p+pMuyK6b8flyI36j2DoXYCT7qKmdcPLGvn9jHPoTVSsE6ahA/6xlMEY",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrg0mVIU20rLyRwjO1QB4nZg5vJMW7K2b3w3Nf/rJc+Gl6BRCxE6UCRlrwsY+HuuJQw=="
-         },
+    "name": "CIUDAD MAGAZINE",
+    "ico": "https://static.flow.com.ar/images/64/CH_LOGO/350/500/0/0/731751480726.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCgC94ohM12m/H0Q5xALd60lFpRYUMVNnVIJr8H1Kj3DdFJbkp83+T2CloZTVorYOKNzEwizJjAc39Jg7armLyp",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaWOt+rkPCgkwNOVJ4v4ANKOoLic8kbevP1KNtepL6RSw=="
+  },
          {
             "name":"E!",
             "ico":"https://imgs.search.brave.com/XiQ-vp_fG1BN07qZGVWkk_Y7TFtSoe-OhHYlhg09-Y8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzFhL0Uh/X0xvZ28uc3ZnLzEy/MDBweC1FIV9Mb2dv/LnN2Zy5wbmc",
