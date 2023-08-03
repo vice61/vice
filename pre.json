@@ -143,12 +143,12 @@
       "mode":false,
       "lista":[
          {
-            "name":"TNT SPORTS",
-            "ico":"https://1.bp.blogspot.com/-jaO9LCxzt7U/YCaUqxTT9aI/AAAAAAAA8KU/h-oEs3iE8Ss8XsD5Pnz18pThBX2qSGysgCLcBGAsYHQ/s587/TNTSPORTS-2021.png",
-            "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmDqDk6RyLAr43aPGaUhEdbw42kdO+hAYGXzYQUCEUPBvg==",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZRaHYCxyCLPl2DTghesMsK"
-         },
+    "name": "TNT SPORTS",
+    "ico": "https://1.bp.blogspot.com/-jaO9LCxzt7U/YCaUqxTT9aI/AAAAAAAA8KU/h-oEs3iE8Ss8XsD5Pnz18pThBX2qSGysgCLcBGAsYHQ/s587/TNTSPORTS-2021.png",
+    "uri": "WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmDqDk6RyLAr43aPGaUhEdbw42kdO+hAYGXzYQUCEUPBvg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUahCbUV25NRfO/0weXyAexo7cr/uFujTMoTa/7sqnsoKw=="
+  },
          {
             "name":"ESPN PREMIUM",
             "ico":"https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
