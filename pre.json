@@ -234,12 +234,12 @@
     "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZO2Mrz+irNCIx1YcDZPv9q"
   },
          {
-            "name":"DIRECTV SPORTS 2",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/directvsports2.png",
-            "uri":"lmqmXZTeG7ZpaZqOa/P0mftm+kV1UYByS72PjJ22+XKb9XdaNPfd/P9uEDzBJ2By",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZF7QIQyDb/V9+dI4ODm1JK"
-         },
+    "name": "DIRECTV SPORTS 2",
+    "ico": "https://serbox.com.ar/panel/ico/deportes/directvsports2.png",
+    "uri": "NiYN2I0dDE3GejP8ILSsYsb6H51reF4jtgPRj68PlkTIhusYROoIk3K5WqPmTMbSxANYPnxBGO7gebMx+35nE3fvlw0IqqYl1gg7JjYielQ=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZF7QIQyDb/V9+dI4ODm1JK"
+  },
          {
             "name":"DIRECTV SPORTS PLUS",
             "ico":"https://www.directv.com.uy/content/dam/public-sites/channels/1613.png",
