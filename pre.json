@@ -825,6 +825,13 @@
       "mode":false,
       "lista":[
          {
+    "name": "CIUDAD MAGAZINE",
+    "ico": "https://static.flow.com.ar/images/64/CH_LOGO/350/500/0/0/731751480726.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCgC94ohM12m/H0Q5xALd60lFpRYUMVNnVIJr8H1Kj3DdFJbkp83+T2CloZTVorYOKNzEwizJjAc39Jg7armLyp",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaWOt+rkPCgkwNOVJ4v4ANKOoLic8kbevP1KNtepL6RSw=="
+  },
+         {
             "name":"La rosa de Guadalupe",
             "ico":"https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg",
             "uri":"UJ5QHZ9HLFBc3kyfb0vsm3JD3Z1QHRemmyhyAB0tFybAnP51EUCZN/t+qvV1wdgykN35Rwh6bd93ORFPjQKO6uLARZlMmtMZ5d0LVDkjpEY=",
@@ -1054,131 +1061,6 @@
             "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKo//72D6XuvPk2EB8vs0Hgrxr4GQxCyjU30jBH5tGgTZKX63xdysUwdYXnKzZ/9wPPUpAfhgzXj7UfxpU9LlkYlYIHtYOECAGL7GruBcd6UxmjeVe83IT++/pV00furo=",
             "drm_scheme":"clearkey",
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYJaJpM+pjwrCElTlH4K10QVb/AZrOBc3VQsbOIwwjeUw=="
-         }
-      ]
-   },
-   {
-      "name":"REGIONALES",
-      "mode":false,
-      "lista":[
-         {
-    "name": "CIUDAD MAGAZINE",
-    "ico": "https://static.flow.com.ar/images/64/CH_LOGO/350/500/0/0/731751480726.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCgC94ohM12m/H0Q5xALd60lFpRYUMVNnVIJr8H1Kj3DdFJbkp83+T2CloZTVorYOKNzEwizJjAc39Jg7armLyp",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaWOt+rkPCgkwNOVJ4v4ANKOoLic8kbevP1KNtepL6RSw=="
-  },
-         {
-            "name":"E!",
-            "ico":"https://imgs.search.brave.com/XiQ-vp_fG1BN07qZGVWkk_Y7TFtSoe-OhHYlhg09-Y8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzFhL0Uh/X0xvZ28uc3ZnLzEy/MDBweC1FIV9Mb2dv/LnN2Zy5wbmc",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa1+4rYuPSD2K2DK2PlrT6V1a6IXjRAACqmRSptZn9FYcIrtC5E/NqE3GZpbcwipyn00r7tCtl/o0F8BIaYgPpuCiHRdLHNLDgrKeSlir6FejVggKOevPHYS03r6yq6P2yNk=",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrq87Cw42B3nkEKQimbF6bTRQNjQGFerqWZUjZ/C2t8QP"
-         },
-         {
-            "name":"EURO CHANNEL",
-            "ico":"https://static.flow.com.ar/images/687/CH_LOGO/350/500/0/0/8002435507337.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa19CMwP5V+6pVC3SpkvDFm6JzxvBsaMdzep3FytsO0WpTW56pISArKP7IJ1ddNhu5hi7+W73HZ2GegAoa9+ND3kl",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrrlWz0hkxsarsN3j4jEHtlDxXsNdShBkMt2mE+rZFHSP"
-         },
-         {
-            "name":"FOOD NETWORK",
-            "ico":"https://static.flow.com.ar/images/901/CH_LOGO/350/500/0/0/87811089073450.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa1/wKwul2XIrjWTWUOXZNWJC31+LiYShgffHUX4C1jmHNllbck/Kt0mtsL/aPB6f1TyB85+pfOyVGggRZgE0Lcxr",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrn6Ca4HaW62FrCkrYUxlTFCYKHH8S8TcdQpTSbjx1TXh"
-         },
-         {
-            "name":"GLITZ",
-            "ico":"https://static.flow.com.ar/images/695/CH_LOGO/350/500/0/0/2499809907104.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa1+8QSDek2iNF4IdebHcbtDG0DisuzeJrZyK0a9njGxwf2WjJT3KV9fZQQ7v6s6kT8A=",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrmgVTWw1mbJ416AB10vJBASAfnrztd+C/SiJcTPIzeot"
-         },
-         {
-            "name":"HOLA TV",
-            "ico":"https://static.flow.com.ar/images/1181/CH_LOGO/350/500/0/0/33795330072670.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa1/alRHehYgDeckzLBu9zzAt1/E1r/7MmK5DpdHulKsSR/Zp8R/KgY1dFEG6gtSFItRrnRKF/2Lx2XsnxPh1q8D7",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrlwrGcp5GEeSxkIDltwIbRa2TO7iLs91DMlvBdTDU+9K"
-         },
-         {
-            "name":"KZO ENTERTAINMENT",
-            "ico":"https://static.flow.com.ar/images/697/CH_LOGO/350/500/0/0/95216322073987.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa19yUQA8ULGjxjKKhN8PcYzKKLOt4+7lob8CWOd5JMZnexBQT7xg0XWrmK4uaCGDqIU=",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrr4CimjlP7fON80y3Z4YxN//JmCkuVZUTrLCemNByJBF"
-         },
-         {
-            "name":"LIFETIME",
-            "ico":"https://static.flow.com.ar/images/692/CH_LOGO/350/500/0/0/20412471072788.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa1+VVz5ANOVns1hqontkgYkP18WtmWSgLkupRGTwWCMYaCbpa+MkYAt+UVTV6mHJvXEkj66UObyDxsznokUmt3hP",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrhspUE8u4u00LmPSDdhezn+pgFv6+VzO3V2EjVjPMpa1"
-         },
-         {
-            "name":"MAS CHIC",
-            "ico":"https://static.flow.com.ar/images/703/CH_LOGO/350/500/0/0/7838548607108.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa1+bjmnmkwryla/ej3RtF7cYRQMdRZxFfPIvQly/1xfDSSJRej0lh2QMWW/HO8VoMvGvY7M07EhL+BjoErZg+kYt",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrgS4PjYrJXRFi16Ion/LMz62J7/tkIXiYNPmRdT75sr+"
-         },
-         {
-            "name":"METRO",
-            "ico":"https://static.flow.com.ar/images/706/CH_LOGO/350/500/0/0/90493668072263.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa18qrJvSdWTQNtrc7TX63FaAed/d6C2QKGzbuSFVbU0zWEq7x2cj2a7Jd65BaMDAVfA=",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrndB9shAcgQKR5Hr8pUwe2kwFa+VJe+wc6mGKZ3RUi/j"
-         },
-         {
-            "name":"ORBE 21",
-            "ico":"https://static.flow.com.ar/images/668/CH_LOGO/350/500/0/0/49041028073437.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa1+Q8EoBqM5cl3wsmB5DHA6HOPJApkZ+9Hx2ThzFijhv5XqSkDsN9WbcMdu78KJFc2LKjLsmhBXoCI54dpn9v09a",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrkkajPxEDiX3GWobtsHM66JawKOXUy62WUufHIZTOz/Y"
-         },
-         {
-            "name":"PASIONES TV",
-            "ico":"https://static.flow.com.ar/images/6619/CH_LOGO/350/500/0/0/93318670071976.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa1+Bmgc8pAV0smRrHtuV6Slbv6IK4pGQUJoEzMA5ezTu+5Y+dusscZrtfO2XNSxoFu9xMcnbbjaPbUd4YtLERkhl",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrt9iilSL8W2RAzJfUynkVe8i6mAKYKeH56EihAsvvgkq"
-         },
-         {
-            "name":"TELEMAX",
-            "ico":"https://static.flow.com.ar/images/723/CH_LOGO/350/500/0/0/7392338407887.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa196ZlI6K9unBX3MTDPMS5SA64pJqZGqftFA2Ze2ViYib9lIonj0eHL6N1qG5HMmnivdSeCmo8h4e5jJSUbGzz1x",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrjn/gY2u2zzAgdOB4RzfA7begyfSrrG7hO44hQkRbShj"
-         },
-         {
-            "name":"TIKTOK CHANNEL",
-            "ico":"https://ivotv.xyz/panel/ico/variedades/tiktok.png",
-            "uri":"I3NNSGv7vnqt+ybkpGH0w13NYhuwrLcGsUcQ7aiHNCpwOu5K0QdelE5v2JCXZFQgwAQstDmMZEpPwDe5iniaCA==",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"TRU TV",
-            "ico":"https://static.flow.com.ar/images/122/CH_LOGO/350/500/0/0/61224231071260.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa19tf7icD3gyrq09sCsiqx8V6UGXWeT4My4Ckmb26HZ2ZofcQ+xWqwKeUKbcE/sGcTU=",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtru6nGBQuCrADgEX/5GQ8GLpWVNx9ymPkoMZXaTNDCa7H"
-         },
-         {
-            "name":"WOBI",
-            "ico":"https://static.flow.com.ar/images/733/CH_LOGO/350/500/0/0/2654526707723.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa19yA2F2ZTlyIDSiYnPkn6jQhieyC60f7ZcS7PaVP7d/sgfygKqu+oZaH3CpsoCkQJM=",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrihELN5XrAvxs9eBeysJ342OeIKwC//sp246SQXPTT1s"
-         },
-         {
-            "name":"CANAL DE LAS ESTRELLAS",
-            "ico":"https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
-            "uri":"C/0K5DLGeQp+oHoP8AjOzwK27zRCqtTdmBo1r5QPa1+Q8EoBqM5cl3wsmB5DHA6Hzdc21bELSrPrcgKMrAPyp9ReFz2PUa21B5LPnuBPcEpwWV84mEm6fA9lff1y4X7DsICA7l7RWzv6WB1oM71s8dFopn2Yn8C5GdKRlYH5qVg=",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"yn4emX56NfmJliK5wRNtrpBG3bQPHjMgk5l/skz0n6gBSflba4Ye/wZ7C2BzQq7Wy9gfMXOrdPgT7LjQsYl9lQ=="
          }
       ]
    },
