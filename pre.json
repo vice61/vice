@@ -1305,12 +1305,12 @@
             "drm_license_url":""
          },
          {
-            "name":"Canal 8 San Juan",
-            "ico":"https://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8-2.png",
-            "uri":"8Wh4iCndgCTAGJlD/dIXggw75bCumDJ/2RI/gX+sDFsoGyfQKrtI8Ck9Ky9mvQPTePdu/Uz14tW3qznLdYllgHAOW3nIEUeGNy1nROrtZho=",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
+    "name": "Canal 8 San Juan",
+    "ico": "https://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8-2.png",
+    "uri": "6LW7zis5BvIvc0JOZhqa97b8Wrl+ML826/Oj+h2L+tAlh2C/zkGb39QpHOswMRz1spHrVM+DbNzt5H2+XaKPs2PNYak1qbLwAY8t7ZYks5o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
          {
             "name":"Canal 13 La Rioja",
             "ico":"https://serbox.com.ar/panel/ico/regionales/rioja.jpeg",
