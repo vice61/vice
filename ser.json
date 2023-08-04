@@ -8,61 +8,61 @@
         "ico":"https://www.themoviedb.org/t/p/w1280/9o3xQzWNcsyji7XMeZpL52XUolg.jpg",
         "temporada":[
           {
-            "name":"1 Cuando yo me vaya de aquí",
-            "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ws4Xop5FdecTHx3yEMFSc9I1fjU.jpg",
-            "uri":"Eg7JWYENAjaCHXiEv/rzUZ9kfQwOoRcH97E3H8CVoe8r01Q5buykiZI5ju12tIAs1mCA4C/7lYLAtb/214So5+ux1DrNkrTWm9X13l0iBiQ=",
-            "drm_scheme":"",
-            "drm_license_url":""
-          },
-          {
-            "name":"2 Una luna en el corazón",
-            "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hobjB2fXjgdBp0A1yYxcw9qPOBd.jpg",
-            "uri":"Eg7JWYENAjaCHXiEv/rzUZ9kfQwOoRcH97E3H8CVoe8r01Q5buykiZI5ju12tIAshKvR6pEc+4KHbGeDuAxvocGdkFGA5uaJV5Ib6VxEivc=",
-            "drm_scheme":"",
-            "drm_license_url":""
-          },
-          {
-            "name":"3 Canción sobre canción",
-            "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1Dlaoo6vfxke89Bmh1ZLnoLuD30.jpg",
-            "uri":"Eg7JWYENAjaCHXiEv/rzUZ9kfQwOoRcH97E3H8CVoe8r01Q5buykiZI5ju12tIAsgLHcbsifYBPb6tB2iHBNuiHmyJsnxlAAAmOHy/KKcnk=",
-            "drm_scheme":"",
-            "drm_license_url":""
-          },
-          {
-            "name":"4 Un cielo y un estado de coma",
-            "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ogdbPT3UbMmvzwfE7CDW2PZPJNv.jpg",
-            "uri":"Eg7JWYENAjaCHXiEv/rzUZ9kfQwOoRcH97E3H8CVoe8r01Q5buykiZI5ju12tIAsBfkGeTDv75o8qvvgqm2W+G7TSbVyx+Hn8Cg3rOWUNjM=",
-            "drm_scheme":"",
-            "drm_license_url":""
-          },
-          {
-            "name":"5 Parte del aire",
-            "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lW1Tkffkb8XJp7K19dpy25niCAA.jpg",
-            "uri":"Eg7JWYENAjaCHXiEv/rzUZ9kfQwOoRcH97E3H8CVoe8r01Q5buykiZI5ju12tIAsM9V9EiuOEnVXB+wQzB+P0Qgdr9lR8FyZdmh6JYnosHU=",
-            "drm_scheme":"",
-            "drm_license_url":""
-          },
-          {
-            "name":"6 En esta puta ciudad",
-            "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tfuegWUyzShb4Bqsg3ic44CJWDS.jpg",
-            "uri":"Eg7JWYENAjaCHXiEv/rzUZ9kfQwOoRcH97E3H8CVoe8r01Q5buykiZI5ju12tIAsO16TDIfIqUbhxJLxCNTtrX/ZfRVvK7eL0gSN1yt718U=",
-            "drm_scheme":"",
-            "drm_license_url":""
-          },
-          {
-            "name":"7 Las sombras que aquí estuvieron",
-            "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lGlSNDgN0gJnpx06p7N0xdG2KqX.jpg",
-            "uri":"Eg7JWYENAjaCHXiEv/rzUZ9kfQwOoRcH97E3H8CVoe8r01Q5buykiZI5ju12tIAsosoy5sK9SWaQCxVW7XTE9fjyk0UvrNBwbXrBgw92DRg=",
-            "drm_scheme":"",
-            "drm_license_url":""
-          },
-          {
-            "name":"8 El amor después del amor",
-            "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pldofuOB1YAFOGS9K3QbKRq31ch.jpg",
-            "uri":"Eg7JWYENAjaCHXiEv/rzUZ9kfQwOoRcH97E3H8CVoe8r01Q5buykiZI5ju12tIAszIH3+rbjQSSQQZOWL4c/eKI/ZEtwjxjluMCf/Jr7AZk=",
-            "drm_scheme":"",
-            "drm_license_url":""
-          }
+    "name": "1 Cuando yo me vaya de aquí",
+    "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ws4Xop5FdecTHx3yEMFSc9I1fjU.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tZbsdUx/VaNJo4qz2WixqXxfL2jBlCgT+TmA9Mo3TfDVL3b/PY0H2ELLXLuvDvfBo79fDrjaHc8Ie4wFyKou+rM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "2 Una luna en el corazón",
+    "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hobjB2fXjgdBp0A1yYxcw9qPOBd.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tZbsdUx/VaNJo4qz2WixqXxfL2jBlCgT+TmA9Mo3TfDVH42VALUlirFwUvs9KekhdXgjCa/ZUqx/koHbEbnIdgE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "3 Canción sobre canción",
+    "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1Dlaoo6vfxke89Bmh1ZLnoLuD30.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tZbsdUx/VaNJo4qz2WixqXxfL2jBlCgT+TmA9Mo3TfDVqt74yB4ZY9ufAowfVF1rQtzdfb2o1WItzsFV5aJwyOk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "4 Un cielo y un estado de coma",
+    "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/ogdbPT3UbMmvzwfE7CDW2PZPJNv.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tZbsdUx/VaNJo4qz2WixqXxfL2jBlCgT+TmA9Mo3TfDVnlbRewTyTaeBhtqV+Q6ETyPx21g5npKsA2Tcxrs8dEU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "5 Parte del aire",
+    "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lW1Tkffkb8XJp7K19dpy25niCAA.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tZbsdUx/VaNJo4qz2WixqXxfL2jBlCgT+TmA9Mo3TfDVkuGZvsgqcn5WP1JRQVMknlkWO/lm4H82mFvlYaHlZxQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "6 En esta puta ciudad",
+    "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tfuegWUyzShb4Bqsg3ic44CJWDS.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tZbsdUx/VaNJo4qz2WixqXxfL2jBlCgT+TmA9Mo3TfDVjNmzDIQBFCkn1VJJeBKMG4XrIVbrk1WddtKnLE9pc+Q=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "7 Las sombras que aquí estuvieron",
+    "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/lGlSNDgN0gJnpx06p7N0xdG2KqX.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tZbsdUx/VaNJo4qz2WixqXxfL2jBlCgT+TmA9Mo3TfDV1dfYNP4Xc51Sl42lDp32RAYkgOm3NjqslkBKQKe/2m8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "8 El amor después del amor",
+    "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pldofuOB1YAFOGS9K3QbKRq31ch.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tZbsdUx/VaNJo4qz2WixqXxfL2jBlCgT+TmA9Mo3TfDVG5wNzuCIes+tb8SWYGSuzmlOfGmPnLc+137oKzCh33k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
         ]
       }
     ]
