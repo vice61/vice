@@ -4,6 +4,125 @@
       "mode":true,
       "lista":[
          {
+    "name": "Hellraiser",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/u4ikorO4E3PouLRRwGaRuhFvsl3.jpg",
+    "uri": "XPHU6h1baR7v2AiP26bZ4GYhdn4SEvSWhP6RU61FjTiM1unGiLykps2Wgf+OQ7BIWgKgJtagey3d+a1vJfWl/0i3g6+MaoL/fmKBO28VwzY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Noche sin paz",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hqBeKurpfqoV5msTH5XttGLwFUv.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3VbeKp/SZNhorEfNTs/9OeqT2brmf3yrel93pw8FF67DfhBxo2NtpJZhZP78wUNos4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NO ESTARAS SOLA",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/moBrEYoOxLRc1LsFl8IXeilYwtq.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3VLpG7I22DivJgQd1fLK/c2mPd/XKev6KUnTk3ZX4gLaNbtQt0FmWn7Kp85JPiWnnA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Matrimilla",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w300/Akrpgc25QorDhlSAfntjL65Mp6M.jpg",
+    "uri": "y7lNL4BYwwW0vT5vpBowqjSb/SF57GZmiET1lBI8CiJxcy4IC/qXGfgMsPssaAUxoEMrYP3BloWyfcXxTvGtfjt6IaRSjqLl4EfvUZyM51cFmzcVJb+EgOp4Ldf9REFV",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La guerra del mañana",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/7/w1280/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UEFiD1/IWgCgYe1SMCNytD/2+ouErlXoMAYUv/pkVU+2Unf87loh862w9ON7y+LDM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Tren Bala",
+    "ico": "http://tuvideo.tv/poster/w200/7189301664320807i.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UskFFLP3u8rrXGxZOzHGjX6DeY5PyzXVUZnpN6zkaR3dUEjZHKn1h1NoF/0/1GGxk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Noche en el museo: El regreso de Kahmunrah",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/j9NcPdkrBY0aFOKpTtjDQJdvT4c.jpg",
+    "uri": "riFHrxXokS8VJM/oYuhTnFdvKQbyhWaEXmTIXUuEVMKItxaZlExL6STG3GFt/RKIqBqu8VKo3fRE9I49b72SaC2G4dLpAVXIEk2euUvArtA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Emancipación: Hacia la libertad",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/12/w1280/s9sUK1vAaOcxJfKzNTszrNkPhkH.jpg",
+    "uri": "YZpyXPOnu2eirHK9N22UccEmKHRM+HFML3vmC1X9HXCQUF6ZznX1dtcygIb9A4aDXdPsmk3y8AeRm8SvwRQxg0K6Av6sJl4Dgvsr4xLsBOo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Pinocho de Guillermo del Toro",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg",
+    "uri": "ds1/Qx+faVLHvO6k064eNnBXjxEXU+hWW8IFwSPt+fnnLv693cuc1NANkY0afZnl6ffCc93o6DDIDulqFkWsNxoWQCsdb5wbHDrjqjZCVOc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La maldicion del hombre lobo",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/qDukjmqZsgyLN7UKsaGoO69Txcq.jpg",
+    "uri": "0cAmEAysxRGbzG6G8rqVZ+VOQOrlp0wLosl4x0+7Eww+nJmF9iTbS5m8Nvx36vyhAG7bD99iLkD32eoY4SqCuMHXo6XTRRen7rM5yaWiilk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Diorama",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/gOXTTRXjSo2Lk9LO6oxLL6lMP7U.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UGZC2IdsvAIRCW3t6qCivhO/61O3wX73krFa8e4GPEiA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Desencantada",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w300/jUtlgyDFzEVP9EQaveQwpvE61ly.jpg",
+    "uri": "r3b1Cr5pU9JxgE2JuA9Nvqv5hOmArukYJMFIZm0LgaYrKKG8AadaiBVjMRSfRs2X2DtfCjrk5KXmYtkPkaYCthS/4VnqEZKPD83p4B6YjVM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Robo entre ladrones",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/l76aJTcLlx8pUiqQd2CIadiEfpj.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3WH8vapgSMwHhrzHVzh0pCs4VAgS38+JuA6N7/ukfKIwg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La mujer Rey",
+    "ico": "http://tuvideo.tv/poster/w200/7244951669164641i.jpg",
+    "uri": "YXYCk/59jfFJVUb3HIN06vCIQpbFt/DHko1BJkBY8x5pvwrNAqwUh5IOEpCLp/YwDn6NUDjvXfQFGq/26RtxdXVJJP/tOfo5Hu/aKfcmzTE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The TWin",
+    "ico": "http://tuvideo.tv/poster/w200/4774621668909552i.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemcV2RvXfjWlzfDoNySdm5Rey/aPc1cvsKduONH17jckQAk3ASELw0w+OynLns/4OX8w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Palmer",
+    "ico": "http://tuvideo.tv/poster/w200/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemca8FK/2Kt6APc2CZ/fRW++9bSGvmjliS9hNghzG9H0fLpUGP+siM2PZj4Y5NyPmeIA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Lobo el y el Leon",
+    "ico": "http://tuvideo.tv/poster/w200/7803821668825004i.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemcaIOfdBr2gemHRQrwPZkv2Mu5rUdpRnueRJa+oAsoi4BKm9E8LVgVQYur/X2TocSEw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+         {
             "name":"A través del mar (2023)",
             "ico":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ykS1waU5GsEjPbiNnsHG2bl9QvS.jpg",
             "uri":"t5xlM/CvkSMnDv2RB/lgRQhXK47RnLmBQqd2tFWAWJwlitJOl7IyLSmyd1AadQf+KydhVosdVfYt+ybbhLIim2kPvdj16hYj1qNyx/rPxJA=",
