@@ -4,6 +4,96 @@
       "mode":true,
       "lista":[
          {
+            "name":"La casa de papel: Corea (2022)",
+            "ico":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9c9aT9WDEG0UhNlL7yWP9yM7qiT.jpg",
+            "temporada":[
+               {
+                  "name": "Capitulo 1",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "IQpFhZJnfaHVNdHb7gJQPyKQxxrlxhkaz+fRbFJt20l69g+5QlQk9FEHV0K1lkdHRLY/jfovchs4FWFJ+R/YmoYzV/yRrMjdU7a+yDoPs066bR7bHEvvzQy1HRU+irou0TgqALbmYviZBLEw9tf+KCHAXqDwXc6YHrqWhvt1HzM=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 2",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "oAbanwLo+2PJjGsNUksIcCwQsj4FCLkABPGbXbbdbVjLsIm2Y6bHITTE5R4iAyI7yFAaimYmPWc3Tkqyi6t94n/oXm9U5HJJPSFBv+JulHncHGHXh8nOtXja9vL2NUcyGwg1mB7jJvVfNc8n6/dpgtSdh4VuoXBl67JIabFahqE=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 3",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "oAbanwLo+2PJjGsNUksIcCwQsj4FCLkABPGbXbbdbVjLsIm2Y6bHITTE5R4iAyI7i4ip4NzFi8713PDy9dExYdKOikHvPy7PdsH2kpqHUb4l/ei67y8p/JHZA7MbMOcHznDJ7Ep+QUxRhYjAJQXtPoekLwLb3JzzmL/gnAAPus0=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 4",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "Zh7UFtzk2gMkXdf6hZ6/26iWRFdBKneHIKB+cjkSknecjMwBZNrR/D0U+xG1PbRjIQMIQLm8+DWJ/H3kECJncuAP6ir7oA+p0cCo0FRYx8uAXLuwOxOrIVGgSdnzeiBOyKMqGHT2MnugDxruetp5yUsIiTN4tzSdckkRgTU6+o8=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 5",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "Zh7UFtzk2gMkXdf6hZ6/26iWRFdBKneHIKB+cjkSknecjMwBZNrR/D0U+xG1PbRjtAZVnOI2NaBdkXfq8KGwQMde/QG0ZzWUEIho8p234ZR0h30Z6pRmDDxG+POL3HgWTSLt2FMcxKrunll2eVgFw274XGusMZGQeOQxu5m3uwg=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 6",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "oAbanwLo+2PJjGsNUksIcCwQsj4FCLkABPGbXbbdbVjLsIm2Y6bHITTE5R4iAyI7XHpXb1hm5ZahjUS7OhMf7cnJCpdRHdurRhXG3+fe5y8svj4q4X/wx0cGOBjv0J32+jiC0IiCl0WqK937MN6nCipeyqEm585ksZh2vqiUEJ8=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 7",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "oAbanwLo+2PJjGsNUksIcCwQsj4FCLkABPGbXbbdbVjLsIm2Y6bHITTE5R4iAyI70IvqhICpLjVx13pecK56zaLWgqSSi4y8B/HqTyhgZgw4vLU9v6Wc08xKY5ON4DEiosQsy03tR/Bk19HLAK+KzOzMMWrxTRIPh3Y1MR2rMZU=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 8",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "oAbanwLo+2PJjGsNUksIcCwQsj4FCLkABPGbXbbdbVjLsIm2Y6bHITTE5R4iAyI7RG9izMzlexhfhqDmrSbt2hGdGz0yNz689mpZFzakEagt0ZHVByFfUS9hfZZ3/9IBEfiVMPP18vetf337q6Oc9Q+CAc1xnXxrv2AL4ELfC9g=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 9",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "IQpFhZJnfaHVNdHb7gJQPyKQxxrlxhkaz+fRbFJt20l69g+5QlQk9FEHV0K1lkdHa1qPluTExkGh+hKsH0CqlEmE7K2Cd2j29Gr/w2mnMn/DHKeCfCHuIwzKV/XMW6WV8+Q+XQHzJvQTRR2bkmX7ucGBqc3eq6OoLL3KrodRTs4=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 10",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "oAbanwLo+2PJjGsNUksIcCwQsj4FCLkABPGbXbbdbVjLsIm2Y6bHITTE5R4iAyI7D7cRlX0YO7zDtV9Wj4z5mB1LDDxKMN6r4SRQ28vo5bhxqae6Z9JMXRwPjYFKXHSV7ZronFnbinyw3fKLzxspM12XUQB/k/134YbYMuvak78=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 11",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "oAbanwLo+2PJjGsNUksIcCwQsj4FCLkABPGbXbbdbVjLsIm2Y6bHITTE5R4iAyI7B0EbD1aTD8/2jX1I5VBS+IQ9ojcdxYFZgAyB/lRi4sHlz25GJnWNnwZtFHGmHGOut0OF64NkqQTkJMnqDeegt/YTV3mRCYhsaKr3VwSI8E4=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 12",
+                  "ico": "https://www.themoviedb.org/t/p/w500_and_h282_face/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+                  "uri": "IQpFhZJnfaHVNdHb7gJQPyKQxxrlxhkaz+fRbFJt20l69g+5QlQk9FEHV0K1lkdH37VAQ9gc1B5TzIdGLHmmYA/QAxf5si7clKgIvQig+SZ9i5sDz7aI8oA32NcIaWVK86cr6et+qhDqDbCfFvXmAhgkI8aOYav9AoOt1zEPato=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                }
+            ]
+         },
+         {
             "name":"EL AMOR DESPUES DEL AMOR (2023) TEMP1",
             "ico":"https://www.themoviedb.org/t/p/w1280/9o3xQzWNcsyji7XMeZpL52XUolg.jpg",
             "temporada":[
