@@ -1448,61 +1448,61 @@
             "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
             "temporada":[
                {
-                  "name":"Barrabrava 1x1",
-                  "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
-                  "uri":"EDxi6APDpNjvMTi7aVOzKTWQZF2k1ESv7f1+HYHYw9szwbUoyVCshJynC7YnAC0HNqlnroDAVbHMGpb5KYw5aWwX+SBhC0Q/LxwMlZTy7q0=",
-                  "drm_scheme":"",
-                  "drm_license_url":""
-               },
-               {
-                  "name":"Barrabrava 1x2",
-                  "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
-                  "uri":"Eb0p2NmQzcKK5Q8SJjFpF/r9uBFsa6XVXVlX4oZUNk3rXOjUc80ZdZwkBd6HLalq6ZHfp+0d958sVbeelfHSFirXxRAZJ44kNsDEaHAoqrg=",
-                  "drm_scheme":"",
-                  "drm_license_url":""
-               },
-               {
-                  "name":"Barrabrava 1x3",
-                  "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
-                  "uri":"gM/R2zxRs/GRLeM2pocLIdpGCzKa9saEx0VbMUinObIFnVHhNmGg9twz6I+H/hig7BwEIszfuOC8nIv7BY7j6Jfm+XkgI4hv2N0XcJFTH+s=",
-                  "drm_scheme":"",
-                  "drm_license_url":""
-               },
-               {
-                  "name":"Barrabrava 1x4",
-                  "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
-                  "uri":"E2iAryBszlE5yLu3s8+C5dqYz7Fo3nBtI4eaWcXHFSv6wXTUkcG41Ggmkyv7/vnUbwG1nD2anIh2gRGgzyrJoOg5oHuSGHFG8b5QFTAAMg8=",
-                  "drm_scheme":"",
-                  "drm_license_url":""
-               },
-               {
-                  "name":"Barrabrava 1x5",
-                  "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
-                  "uri":"J/NFAu25oEPETTjIA7oqqpmBww1+kEkbKHAXhlJJ55UzgGNCMItw909GiVupAjd4HiP/bZqe8BjHLaTOalM/IhPkePaiFchF6p46hOGqUm0=",
-                  "drm_scheme":"",
-                  "drm_license_url":""
-               },
-               {
-                  "name":"Barrabrava 1x6",
-                  "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
-                  "uri":"LsWAaFGHO7OECjKZiRyTHT+1O3wnDLTijQXUpiy4tSiohNg7VrxIMsN5ZFv6oBttAIAQniw7byx0REhOkXmqNhgJo6sWRudQzlbrkevDnRI=",
-                  "drm_scheme":"",
-                  "drm_license_url":""
-               },
-               {
-                  "name":"Barrabrava 1x7",
-                  "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
-                  "uri":"xBNLtJTVvE64u77Q38fc2g+vbSZZ0XyW+MJZpr0wgqi6WQSH4gjgIvNgG5DThNx7OAw9N6Y2JBqMtdIK7JoiBgibL7FCj5gfe4SfjOoPoCE=",
-                  "drm_scheme":"",
-                  "drm_license_url":""
-               },
-               {
-                  "name":"Barrabrava 1x8",
-                  "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
-                  "uri":"6RKII1Ff3bdENM7nqEmcSFddDsAcnkkk7afKJT7gVd5myJ9f6fN9PqHf7DZ69X4oSJ4jxeeNMBya6mDxdFeKNJpVp8mWCcVzH86V870Nd+I=",
-                  "drm_scheme":"",
-                  "drm_license_url":""
-               }
+    "name": "Barrabrava 1x1",
+    "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+WkxWkv/ymoKKELWhqoDG0KlZu+V8EvqkqkJksAl2sahg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barrabrava 1x2",
+    "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1oTMET5heiDsQu2ORapiOF5V5to83Wa+q4WBOO7+SboLw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barrabrava 1x3",
+    "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+Ux9LaolKAXe6aLfh2elWbfcbOI0Kos+LKBdgH4e0WSXg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barrabrava 1x4",
+    "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1qL8iyA0Q2U9uIUfz0wH1A8tkPU2t9T0WVSfhpQlCCSSQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barrabrava 1x5",
+    "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+XG1GAn22NSL471LBnOZ3keS4xiiVAhhdNf1bwF/sSqrw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barrabrava 1x6",
+    "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1qJIwZ50myXMo7mTm9MoEDp/FEbkaKfKklvXMNU6UbYog==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barrabrava 1x7",
+    "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+VK4moUqvT2c7y2a0X/BvxoxD8BZQUr33sKcdEawawkag==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barrabrava 1x8",
+    "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+    "uri": "wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1oLwiVFxnoccfbbQyb1Xn87L1dJ5ATnfBJyq5M7ipPluA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
             ]
          },
          {
