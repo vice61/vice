@@ -4,6 +4,222 @@
       "mode":true,
       "lista":[
          {
+            "name":"La Leyenda de Bruce Lee",
+            "ico":"https://www.selecta-vision.com/wp-content/uploads/bruce-lee-el-hombre-y-la-leyenda-3.jpg",
+            "temporada":[
+               {
+                  "name": "CAPITULO 1",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EIbd09I8dk26yNUI1O9nBEL",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 2",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EKTl6npyid4/6OsCw0oAwB/",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 3",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EI5zvfyw8TTNS0xqMc8OAT8",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 4",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EI4Jpw4lcjkeaJKRuXWDKdX",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 5",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EIHEudZl9ez9Ap4KSsYhAiR",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 6",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EJng6xdHX1o2n46dJWrWt2u",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 7",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "Zh7UFtzk2gMkXdf6hZ6/26iWRFdBKneHIKB+cjkSknecjMwBZNrR/D0U+xG1PbRj6+NDeAGm3u7Dk4+JJcp/k/AqSXvd+a9mYv/Xys9F5aWmssz+OAj4obyW4WAnyrij5heZtrWHDNAF8F/Glmxylsm9/81F0oypFA0G3Nt2whE=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 8",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5ELK1mmBt9M3/hEfhZ0yB4at",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 9",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EIkQv7p5j8nl0QvlSL9SExQ",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 10",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EKkgDiZ8D4MWyUYRbazIH8g",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 11",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EKdXXdBRdnc878opTJ0tb2T",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 12",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EL8WVX95xFmKvoB4tT6LuKa",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 13",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EKT+wEGfW/ZJVHwXxfZXzjq",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 14",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EI7rYxATR7DEEINrhAhE6Pb",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 15",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EIrQkZEMuloOt0kZ04seXkL",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 16",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EItABM/OSU3E2nfy0oaZfdr",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 17",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EKW+UXPE+V71ddv6+580nJV",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 18",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "oAbanwLo+2PJjGsNUksIcCwQsj4FCLkABPGbXbbdbVjLsIm2Y6bHITTE5R4iAyI7ixXrAv8FGXR6yC8VVKVpgOEWK+9xCXDKCuhHWf21hKEE2eN94ZPM7/ULWu7I2VnOyw24N8NX7Ipv0I48w4HQxKsrOOCKfLMvgUypCAZsm9Q=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 19",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EJAGOfToS72ubT9hc4CuNOr",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 20",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5ELdMAfPsgeNPP2qbO53QB73",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 21",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EIBIT53eVYCKkTMdaAJoyTi",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 22",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EI76l8Wx2y2+8MomB+dKleE",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 23",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5ELekGgUEG8BFzi4CAc+glYR",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 24",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EJ06tK9FafHC+maJWqOqKCx",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 25",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "Zh7UFtzk2gMkXdf6hZ6/26iWRFdBKneHIKB+cjkSknecjMwBZNrR/D0U+xG1PbRj445skokmHMAKbOtdJB+ue+qXnJtOHiynygPI9sbOnkSmUVhGS1J38J/eGBkksePDzRm/wb49jITFTTYGMhqkDXq/hAspS896V9fgRHegLxA=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 26",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5ELcxHe7OYGesI60exPCbns2",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 27",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EIyZf79RR87dU1+xmEQXUWk",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 28",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "YP7y0cD5XeOAHuAHidYQ3iVVA3+dN1nVRNBhyQ1f5EKJVO+AuEL7P31pk4Zm+2qB",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 29",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "IQpFhZJnfaHVNdHb7gJQPyKQxxrlxhkaz+fRbFJt20l69g+5QlQk9FEHV0K1lkdHCPwnexV5+8I4xuv/1J5LI9KGiYnwlg9P7GSVMqdToHQAb1Rgr7ycsNFerzcplH8QJatj0X2jNcsB7M6/hmFiTevzGak/++Rv0Y8paoFA+J4=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                },
+                {
+                  "name": "CAPITULO 30",
+                  "ico": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9UzMXTAfnLt8vufgcZIRdRbdF7g.jpg",
+                  "uri": "IQpFhZJnfaHVNdHb7gJQPyKQxxrlxhkaz+fRbFJt20l69g+5QlQk9FEHV0K1lkdHZfE9cXc3cnsr0HWC7ImfYtGQ/8/onBVyjE6i3o/3vT1KaL0Av824nr+K0ae1hGI66apKXnHSul562Zrkd+TM0gekd8gRD5tH5TagHH12w4s=",
+                  "drm_scheme": "",
+                  "drm_license_url": ""
+                }
+            ]
+         },
+         {
             "name":"La casa de papel: Corea (2022)",
             "ico":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9c9aT9WDEG0UhNlL7yWP9yM7qiT.jpg",
             "temporada":[
