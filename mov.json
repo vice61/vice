@@ -4,6 +4,13 @@
       "mode":true,
       "lista":[
          {
+    "name": "Barbie (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tXp8ddnfIB0d/LXeRbOKL1LB9o7B1UoTIp40l3ULTQ0KOIA1PEywUGTgNZ7KzBB6rg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+         {
     "name": "Hellraiser",
     "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/9/w1280/u4ikorO4E3PouLRRwGaRuhFvsl3.jpg",
     "uri": "XPHU6h1baR7v2AiP26bZ4GYhdn4SEvSWhP6RU61FjTiM1unGiLykps2Wgf+OQ7BIWgKgJtagey3d+a1vJfWl/0i3g6+MaoL/fmKBO28VwzY=",
@@ -135,6 +142,13 @@
       "name":"ESTRENOS",
       "mode":true,
       "lista":[
+         {
+    "name": "Barbie (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+    "uri": "yCm98BfedwjqHB41xev/tXp8ddnfIB0d/LXeRbOKL1LB9o7B1UoTIp40l3ULTQ0KOIA1PEywUGTgNZ7KzBB6rg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
          {
             "name":"Transformers: El despertar de las bestias (2023)",
             "ico":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg",
