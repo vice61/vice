@@ -2927,9 +2927,85 @@
       ]
    },
    {
-      "name":"COMEDIA",
+      "name":"COMEDIA/DRAMA",
       "mode":true,
       "lista":[
+         {
+            "name":"LA GRANDE T1",
+            "ico":"https://www.themoviedb.org/t/p/original/AlTkcgEmw25OFYyrBbjEbez5kk1.jpg",
+            "temporada":[
+               {
+                  "name":"CAPITULO 1",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/hUxU8akbM1hacG9bp35VWWvtk1J.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZCVBjHTweB4rfoDcY39NxRcw==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               },
+               {
+                  "name":"CAPITULO 2",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1jkWbcAnRWiYS2jt0MJMfWUSjit.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZCjCJOix5WDI8mBbxCxH17Pw==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               },
+               {
+                  "name":"CAPITULO 3",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/dDlflyx1Ue1c32K4yiKuaaWwWf7.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZCYUnsD1Ly8MbFGKNR+LOCQg==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               },
+               {
+                  "name":"CAPITULO 4",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jdYGEwW3AUqxKOdE6ujoJZpwI5J.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZCnCGHPdB9rCybqnfCeL3v9w==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               },
+               {
+                  "name":"CAPITULO 5",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jtnd4TUFbPoypVL8w4vp23TVb2j.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZC9ca0+8jeoPrInkTd4DudPQ==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               },
+               {
+                  "name":"CAPITULO 6",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/od5lGoz2OgrPDlLbdXh11iFsEQK.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZCuLSbED5Mi59Prgqsq4Z+Ng==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               },
+               {
+                  "name":"CAPITULO 7",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vcMDKxlBsCuCwmwZwmD1Kmzw0uJ.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZCWK106NBsV6jTgn7rY7ypww==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               },
+               {
+                  "name":"CAPITULO 8",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/acOMNRIMCvklJIOEkhVYw4aMYrs.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZCQUgFh/A2h76jDzuoX1ecrQ==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               },
+               {
+                  "name":"CAPITULO 9",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/z6qPLeEVNLh8Ijl6Mt3IjNm8iL4.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZC5cXD0Sw/OMpIVpgQypGDzg==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               },
+               {
+                  "name":"CAPITULO 10",
+                  "ico":"https://www.themoviedb.org/t/p/w227_and_h127_bestv2/j1FR0KwyfKK1d5tY3EbL210EVMR.jpg",
+                  "uri":"YP7y0cD5XeOAHuAHidYQ3rvCc2smOkKqlskZXXaHTblKHjCCWg+tu7jkJElqhIZCUFO50QhOjYcOeQsTStZabA==",
+                  "drm_scheme":"",
+                  "drm_license_url":""
+               }
+            ]
+         },
          {
             "name":"EL ENCARGADO TEMP1",
             "ico":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
