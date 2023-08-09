@@ -220,12 +220,12 @@
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa8v6s96E0our+orTQUWDnA"
          },
          {
-            "name":"FOX SPORTS HD",
-            "ico":"https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
-            "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKrMWz9+YYGWSo7y/3Qq20nerers3YKdzfrnP1oGquPQ5jNYC4jvl6luGShNOqtwhrXkiMnQ/AB8P9flrapIVy",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaHZv2d2yaX3q8HymDlgAkb"
-         },
+    "name": "FOX SPORTS HD",
+    "ico": "https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
+    "uri": "NiYN2I0dDE3GejP8ILSsYsb6H51reF4jtgPRj68PlkTIhusYROoIk3K5WqPmTMbSZIkVEQ/9zLzu44PtJ3jJRGo7ekKACDC3EnvqRY4YOdU=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaHZv2d2yaX3q8HymDlgAkb"
+  },
          {
             "name":"FOX SPORTS 2 HD",
             "ico":"https://www.foromedios.com/uploads/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png",
