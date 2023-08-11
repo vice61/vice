@@ -32,12 +32,12 @@
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZNHiSo/8Vf4uIUqrMWIRiP"
          },
          {
-            "name":"EL TRECE",
-            "ico":"https://sfntv.co/webp/logos/optimized/eltrece.webp",
-            "uri":"3Q2WNXw/9yFtxHzZ9KGtMvbzPBUYPztzFm2X9XU5dQGhrJlM3nF3I0p7HBaVx3q81tzA5BvlpGbxxVaqkyWycL1Z9M9uw/gh0gL9iUVY7DsZb6qh3HeAycZFpY2xfCWw",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa8a+8jrU+cQFF9RTBoK/ia"
-         },
+    "name": "TELEFE",
+    "ico": "https://sfntv.co/webp/logos/optimized/telefe.webp",
+    "uri": "WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmBsWeA8d/NY+/YfD2RvO1Az8sgS6glbsc5jAyJN3Ho0aA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUbVI//JfdBlLWgCXWgYE9aa"
+  },
          {
             "name":"TELEFE",
             "ico":"https://sfntv.co/webp/logos/optimized/telefe.webp",
