@@ -228,9 +228,9 @@
   },
          {
     "name": "FOX SPORTS AR",
-    "ico": "https://sfntv.co/webp/logos/optimized/telefe.webp",
+    "ico": "https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
     "uri": "FDX2OJ/kORRyu9IXYAbVq7B6WmSim08iAhSE5bQZR04AwLhDfk/jrRvBzefIOuoquVpA/EqLebzy4ojAhzTbOmDQVBQ+2daHug/o44O6yGvCBbh+xRRdm0mBfDBeauT9",
-    "drm_scheme": "clearkey",
+    "drm_scheme": "playready",
     "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa3qzXSGM7bnk2E7cnkDhyfBxPbyA9w6SOwQYAKJk8t9w=="
   },
          {
