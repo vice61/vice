@@ -401,7 +401,14 @@
             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmDdpEjOHiS5ikINuNeOSjy/wiabSRPhAg/6ptKW3hCvpg==",
             "drm_scheme":"clearkey",
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYqrSSr1KvZoS8y3pm86bU0awflk1RguJHFxkusNa9Kvw=="
-         }
+         },
+         {
+    "name": "FOX SPORTS HD test",
+    "ico": "https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
+    "uri": "NiYN2I0dDE3GejP8ILSsYsb6H51reF4jtgPRj68PlkTkXMlxSOZ/e1mIRU/qKrjzio6W0PndeZY/ftkM3h9APg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaHZv2d2yaX3q8HymDlgAkb"
+  }
       ]
    },
    {
