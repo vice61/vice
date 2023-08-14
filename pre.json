@@ -3,13 +3,7 @@
       "name":"NOTICIAS",
       "mode":false,
       "lista":[
-         {
-            "name":"GH",
-            "ico":"https://th.bing.com/th/id/OIP.GBvtOra7zVfDwE9CV-DqmAAAAA?pid=ImgDet&rs=1",
-            "uri":"SjzWN7sPQq4KfCfBRKxZ+JNrK8pIJYWCXXnPzBmUKuSx1Gp34a5b0ugL2jl2w6zsVwxddhHE/NjCddv2T039mZZUseYgo2fsLS1zdPeEgjxPEeY4c3Pmb1pQqBXRgs10RwnrRNWlpILvMdeoV2aVt3imdPxW4e2d4BYSwPHJtx5F/5eYTcpsI6vO+To6DsxqJ4JX0GK2UMPqvBmrAAuAizKGeIFIC4Rtbli95xtgNgCqwSEe7B22wzE7DuhaRcGvwNcI9MgKLUkwtHTPy2v2GWFppz/DYOcZQmPoqvvUgUlu7pxdZTCkJJZQoyQSc6ZvmeBWCM5UeWWZK9sNJEmcykuRLMt8QXoVGyMJtGvWFqg9yyAsx5VcRCnh4NqSSWRuvgJ26VeWBdRSlg2jnXn7SG1ADxFB+1Rcyg0gLb+LI5tp8g4c6BuE+RvEvUNdurjDdV0MD2xyb1N72ElV8JPxwjBGQRjfrmcfGAsz/EKaFU3BLP+P4FpX8DtxCUAgDx39O2yi/p3qBnjpaNZqVEPsTz3zWoFohF87uBD6OCBFGmfapIddZxfxO69sXjopRVV9L8DRdVn6ankimmgcVJjnCg==",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
+         
          {
             "name":"AMERICA TV",
             "ico":"https://sfntv.co/webp/logos/optimized/america.webp",
