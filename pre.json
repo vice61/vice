@@ -136,34 +136,7 @@
       "name":"DEPORTES",
       "mode":false,
       "lista":[
-         {
-    "name": "EVENTO 1",
-    "ico": "https://i.imgur.com/WeWQeY1.png",
-    "uri": "0qav/gQTwskTCHmOOHCXsW+rBqDU99aRPdvP0kCmlqVwu7jTZGGFraQZ83aEJBaqDRiIUwlw2H4/G8qK4wMP5MUpmdOQ3lXBFd8R6VKYw0U=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-         {
-    "name": "EVENTO 2",
-    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
-    "uri": "NItAqhOVxgFLaSrJ07T/f0+2aXtd9wLHosP/xfpXVr9xzyNH3d6DtfX4PpJHLjtZsmLJuxvvOwhlJps0kXc1wswnV6562Ed2qCQ5/q0gdH5pnn+NSyiCcB0aOvOE/TXP5rrpqokK/HHyLEVoKCuiEXR5n3L3+SxmaFEWY4xs01x19yIXX648XjhOcnZIaYPDYI61gP6eVTm4n4YvvXfuVg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-         {
-    "name": "EVENTO 3",
-    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
-    "uri": "0qav/gQTwskTCHmOOHCXsW+rBqDU99aRPdvP0kCmlqUHeuI77/pCeueyBCuhEXRGJoQCXjgRYw9Rio6k7xc30p/hRndeeQDPXP+0+JnQ7zc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EVENTO 4",
-    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
-    "uri": "LS1xPgR8M7/8p2Qd3hxhL5JS+jbs59VWvGsoHOUT2Cc/W0SEi3uSpuNr/W+lay7B",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+         
          {
     "name": "TNT SPORTS",
     "ico": "https://1.bp.blogspot.com/-jaO9LCxzt7U/YCaUqxTT9aI/AAAAAAAA8KU/h-oEs3iE8Ss8XsD5Pnz18pThBX2qSGysgCLcBGAsYHQ/s587/TNTSPORTS-2021.png",
@@ -283,6 +256,34 @@
     "uri": "YdC9nXBG/QFX3h6AHuMGa70xZYXg7pn2iWEGmCuui551sHTbEEFj3UxLdqraRzk1kp0Pcs5liOno0rmshGGdvA==",
     "drm_scheme": "clearkey",
     "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa4IGLlvJVk+ctRdPgPIdLwOFoZWmZRu/H4R75maYPmqg=="
+  },
+{
+    "name": "EVENTO 1",
+    "ico": "https://i.imgur.com/WeWQeY1.png",
+    "uri": "0qav/gQTwskTCHmOOHCXsW+rBqDU99aRPdvP0kCmlqVwu7jTZGGFraQZ83aEJBaqDRiIUwlw2H4/G8qK4wMP5MUpmdOQ3lXBFd8R6VKYw0U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+         {
+    "name": "EVENTO 2",
+    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
+    "uri": "NItAqhOVxgFLaSrJ07T/f0+2aXtd9wLHosP/xfpXVr9xzyNH3d6DtfX4PpJHLjtZsmLJuxvvOwhlJps0kXc1wswnV6562Ed2qCQ5/q0gdH5pnn+NSyiCcB0aOvOE/TXP5rrpqokK/HHyLEVoKCuiEXR5n3L3+SxmaFEWY4xs01x19yIXX648XjhOcnZIaYPDYI61gP6eVTm4n4YvvXfuVg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+         {
+    "name": "EVENTO 3",
+    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
+    "uri": "0qav/gQTwskTCHmOOHCXsW+rBqDU99aRPdvP0kCmlqUHeuI77/pCeueyBCuhEXRGJoQCXjgRYw9Rio6k7xc30p/hRndeeQDPXP+0+JnQ7zc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EVENTO 4",
+    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
+    "uri": "LS1xPgR8M7/8p2Qd3hxhL5JS+jbs59VWvGsoHOUT2Cc/W0SEi3uSpuNr/W+lay7B",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "DSPORTS RADIO",
