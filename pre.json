@@ -135,13 +135,7 @@
       "name":"DEPORTES",
       "mode":false,
       "lista":[
-         {
-    "name": "FOX SPORTS test",
-    "ico": "https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
-    "uri": "Fas0XjzK4SQ/FnhSfWsb1kV5HR3KPNeeREm13p4qC5XcrGTUqAMwFvCCEVasq/yc",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+         
          {
             "name":"TNT SPORTS",
             "ico":"https://1.bp.blogspot.com/-jaO9LCxzt7U/YCaUqxTT9aI/AAAAAAAA8KU/h-oEs3iE8Ss8XsD5Pnz18pThBX2qSGysgCLcBGAsYHQ/s587/TNTSPORTS-2021.png",
