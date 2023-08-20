@@ -263,12 +263,12 @@
             "drm_license_url":""
          },
          {
-            "name":"EVENTO 2",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"NItAqhOVxgFLaSrJ07T/f0+2aXtd9wLHosP/xfpXVr9xzyNH3d6DtfX4PpJHLjtZsmLJuxvvOwhlJps0kXc1wswnV6562Ed2qCQ5/q0gdH5pnn+NSyiCcB0aOvOE/TXP5rrpqokK/HHyLEVoKCuiEXR5n3L3+SxmaFEWY4xs01x19yIXX648XjhOcnZIaYPDYI61gP6eVTm4n4YvvXfuVg==",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
+    "name": "EVENTO 2",
+    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
+    "uri": "u4KpTTAUJN1KFsRnr27s0KxeFGcpCFLpnVIXxs4ocT1vHJTO5TjpsTmmO+kKdV/s56rSoXp7z3YXwsOxuq8lik3uTPCxqAUOPMLcSUTGvJramZYqvclAz/GZqTYTqI1+",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYn0grUFpZz981Pd7kMW7ak"
+  },
          {
             "name":"EVENTO 3",
             "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
