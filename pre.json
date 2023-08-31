@@ -2094,13 +2094,7 @@
             "drm_scheme":"",
             "drm_license_url":""
          },
-         {
-            "name":"Animanias",
-            "ico":"https://static.wikia.nocookie.net/doblaje/images/c/ce/Animaniacs-2020.jpg/revision/latest?cb=20221120235645&path-prefix=es",
-            "uri":"8Wh4iCndgCTAGJlD/dIXggw75bCumDJ/2RI/gX+sDFsoGyfQKrtI8Ck9Ky9mvQPTePdu/Uz14tW3qznLdYllgC127mo1ccT4QU3krQkdyoo=",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
+         
          {
             "name":"Chespirito",
             "ico":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png",
@@ -2108,13 +2102,7 @@
             "drm_scheme":"",
             "drm_license_url":""
          },
-         {
-            "name":"Pepa pig",
-            "ico":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOz4cfn10lHl1NYrH3FOXoGZiYahG9RxsWDKdwqI1T&s",
-            "uri":"8Wh4iCndgCTAGJlD/dIXggw75bCumDJ/2RI/gX+sDFsoGyfQKrtI8Ck9Ky9mvQPTePdu/Uz14tW3qznLdYllgM8ne3FGwJIbPiORTeGQnpQ=",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
+         
          {
             "name":"Tom y Jerry",
             "ico":"https://fotografias.larazon.es/clipping/cmsimages01/2022/02/10/0DED81B4-AFF3-40BB-B428-AF0C482BE195/98.jpg?crop=1244,700,x78,y0&width=1900&height=1069&optimize=low&format=webply",
@@ -2133,146 +2121,6 @@
             "name":"The Big Bang Theory",
             "ico":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/1657px-TBBT_logo.svg.png",
             "uri":"8Wh4iCndgCTAGJlD/dIXggw75bCumDJ/2RI/gX+sDFsoGyfQKrtI8Ck9Ky9mvQPTePdu/Uz14tW3qznLdYllgEsroA0uiEOGt2dfxZgcOm4=",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"LOS SIMPSONS",
-            "ico":"https://tn.com.ar/resizer/4OeDl11Q-xyFrUDRF-rdNSsZHKM=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/KILRLVCASHYASPR4IXOGBXX2V4.jpg",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv03I1CRScbTuvO+C3Kw+Qtd4XDozu8k4yQL/7i3/JtVO",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"LOS PICAPIEDRAS",
-            "ico":"https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/YOE2GVYSERAOPJHOUZNTX7RPSM.jpg",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv7DDVhGWBFq+r3NIVB3qLoQ99Al5V5tLHx8VaZRp5GlD",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"LA PANTERA ROSA",
-            "ico":"https://i.blogs.es/2167fd/la-pantera-rosa/1366_2000.jpg",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv4SBe2119FVfVWHXG/1k5w1g4vmgxJuBs61zSfmgVxx9",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"LOS PITUFOS",
-            "ico":"https://www.prensario.net/Multimedios/imgs/45381_750.jpg",
-            "uri":"n3WZ8LR50M6QDm5Qh+vLj6Jp4ikZf/U/DoFZFtqQXB03vMCxnQl5zFbBy5R9p96Y",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"LOS 3 CHIFLADOS",
-            "ico":"https://pics.filmaffinity.com/the_three_stooges-358012845-large.jpg",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv3Wu9UwzYxjbwbvhmGTfgq/3ZL23i3bzkZk6yFUs+FEL",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"el corre camino",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpvxNkTyz1KmPPtQfbvz023WtuMnBg6zphQ9DQJeRRyR64",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"supercampeones",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv3u8jcbLBfO44Egd6SWxUh2wxCB8+dVwAZ05bIbaFXoZ",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"alf",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv0iuQikX8NIpNkSZJoHS5nPu76fZSCJG9gNDWgGCrSP5",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"x men",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv1JnxKz6pvgHLNQPdrR4CveQ3mlFpE0r/iC+wz/MNg2l",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"el chavo del 8",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpvwhb05AF3VDEsaXbHxLHTVj+cQUwmAJknKCE+/Ny+lFs",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"pokemon",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv72RVRt3gQkES0nXVy7XGczjeXtMrts5pnPqO1wv6/xI",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"scoby doo",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv1A8Wt54UJ3xxuCPTYkM8VqbUqYjDFjVhtjfLVW2HHQl",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"perro coraje",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpvzKdwPCmJvg5j9e0h+Nz2qjl17/u7uAGF15E+uw4/nS8",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"doraemon",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv02q01MEhd09oFFQhoHDHY9MHQ5uFXU+opqu7dhajF+5",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"el pajaro loc",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv8sADcmKnLSUtyU33GGdWntxY+MOkG/JZteqH8tdZZDd",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"hey arnold",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv94vHdjRv5KdQhjxoudHiCR7d6yo/BtkYdfxUHU8asrU",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"lonney toons",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv7jZkBzg9fvfRL18huaS25msT8HWbnjYGpdmzjC/v8rk",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"yu gi o",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv/Xo04KHsEOBt54V4O9Gd4oEQ7i0XoLx4EnhTh0x0spv",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"pinky y cerebro",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpv36r1XDAyMOw8KGR5fUtmEcNa6ziyIxlGi2rL8yvz9N9",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-            "name":"el gallo claudio",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"1qAhdQm5wLLzWDXaTGQpvz9DCj0h8KUttv2xip+uLpoekhUqEATTXW5ifEoJpPh7",
             "drm_scheme":"",
             "drm_license_url":""
          }
