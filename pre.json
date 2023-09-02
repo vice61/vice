@@ -256,40 +256,12 @@
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa4IGLlvJVk+ctRdPgPIdLwOFoZWmZRu/H4R75maYPmqg=="
          },
          {
-            "name":"EVENTO 1",
-            "ico":"https://i.imgur.com/WeWQeY1.png",
-            "uri":"0qav/gQTwskTCHmOOHCXsW+rBqDU99aRPdvP0kCmlqVwu7jTZGGFraQZ83aEJBaqDRiIUwlw2H4/G8qK4wMP5MUpmdOQ3lXBFd8R6VKYw0U=",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-    "name": "EVENTO 2",
-    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
-    "uri": "u4KpTTAUJN1KFsRnr27s0KxeFGcpCFLpnVIXxs4ocT1vHJTO5TjpsTmmO+kKdV/s56rSoXp7z3YXwsOxuq8lik3uTPCxqAUOPMLcSUTGvJramZYqvclAz/GZqTYTqI1+",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYn0grUFpZz981Pd7kMW7ak"
-  },
-         {
-            "name":"EVENTO 3",
+            "name":"EVENTO",
             "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
             "uri":"0qav/gQTwskTCHmOOHCXsW+rBqDU99aRPdvP0kCmlqUHeuI77/pCeueyBCuhEXRGJoQCXjgRYw9Rio6k7xc30p/hRndeeQDPXP+0+JnQ7zc=",
             "drm_scheme":"",
             "drm_license_url":""
          },
-         {
-            "name":"EVENTO 4",
-            "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
-            "uri":"LS1xPgR8M7/8p2Qd3hxhL5JS+jbs59VWvGsoHOUT2Cc/W0SEi3uSpuNr/W+lay7B",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
-    "name": "EVENTO 5",
-    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
-    "uri": "tFoEMdHz++ksTvnjG7rjEXQa6+UmsvbFzv2aUQIi2pQi6XM5HE95qvKNm28M5yFcvKKf+See560W54h7drYQbVOkA3GAWzbI5749waNi9ydPIbWUu5G6o1ib99WlUzbovYFPF5hn/42GPOvjzjpVYA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
          {
             "name":"DSPORTS RADIO",
             "ico":"https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzEzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1691023365371",
@@ -422,13 +394,6 @@
             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmDdpEjOHiS5ikINuNeOSjy/wiabSRPhAg/6ptKW3hCvpg==",
             "drm_scheme":"clearkey",
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYqrSSr1KvZoS8y3pm86bU0awflk1RguJHFxkusNa9Kvw=="
-         },
-         {
-            "name":"FOX SPORTS HD test",
-            "ico":"https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
-            "uri":"NiYN2I0dDE3GejP8ILSsYsb6H51reF4jtgPRj68PlkTkXMlxSOZ/e1mIRU/qKrjzio6W0PndeZY/ftkM3h9APg==",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaHZv2d2yaX3q8HymDlgAkb"
          }
       ]
    },
