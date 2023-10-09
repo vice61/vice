@@ -11,12 +11,12 @@
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUbq09ZpxjLolHmt8C2SRkCK"
          },
          {
-            "name":"TV PUBLICA",
-            "ico":"https://logos-download.com/wp-content/uploads/2019/01/Televisi%C3%B3n_P%C3%BAblica_Argentina_Logo-700x470.png",
-            "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmD8lKJ32ZhBYzJQxKCTFeTJnvRzxoUxBZMCb+3zOpyTQA==",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZYpt5H3vO2sdFZ0TDfiDO8SRYqDpdswPDJcsUbPhwVGw=="
-         },
+    "name": "TV PUBLICA",
+    "ico": "https://logos-download.com/wp-content/uploads/2019/01/Televisi%C3%B3n_P%C3%BAblica_Argentina_Logo-700x470.png",
+    "uri": "WKy9PiD5mItctOWlJcOFo5KArhmKbN0jlPn1JMVG1W1jib+QVjFfVDHnWgVl4eNB2tzN/fLHNwbAdnKJP8NsqyhHksSY/0G0vFQ/uJM/6sAHEfGK7ZIlMGdplt/0MpFMPKqVVOT53cUGIF4knQmLPg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
          {
             "name":"EL NUEVE",
             "ico":"https://sfntv.co/webp/logos/optimized/nueve.webp",
