@@ -60,12 +60,12 @@
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUbA0VKeoZ9A2ZOOLDdpzL/R"
          },
          {
-            "name":"TN NOTICIAS",
-            "ico":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
-            "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmA2sxjUAa6cTKm0zJd0A6aU0GDxnBmXWVwBipdCpCzxiA==",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaptQh/vNhYuvAAfa1X6uaL"
-         },
+    "name": "TN NOTICIAS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBG9/BCyIwilbmZtlMlsUvG5rD2RmRKXTxjW9409DF0kPmGE7lJOKo7oggAkq3a5QClRXoORAUKnfNXuUFU/2Ma",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaptQh/vNhYuvAAfa1X6uaL"
+  },
          {
             "name":"A24",
             "ico":"https://3.bp.blogspot.com/-7G2PSngr0sQ/WOqX4jZsegI/AAAAAAAABbo/-KF9GLw9fSgCFC7OLoZ1G3tEsTSzZCHdwCLcB/s1600/a24.png",
