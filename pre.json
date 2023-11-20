@@ -242,12 +242,12 @@
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZF7QIQyDb/V9+dI4ODm1JK"
          },
          {
-            "name":"DIRECTV SPORTS PLUS",
-            "ico":"https://www.directv.com.uy/content/dam/public-sites/channels/1613.png",
-            "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmAwABWX+hn9N0QiwBah5PkEp+SRyPv+sPqw86Di97btzg==",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYHyaz0GfP7V/XBxZpA0oi8PP8xPMYgjXCcBGX9N6q1dg=="
-         },
+    "name": "DIRECTV SPORTS PLUS",
+    "ico": "https://www.directv.com.uy/content/dam/public-sites/channels/1613.png",
+    "uri": "wrxcPtRsU1Sfy/d+llOLiD/wof9+kNSjLVyaVeSGl0C1SG6QsZHY1/qbWtK3uxMEYAuhIodvxR2UrzWqFAhjEg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYHyaz0GfP7V/XBxZpA0oi8PP8xPMYgjXCcBGX9N6q1dg=="
+  },
          {
             "name":"DSPORTS MOTORS",
             "ico":"https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1691023623883",
