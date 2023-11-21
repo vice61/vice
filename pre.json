@@ -194,28 +194,21 @@
          },
          {
             "name":"FOX SPORTS HD",
-            "ico":"https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
+            "ico":"https://librefutboltv.com/img/logo-canal/Fox-Sports.png",
             "uri":"dez5A4z4WD5QF8gm7PEZMBQpPXGkmKKR+MbdOq3P3/rXBCmO1Q7uYl+TJhWn+eknwwCAq46EKk5aB3BuVOHCvWocOXH0xyBE7gxiMGIyH++XmcsNlcl/WukMoqXmxY88",
             "drm_scheme":"clearkey",
             "drm_license_url":"q48fzK4bk8urgNBcLIgkIYrIc3NbhFtWgAN+odm+aj3gZ6NiohoCC2yuYpj0u6Rg"
          },
          {
-            "name":"FOX SPORTS HD OP2",
-            "ico":"https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",
-            "uri":"hkVauZPcU80S97A7hEv1dLiRtaYfSL/k37d8uxiEnuvl/zVCuGUKkTRNXZKn5L1xOTfvnwGSfxl3DEtNshrbuQ==",
-            "drm_scheme":"",
-            "drm_license_url":""
-         },
-         {
             "name":"FOX SPORTS 2 HD",
-            "ico":"https://www.foromedios.com/uploads/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png",
+            "ico":"https://librefutboltv.com/img/logo-canal/Fox-Sports-2.png",
             "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKrMWz9+YYGWSo7y/3Qq205BlUy+ZD5FaZe1Un1/fSeGEEb0NHiysLOytJ27FYQkuh1gfcPpeFFyizrq4CLp1R",
             "drm_scheme":"clearkey",
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa3Or2J6O5A8X8utAoN3CsOKA2qHTrhSSkxzMqioVYOAQ=="
          },
          {
             "name":"FOX SPORTS 3 HD",
-            "ico":"https://www.foromedios.com/uploads/monthly_2023_02/Fox_Sports_3_Argentina_2023.thumb.png.d222c9770073d72e2dd7aa568dbc2d3d.png",
+            "ico":"https://librefutboltv.com/img/logo-canal/Fox-Sports-3.png",
             "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKrMWz9+YYGWSo7y/3Qq20byj6lFDP2nlSxlbltXAdGIqrbaD9OXicRyDKJDkE3bHt4A6Wba5bh/EhmlJaVbii",
             "drm_scheme":"clearkey",
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZE82oHERodQQi9RAg09ycBmRqTEpZz9497uf3iBXOXEA=="
