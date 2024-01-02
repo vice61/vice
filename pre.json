@@ -596,12 +596,12 @@
             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUbKUOnhjWwsuKKlnbYBEkOb"
          },
          {
-            "name":"HBO PLUS",
-            "ico":"https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
-            "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmBZ1ybNxUqyV1bvriE/Xyggy8jjiZqPaNj5VLkVCf6D/g==",
-            "drm_scheme":"clearkey",
-            "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZGt/iSRiEz7BTaPCf2XSKO"
-         },
+    "name": "HBO PLUS",
+    "ico": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
+    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwR4Wn96M+DcJ90tU922xktIDaFO6DI4xbRU2ASnxRsu8Iibwvk1vC+aZRgterjU0HGUUeI7p6QxuNITuwB5soWU",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "WyFAet/lK1Zgn6f9SL0058r/Wi36ZlxHVBf+36Yatv5djqUIpS88lORqBntPl4ZHCvE9ahAnSrQqUOVcZ3YCxtYgawf8h1jvewLBmJ1ZQRvQ+nkCN7fpcrGw990opffykfq+5F3XshUkf+6c2/pF4r37fdsVfXzlXsFxkCp8vzOSgC2GVgaVG/03ZIaJnTnX0AeKHK60ywXRj41lNSAABw=="
+  },
          {
             "name":"HBO MUNDI",
             "ico":"https://static.flow.com.ar/images/704/CH_LOGO/350/500/0/0/931513860712.png",
