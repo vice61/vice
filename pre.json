@@ -256,18 +256,18 @@
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZvfvYZh9Zh+O79npUaLF9joLnK21tR4NAFsNKnMY6XIA=="
           },
           {
-             "name":"DAZN F1",
-             "ico":"http://167.114.129.223/web/webp/logos/daznf1.webp",
-             "uri":"73a+TRu+zGvApR2YloDxmPs0DNM06I2VaEc+6BVy2k+ZIn8EpM+zFq0hdnc6ZPz4Uk8duPL7oFn4ul/wfgMdVkABZ3ewd7kxPagG2rFomGs=",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa4OmdvPTawqKdgIGaah74e"
+            "name": "DAZN F1",
+            "ico": "http://167.114.129.223/web/webp/logos/daznf1.webp",
+            "uri": "73a+TRu+zGvApR2YloDxmPs0DNM06I2VaEc+6BVy2k+ZIn8EpM+zFq0hdnc6ZPz4Uk8duPL7oFn4ul/wfgMdVkABZ3ewd7kxPagG2rFomGs=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKo64sonEx+DmCnZNV+3aemuUsYKoFCNjcPk/KO3Ji5p4WlLK7tBV9otwz32vr/BT6Nw5wUxKEAPuXpf3TTLjFKd7xJYqioydNJRODsCPcwPrq3zmObelOj3FSVN9XOBTSA=="
           },
           {
-             "name":"TUDN",
-             "ico":"http://x.playerlatino.live/tudn.png",
-             "uri":"8Wh4iCndgCTAGJlD/dIXggw75bCumDJ/2RI/gX+sDFsoGyfQKrtI8Ck9Ky9mvQPTePdu/Uz14tW3qznLdYllgPVoIbh6wEdU4c6yUBoYs0Y=",
-             "drm_scheme":"",
-             "drm_license_url":""
+            "name": "TUDN",
+            "ico": "http://x.playerlatino.live/tudn.png",
+            "uri": "IjD7fM2DFLs00GdUDH9lhxPppcdwJbgCziFO9krw4phpe2QkZhAAFPGw6T/Bn+vVKkqA6j3C31Nw3FcFy1z5DnbDpH5PvVAoQD6NDJPuKUjiKOG693SuLXHy2Y4k3JJU",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKkzw8LlsEJNlE6hh9X/JzCbnBT7v2hn3IOggt7JOHQcobA07lS44HoD2RvTtNdQ6qPzM9hWGcbIw2QdHzHfwMcMDY0JMV3dgWvG9u8P/+o8OFrYp1ktWh83JCGSqzfIJ5g=="
           },
           {
              "name":"TYC SPORTS PLAY",
