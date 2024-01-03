@@ -638,39 +638,39 @@
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUY0PRUDN6xwBa/1cI/vTAcNntNOkB/VPEi6nT37JmO+8g=="
           },
           {
-             "name":"UNIVERSAL PREMIERE",
-             "ico":"https://serbox.com.ar/panel/ico/cinepremium/unpremiere.png",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmDEjtWslSyTmZonYI0xukmwGi5B2c2RSpxEBy2a++18nw==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaHUUWp5QIdhIZdDeTIrgSQ"
+            "name": "UNIVERSAL PREMIERE",
+            "ico": "https://serbox.com.ar/panel/ico/cinepremium/unpremiere.png",
+            "uri": "p0NTCVl1XV3cnL2ZMutObb+Be8cSK6gij3jKLy0lsaMJUkddwc4AredfJ7CJdgTZ3H7u9TjUHzAZvdaoX0ap7VvJ+pgWPsamMeieun6aFkzzjCnLaTK6gFn2d3eHbBycsHGvtHmsMnU92to1Z3BYPQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
           },
           {
-             "name":"UNIVERSAL COMEDY",
-             "ico":"https://serbox.com.ar/panel/ico/cinepremium/uncomedy.png",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmCmjpmroy3r7ZEvatRbt7HyNX9wmXXpzZa2BP8ARmwaTw==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZAhbDPQkuLf/u0VMyOG6sV"
+            "name": "UNIVERSAL COMEDY",
+            "ico": "https://serbox.com.ar/panel/ico/cinepremium/uncomedy.png",
+            "uri": "35inOqaImXBbkZtWjgrdeibgbvwEapygAdm9JjJOd2xJC/lW0fA9F7oejhwrbWd0R5ufsrUzl8Mg70DO9LnaZRE1Zlc84pFGau/IgEJWuc8=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKtff5N17FQCHmwvD+/nSE5mb8J6VrC/NiVMir8Qbrs9mfsCIg4+nqz7RO1i5AD96akKwGgaFc3xur0+f+49hONQplkV8UotSaq9lHmCcKG+lGdekuaDtBHddmKt2ZJJQ/A=="
           },
           {
-             "name":"UNIVERSAL CRIME",
-             "ico":"https://serbox.com.ar/panel/ico/cinepremium/uncrime.png",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmCRu02wGzb979q+yyHe36S9Lx/iJr+7DCuewK1STjmcJw==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYSmcqojcfNtC9SO/pXKJPG"
+            "name": "UNIVERSAL CRIME",
+            "ico": "https://serbox.com.ar/panel/ico/cinepremium/uncrime.png",
+            "uri": "35inOqaImXBbkZtWjgrdekv3xVuwu0efA7l2MEBButoTT9WabrzALqKIEYHAj4mFlo4Ooq2NAA8Isp2uuxDHw2PEKqJstikPtC8KQv0vPjc=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKq3RGJVg6ZwNX9YOnqGTH/H1WZem9x0FmzkOqB+4S/UUjwKvt+Cjgn076QrFrBftQ/p7y7vxGxco0+y16oSE86ISCObfF5+Rut6sm3GzeeyESzf2UNHaP04AofslBAqNbw=="
           },
           {
-             "name":"UNIVERSAL REALITY",
-             "ico":"https://serbox.com.ar/panel/ico/cinepremium/unreality.png",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmBIlusQbShL11fsyqTOkIQnsZHlnXgOhg/tcoP6WoGsLQ==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZbhOiovnFM0+oDX6pjVdK5"
+            "name": "UNIVERSAL REALITY",
+            "ico": "https://serbox.com.ar/panel/ico/cinepremium/unreality.png",
+            "uri": "35inOqaImXBbkZtWjgrdeuAyYSxpfrpUBNVvQpt50yMxrPevzV0IqXkg1IFPJvrRTD3RVgO6Pc3EUSCfMtf4b0wohkCjiDSR2LL5yPE521o=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKncWQab/ceytp5hydtTbjVXTVtbdGPOXtP2Ezec25mftzGNATUsFS0YncT1xZjxCHQQ7f3mLrptEolrWuPzEIhs7Bw7CX+gNvHwTAra1OLsKA1806lRnhqSZn8bqutHxfQ=="
           },
           {
-             "name":"UNIVERSAL CINEMA",
-             "ico":"https://serbox.com.ar/panel/ico/cinepremium/universalcinema.png",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmCMgZx9AIxC0ocK+GYHrOxVCQrwa1n+2kRIlvO1Y8wLEQ==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYUIUaJ+AhbS/D+FpcKFZ3y"
+            "name": "UNIVERSAL CINEMA",
+            "ico": "https://serbox.com.ar/panel/ico/cinepremium/universalcinema.png",
+            "uri": "35inOqaImXBbkZtWjgrdejT9vDLk4QXzkGEO5KA/H42riOySlPDnR9Qo37qHg4l+HkosZKn0PcLmmtJjleWJUs10ALQIyQZ6zNigrSgYXRs=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKmWrVaJIwe+R0tbcGVdydOUoIpFr/La0PKTNN3AN8P9ITXd8urVF9axf1ZgzT3Es5w4xpgZfaJDt2bSxwk/i2M8XujawkIYH9UjUpOpWAB7QpjvL88Ceon1Nj/8fSoWCJw=="
           },
           {
              "name":"CINE AR",
@@ -854,11 +854,11 @@
              "drm_license_url":""
           },
           {
-             "name":"TNT NOVELAS",
-             "ico":"https://www.foromedios.com/uploads/monthly_2023_06/large.TNT_Novelas_2023.png.94ea5fca47e44b5ac99744542ad502d1.png",
-             "uri":"9PtIAu32Y1lCOdWkd1STMcU6lkO21ZRtIE8nK8MToJyMvYGZJ0csiB6WJ5ds5DRxxtw0aLGIPo5cpIYCZYrEJQ==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZpAIsnYnPlcrNSWfichjiTQDu1PpwyqvnD+6X9OmJyxA=="
+            "name": "TNT NOVELAS",
+            "ico": "https://i.ibb.co/jVMmjN6/descarga-8.png",
+            "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQAtt6Y9cQbkFovdy6EPLpT1UFoNUr1bnICLHuT4Uy3W0rppMGzQWcje6ILpFKMXY0=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKrXLdpucLlsLi0k8K/w4/XnQH24diDELRAKbZTOTJg85yNloN5TqKt262eyM04lJIgn93v0owkFN/hgMn068zZhabsciDMS7jb3VqBswWSaBb2OvuBTf5teEUO4cPsN9Jw=="
           },
           {
              "name":"GH Chile",
