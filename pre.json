@@ -214,18 +214,18 @@
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZE82oHERodQQi9RAg09ycBmRqTEpZz9497uf3iBXOXEA=="
           },
           {
-     "name": "DIRECTV SPORTS",
-     "ico": "https://serbox.com.ar/panel/ico/deportes/directvsports.png",
-     "uri": "KtTlgwiMoVp7Jw1OKv4Y/naJKohSq81xetizh09mhIN0qCoWdJi0gXOtPGuViBAmfVdXc89viRyjeBjJIMnTWiGxJRznFdfRd+eYtbi+6Pg=",
-     "drm_scheme": "clearkey",
-     "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZO2Mrz+irNCIx1YcDZPv9q"
-   },
+            "name": "DIRECTV SPORTS",
+            "ico": "https://serbox.com.ar/panel/ico/deportes/directvsports.png",
+            "uri": "By+sB9ZemkbhlrohRyLOmsFuapQkItFtbj52dw2tsbgdiJRPz5Xs6M0bJcpumB3mRrvlouftwSNELiCb0sPLhQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
-             "name":"DIRECTV SPORTS 2",
-             "ico":"https://serbox.com.ar/panel/ico/deportes/directvsports2.png",
-             "uri":"NiYN2I0dDE3GejP8ILSsYsb6H51reF4jtgPRj68PlkTIhusYROoIk3K5WqPmTMbSxANYPnxBGO7gebMx+35nE3fvlw0IqqYl1gg7JjYielQ=",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZF7QIQyDb/V9+dI4ODm1JK"
+            "name": "DSPORTS 2 HD",
+            "ico": "https://serbox.com.ar/panel/ico/deportes/directvsports2.png",
+            "uri": "DxwY6mlGMXDr4sSgitkPBdqknqCZGClDMYq5tPlq+uxBfsabSW3PvJpzYjw6kSWn+7ZYNHHwFajxnavBt5JJ9FIfR/BQPDhvEXG0sDdUPB0dbiyqeF5he4Jr9AiqubwZ",
+            "drm_scheme": "",
+            "drm_license_url": ""
           },
           {
      "name": "DIRECTV SPORTS PLUS",
@@ -234,13 +234,13 @@
      "drm_scheme": "clearkey",
      "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYHyaz0GfP7V/XBxZpA0oi8PP8xPMYgjXCcBGX9N6q1dg=="
    },
-          {
-             "name":"DSPORTS MOTORS",
-             "ico":"https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1691023623883",
-             "uri":"YdC9nXBG/QFX3h6AHuMGa70xZYXg7pn2iWEGmCuui551sHTbEEFj3UxLdqraRzk1kp0Pcs5liOno0rmshGGdvA==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa4IGLlvJVk+ctRdPgPIdLwOFoZWmZRu/H4R75maYPmqg=="
-          },
+   {
+    "name": "DSPORTS MOTOR",
+    "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1691023623883",
+    "uri": "DxwY6mlGMXDr4sSgitkPBdqknqCZGClDMYq5tPlq+uxBfsabSW3PvJpzYjw6kSWn+7ZYNHHwFajxnavBt5JJ9OUqX0Tuin59HFmRS7gh27ir60T7fXMoaCZlaoCYT4Mr",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
              "name":"EVENTO",
              "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
