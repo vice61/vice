@@ -213,34 +213,7 @@
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZE82oHERodQQi9RAg09ycBmRqTEpZz9497uf3iBXOXEA=="
           },
-          {
-            "name": "DIRECTV SPORTS",
-            "ico": "https://serbox.com.ar/panel/ico/deportes/directvsports.png",
-            "uri": "By+sB9ZemkbhlrohRyLOmsFuapQkItFtbj52dw2tsbgdiJRPz5Xs6M0bJcpumB3mRrvlouftwSNELiCb0sPLhQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "DSPORTS 2 HD",
-            "ico": "https://serbox.com.ar/panel/ico/deportes/directvsports2.png",
-            "uri": "DxwY6mlGMXDr4sSgitkPBdqknqCZGClDMYq5tPlq+uxBfsabSW3PvJpzYjw6kSWn+7ZYNHHwFajxnavBt5JJ9FIfR/BQPDhvEXG0sDdUPB0dbiyqeF5he4Jr9AiqubwZ",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-     "name": "DIRECTV SPORTS PLUS",
-     "ico": "https://www.directv.com.uy/content/dam/public-sites/channels/1613.png",
-     "uri": "wrxcPtRsU1Sfy/d+llOLiD/wof9+kNSjLVyaVeSGl0C1SG6QsZHY1/qbWtK3uxMEYAuhIodvxR2UrzWqFAhjEg==",
-     "drm_scheme": "clearkey",
-     "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYHyaz0GfP7V/XBxZpA0oi8PP8xPMYgjXCcBGX9N6q1dg=="
-   },
-   {
-    "name": "DSPORTS MOTOR",
-    "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1691023623883",
-    "uri": "DxwY6mlGMXDr4sSgitkPBdqknqCZGClDMYq5tPlq+uxBfsabSW3PvJpzYjw6kSWn+7ZYNHHwFajxnavBt5JJ9OUqX0Tuin59HFmRS7gh27ir60T7fXMoaCZlaoCYT4Mr",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+          
           {
              "name":"EVENTO",
              "ico":"https://serbox.com.ar/panel/ico/deportes/logo.png",
@@ -248,13 +221,7 @@
              "drm_scheme":"",
              "drm_license_url":""
           },
-          {
-             "name":"DSPORTS RADIO",
-             "ico":"https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzEzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1691023365371",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmA+KOo+dhju9p7hDarudfdTLrMVXXlCoCNa0+85tCtiYw==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZvfvYZh9Zh+O79npUaLF9joLnK21tR4NAFsNKnMY6XIA=="
-          },
+          
           {
             "name": "DAZN F1",
             "ico": "http://167.114.129.223/web/webp/logos/daznf1.webp",
@@ -373,14 +340,8 @@
              "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZD3a7XkvonM93Mbm/VrvIVh2TjiTwwblmZ9CFNOXDStXa5bZwIFOhLehor0G1LR8tO/SDZZPQ06yqCN3pn++1Ev",
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUY4RM5JcRJ02NrFBiPSGpQG"
-          },
-          {
-             "name":"Sports Fight",
-             "ico":"https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9zcG9ydHNfZmlnaHRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmDdpEjOHiS5ikINuNeOSjy/wiabSRPhAg/6ptKW3hCvpg==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYqrSSr1KvZoS8y3pm86bU0awflk1RguJHFxkusNa9Kvw=="
           }
+          
        ]
     },
     {
