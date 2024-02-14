@@ -95,12 +95,12 @@
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaH+7MwIfDPVqpBzfn9GibL"
           },
           {
-             "name":"CNN EN ESPAÑOL",
-             "ico":"https://static.flow.com.ar/images/676/CH_LOGO/350/500/0/0/566991570762.png",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmDp2b7ka2h6NlCFkoWNnl1HMtXQ1QFoIx/D4PltPppvfA==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUb+tbEk/TdyYBkY1DvNtvfILNvMXjbvLidnT/fdDoDlcg=="
-          },
+    "name": "CNN EN ESPAÑOL",
+    "ico": "https://static.flow.com.ar/images/676/CH_LOGO/350/500/0/0/566991570762.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBfmh/134PjqM9ZZ1Hogeyo7f7hZUXkA+hwMdCVhhiwmZRMrX4dau8Z49T2CqUz/kt9vIq6OwOD3jS9lOfyyVDT",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpMLeqgH/8W2JjvvitUwfTSSNjofArrhrj6GNJ1zIKHZn3Apr7e5pC9iEMhJ5s1/Y6dI+zfq2dJ20OpcZYax72B5Y0BLornzi+r80dtyEnleleIMDp8jAO3BOtANPrjXSA=="
+  },
           {
              "name":"DTV",
              "ico":"https://static.flow.com.ar/images/7097/CH_LOGO/60/40/0/0/58413014074320.png",
