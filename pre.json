@@ -836,13 +836,6 @@
             "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKrXLdpucLlsLi0k8K/w4/XnQH24diDELRAKbZTOTJg85yNloN5TqKt262eyM04lJIgn93v0owkFN/hgMn068zZhabsciDMS7jb3VqBswWSaBb2OvuBTf5teEUO4cPsN9Jw=="
           },
           {
-             "name":"GH Chile",
-             "ico":"https://i.imgur.com/7NGWeOM.png",
-             "uri":"UeVzfNUwZjuc0Fn1SvK7bVpo6kH4exOonsSPuN+QRZFwhHdIbytsn2eCh19arJsiMDbPcAn/JnSIMZTIGthTgA==",
-             "drm_scheme":"",
-             "drm_license_url":""
-          },
-          {
              "name":"IVC",
              "ico":"https://panelssh.com.ar/Img/ivc.png",
              "uri":"9PtIAu32Y1lCOdWkd1STMcU6lkO21ZRtIE8nK8MToJxRqfiI3BBTwLWgKwaUbzHoo+5MRQKka0S1+EUKq0znAQ==",
@@ -855,20 +848,6 @@
              "uri":"dez5A4z4WD5QF8gm7PEZMFvXGrjPWI3XTMm+uoly8S99yrkyLkKlJOubGlzovlWqFxWONqy14KRUN9F6ZtaS52oAcGHxV0HV6uXU89gJXvBkBOLRI2lFIl7E6JCSegrL",
              "drm_scheme":"clearkey",
              "drm_license_url":"q48fzK4bk8urgNBcLIgkIcFf0b3c3jad0WyAprXezUoVDIoE+TAPho/bE+DIo35z"
-          },
-          {
-             "name":"ON DIRECTV",
-             "ico":"https://panelssh.com.ar/Img/ondirectv.png",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmAxIbsV6HVC/8JFRWLbS54smmZkg7bT38bXtZ/iCwQ20A==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"q48fzK4bk8urgNBcLIgkIXGWxn2Ao2TFXaxMPfOgEgh3VWsgQ8vZnMEcCGt6/ngf"
-          },
-          {
-             "name":"SMITHSONIAN CHANNEL",
-             "ico":"https://panelssh.com.ar/Img/newsmithsonian.png",
-             "uri":"WIpzHmN3rPXyS8kMt+iQQKQycNRCiooGYBxXlwHuvmAvYfp60AihiGaWFJOFNctyumIvAYyTnPGvw3itu3ObOw==",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"q48fzK4bk8urgNBcLIgkIUB1NhWH5dop4+dhnHjX/KOi72N2fuF+z0bjikUOQmbh"
           },
           {
              "name":"CORAZON TV",
@@ -904,13 +883,6 @@
              "uri":"6ayVpe1udvtKb37Y8EZd9fx0p2AbAsPsWPQ2ng9dZNyBQjqExSmbklSXLe+h8Z6QymKfEV6PjdwCu7JlrMimdg==",
              "drm_scheme":"",
              "drm_license_url":""
-          },
-          {
-             "name":"TL NOVELAS",
-             "ico":"https://panelssh.com.ar/Img/tlnovelas.png",
-             "uri":"hD9fXIDtduQq27KnFhz1YsWT1tgNOV38JLTBeXP9HwOtIwplczUW2wru7SAjdgO0krl84djTu/ib+zdn5fUYHA==",
-             "drm_scheme":"ClearKey",
-             "drm_license_url":"q48fzK4bk8urgNBcLIgkIc9QKU39RkJB6UIw55OvFFLm32kZQTrM+DNByx73Zf5+"
           },
           {
              "name":"CANAL LUZ",
