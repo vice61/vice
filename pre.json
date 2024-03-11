@@ -800,6 +800,20 @@
        "name":"NOVELAS Y VARIEDADES",
        "mode":false,
        "lista":[
+           {
+             "name":"BRAVO TV",
+             "ico":"https://panelssh.com.ar/Img/newbravotv.png",
+             "uri":"zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQxBBEcx5044gNfb/YD/tyk0IWvupAAFjgZYtffVw+4JlN9ROB8dpiHor0Illpu6VE=",
+             "drm_scheme":"clearkey",
+             "drm_license_url":"q48fzK4bk8urgNBcLIgkIafwXjlfju2TGfb+r/lnYwCRuWIiai1fPNODWfN/8hmu"
+          },
+           {
+    "name": "BRAVO TV op2",
+    "ico": "https://panelssh.com.ar/Img/newbravotv.png",
+    "uri": "dez5A4z4WD5QF8gm7PEZMBvEh2lSx51Eu08rcr+Gn+nY0G+VWOPlFZrRoAQ/hAPfPHVKfp7LzNHkCBXzcZsyPSRiHyISfDuTtFY4R7kE7pLILVVBVPAag86eTmSiSpqm",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYyv8OILd6jMe+uMv6EGOR6"
+  },
           {
              "name":"CIUDAD MAGAZINE",
              "ico":"https://static.flow.com.ar/images/64/CH_LOGO/350/500/0/0/731751480726.png",
@@ -862,13 +876,6 @@
              "uri":"9PtIAu32Y1lCOdWkd1STMcU6lkO21ZRtIE8nK8MToJyoo0RJqw733aWK1UdIsEL/jhEyVyyjXcs1FfpSJoFClg==",
              "drm_scheme":"clearkey",
              "drm_license_url":"q48fzK4bk8urgNBcLIgkIa2UJvj7imy/K4+e8P85SA3bAEGtkFeIPQ9NnQXDVLaX"
-          },
-          {
-             "name":"BRAVO TV",
-             "ico":"https://panelssh.com.ar/Img/newbravotv.png",
-             "uri":"zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQxBBEcx5044gNfb/YD/tyk0IWvupAAFjgZYtffVw+4JlN9ROB8dpiHor0Illpu6VE=",
-             "drm_scheme":"clearkey",
-             "drm_license_url":"q48fzK4bk8urgNBcLIgkIafwXjlfju2TGfb+r/lnYwCRuWIiai1fPNODWfN/8hmu"
           },
           {
              "name":"TELEVISA",
