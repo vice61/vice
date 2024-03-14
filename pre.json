@@ -135,6 +135,13 @@
        "name":"DEPORTES",
        "mode":false,
        "lista":[
+           {
+    "name": "EVENTO1",
+    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
+    "uri": "19ygDjqdaX+xnw5MZ9n0Bi3St9MOLI9dZkveW4z6T82Nbud38+Tq4EAinaG7DhD8gqEkJg/3gvFChSNaiKZHUpHAUBSh6ufB3StBKnbEqoHTj02RWnPWT5YYLlruUgARkk4aqARVBiCbUxQOSja7nA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           
           {
     "name": "TNT SPORTS HD",
