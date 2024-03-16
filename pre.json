@@ -174,14 +174,14 @@
           },
           {
              "name":"ESPN 2 HD",
-             "ico":"https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710412013868",
+             "ico":"",
              "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBCqpcojdfy1/jy5mTOT7x9r8eyFzn75SUs+AJV/a6PUrXlphfTAtYuUa9oBwXyPambGYeb+nTUScN/P64KSiZc",
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYlM3dSTauXp7MU7hLaofYx"
           },
           {
              "name":"ESPN 3 HD",
-             "ico":"https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710412008554",
+             "ico":"",
              "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZALdC9+CIXR/WMfYNwkhdn4ecSSguY+RXeR+aBZFQ+MT6TP8Une+nuKcUT+rFCQiP0=",
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZ5TTmpovjV9bX7Y+ZK7122"
@@ -202,14 +202,14 @@
           },
           {
              "name":"FOX SPORTS 2 HD",
-             "ico":"https://librefutboltv.com/img/logo-canal/Fox-Sports-2.png",
+             "ico":"https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710412013868",
              "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKrMWz9+YYGWSo7y/3Qq205BlUy+ZD5FaZe1Un1/fSeGEEb0NHiysLOytJ27FYQkuh1gfcPpeFFyizrq4CLp1R",
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa3Or2J6O5A8X8utAoN3CsOKA2qHTrhSSkxzMqioVYOAQ=="
           },
           {
              "name":"FOX SPORTS 3 HD",
-             "ico":"https://librefutboltv.com/img/logo-canal/Fox-Sports-3.png",
+             "ico":"https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzM2X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710412008554",
              "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKrMWz9+YYGWSo7y/3Qq20byj6lFDP2nlSxlbltXAdGIqrbaD9OXicRyDKJDkE3bHt4A6Wba5bh/EhmlJaVbii",
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZE82oHERodQQi9RAg09ycBmRqTEpZz9497uf3iBXOXEA=="
