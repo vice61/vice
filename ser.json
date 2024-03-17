@@ -1,1 +1,71 @@
 
+[
+    {
+        "name":"ULTIMAS SERIES AGREGADAS",
+        "mode":true,
+        "lista":[
+            {
+                "name":"BARRABRAVA (2023)",
+                "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+                "temporada":[
+                   {
+                      "name":"Barrabrava 1x1",
+                      "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+                      "uri":"wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+WkxWkv/ymoKKELWhqoDG0KlZu+V8EvqkqkJksAl2sahg==",
+                      "drm_scheme":"",
+                      "drm_license_url":""
+                   },
+                   {
+                      "name":"Barrabrava 1x2",
+                      "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+                      "uri":"wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1oTMET5heiDsQu2ORapiOF5V5to83Wa+q4WBOO7+SboLw==",
+                      "drm_scheme":"",
+                      "drm_license_url":""
+                   },
+                   {
+                      "name":"Barrabrava 1x3",
+                      "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+                      "uri":"wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+Ux9LaolKAXe6aLfh2elWbfcbOI0Kos+LKBdgH4e0WSXg==",
+                      "drm_scheme":"",
+                      "drm_license_url":""
+                   },
+                   {
+                      "name":"Barrabrava 1x4",
+                      "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+                      "uri":"wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1qL8iyA0Q2U9uIUfz0wH1A8tkPU2t9T0WVSfhpQlCCSSQ==",
+                      "drm_scheme":"",
+                      "drm_license_url":""
+                   },
+                   {
+                      "name":"Barrabrava 1x5",
+                      "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+                      "uri":"wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+XG1GAn22NSL471LBnOZ3keS4xiiVAhhdNf1bwF/sSqrw==",
+                      "drm_scheme":"",
+                      "drm_license_url":""
+                   },
+                   {
+                      "name":"Barrabrava 1x6",
+                      "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+                      "uri":"wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1qJIwZ50myXMo7mTm9MoEDp/FEbkaKfKklvXMNU6UbYog==",
+                      "drm_scheme":"",
+                      "drm_license_url":""
+                   },
+                   {
+                      "name":"Barrabrava 1x7",
+                      "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+                      "uri":"wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+VK4moUqvT2c7y2a0X/BvxoxD8BZQUr33sKcdEawawkag==",
+                      "drm_scheme":"",
+                      "drm_license_url":""
+                   },
+                   {
+                      "name":"Barrabrava 1x8",
+                      "ico":"https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
+                      "uri":"wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1oLwiVFxnoccfbbQyb1Xn87L1dJ5ATnfBJyq5M7ipPluA==",
+                      "drm_scheme":"",
+                      "drm_license_url":""
+                   }
+                ]
+             }
+        ]
+     }
+    ]
