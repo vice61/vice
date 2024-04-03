@@ -228,6 +228,13 @@
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZE82oHERodQQi9RAg09ycBmRqTEpZz9497uf3iBXOXEA=="
           },
+           {
+    "name": "DIRECTV SPORTS",
+    "ico": "https://serbox.com.ar/panel/ico/deportes/directvsports.png",
+    "uri": "pUvSnDbhdP/xbSbTt2S/1DRuVukRJdHBowTAoJxKbe4Fxnb+9O3BlDz0CeN4HMReBTIN/MdzDaq6G5VH0RHr2tLUC5nxwozQgMrvpM/Uy+7hPCThpJtUDBRnMksYHwEjq2ZNJ1aRuF4qjU8feXk9B+kYW1k2j9p5siNPbQLMBeMNlO4XPmr91e6giKYP+9Ts5kpj5ESIOEhBB5i7ClsHUvsEYoVhR+FWb1uA70ttpLP+kWMGvQKsWWMM+tfaQ+AVWyFovdDeQju8wOzDWCbqJ1xpHGXJxmPFkdTrBoMSORw04Bzh9Ipc6ifM6R7E2GtEpP2W5SxA7uS1PSysuORFzWcjA8uuBrC3guMzLotg25k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           
           {
              "name":"EVENTO",
