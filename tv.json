@@ -1,6 +1,6 @@
 [
     {
-       "name":"NOTICIAS",
+       "name":"NOTICIAS ↴",
        "mode":false,
        "lista":[
           {
@@ -132,7 +132,7 @@
        ]
     },
     {
-       "name":"DEPORTES",
+       "name":"DEPORTES ↴",
        "mode":false,
        "lista":[
            
@@ -360,7 +360,7 @@
        ]
     },
     {
-       "name":"INFANTILES",
+       "name":"INFANTILES ↴",
        "mode":false,
        "lista":[
           {
