@@ -136,7 +136,13 @@
        "mode":false,
        "lista":[
            
-          
+          {
+    "name": "EVENTO",
+    "ico": "https://serbox.com.ar/panel/ico/deportes/logo.png",
+    "uri": "jlVWDmGXAig1OB6ArcRG9GeKd8lNTJd562JvD8XfOHLN5ZfjjuCyELR5huRMFghyTIcNgWXAAL85CMJvg3VvFMUW1xV4JG0D7+rYPyNrrwbYoZY2kL8aVYGAKUGMP0NquPaMEyBeY8BBe/GTRvxPH0YV+oEIX7CWkuztc9psdb5eEwNauJw74pWaXTrELhl4VaPsc2lUuUA9xpBud4CnQKJDqH0v/BQVt4pm/OhQCamWgHmumh14kp3RAHTApq1sdRXOwlEvsqZcTju/Qj1Am7F7puUvZWyPlhvXBTfhCPpmH7KSoLEGO949c+sO3Rq3L+hhV/9cZBjbJglsjPNQHrySQxpONdzOkkAUE3tCVVmu1ZVxrIFwtal4Af7Z/zgUN3Dn0fmIiZTuMhaXn04MZ97avlqNmMdNuSqc2ddl0HPKxlfgMIJRwzj7Cykc+17Q3sCaXFhDzfa4hxKh/NC8fGruoe1WUboZDgyCmESCs1BjQ4cR6VyQFwr0M7qTb1PLOtvQvQwiABI82FgEzf1H3j0lgiL6QSVDATB3isvlUR7UW5fPFa2GuET8vompVhYFrZGdvEL/g7zOegjAf5km31IhY896CRyvBugCvp9Pgf8I3uopYyAQQNRHOIw3kCsundHFKoDdAgJRiE0OvFwUNudwZuZUE2CF4DMdUO34BawTGJGltlRD12Rpg0oqFg5oUgiUM13QEsQXO4ynaLcig5qYFo3lBsraxx/fFVLiCK/W9sow0tyXsukhlE9ko5WlamuYMjW4FeQSbZDLxhefhkicOjJSdeM0G7dEcpXwEvAW73qyWj3R0sHa5hqpt/x+9Xtw6Sc58mbVeXHxxsDeMEur1GVM5drMeL/abP2+kfQhYn4oDoc4evdTvYbsZq/VmnNyNLohP1eQP85tkopkGNi3kGCr3hoY3LfonukxT7FjKMy+d4UraW3Z8XHcEDEO/EAS1EtoAYneVVWVsyFu7g7SnoKM3jY2wA60ELk2olY3jxrKS40n0hgRX41pUYCdG/0z+vpBoUSzNVUqh1xrglrF/BkCSDiMKp2hFH9NlSAFjBfbaLGaxmvIxohtlVp8UgzvY9BFXfGns4xOiiEhrJ9elkLBALD+jQFFVnWf9WR+zowJ8xIpFRG1wIt4tyrduYIRDNq+FO5OH3xOcqpqZPx4y7WUFxcTxpv/+0ae+3tL/Ux1Zc6YRJRszoKH4xMfUIZlwtgkFRDg5QNZBHAh8/pOZkHmgwI7EsXgXDKdQxrqW5x6SMGHw5DICMbMNkGMauPr6v9BE4p2JJXCgDL01+gl5MdHs2Mwb+z0O1dN6GTkBUebFPHvmYE0cROAVDCqt4R+s/FTCE9YT+ybfeDGRbbBmEdN/nBB02E1aHglClEBoTtoUJms3e59i0C2PRb/2MI019Bfs1ddII0LmYbBaPxussLNkCkmkjQnKjfIWbE4nqd3064+yrk9eG3EuaJueqRs2A96VccMizamm265mZ8bS8MjblroeJnJI/fnvcN096Gtu0t1cyTofhuKkV3T3AEU8stwXHAtcHWQ8+GVeAWUNqL4kDytkrkiV7yebm4H9DYDhArH0CIMynvpxYIzDaPaHAYSjpKqESfUhYkgdBQz8xVeozvOGQ7N/OWza5OT3us+i0Sb6vDU7Ygk6otb+tpSesothYHa9fA5ab79f+dno3IKImiQjEaX/TPZPUklIW15YIZZ0E1QwLjNkMZtpwj55ziP4ujKIHlqP+/v5q6OHqGg4WqnUdUwGgtWqYjl5aIOlK+LjhjMOGian2qzpLyr0C5ldIHsUfHsLVZXsbs+UqoE1aUHi0szqRvaDNLQJwjX6CLZCD3b9SOVAM5BeiqkfJSbkthqmLneBxLa6V4ncTqvlZN7SA7A4vryAvI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
     "name": "TNT SPORTS HD",
     "ico": "https://1.bp.blogspot.com/-jaO9LCxzt7U/YCaUqxTT9aI/AAAAAAAA8KU/h-oEs3iE8Ss8XsD5Pnz18pThBX2qSGysgCLcBGAsYHQ/s587/TNTSPORTS-2021.png",
