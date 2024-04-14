@@ -1,6 +1,6 @@
 [
    {
-      "name":"ULTIMOS AGREGADOS",
+      "name":"ULTIMOS 5 AGREGADOS",
       "mode":true,
       "lista":[
          {
@@ -37,77 +37,273 @@
     "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQCddXCZCBpKaGGjXGPypyNec26fPrDylMAgG/EIYClqM=",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-         {
-    "name": "Muchachos",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
-    "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWYH9aTA4R7DwOgVr4YQdxUsff+y35sUFGRcAOhOBqVgmTmtMfjYAzs0KTO2uIH8dA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-         {
-    "name": "Fievel Un Cuento Americano (1986)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jKADo2prqnosOMeh9ZEjRm8eUGI.jpg",
-    "uri": "yCm98BfedwjqHB41xev/tSvUhzhFNU3B3rqHKhR6yBM0bjDJlfHeN9aG2HQSguGc0n6oubNl8G3SIA4RzuuerTiQt61XR1oclIQIMdiYOUA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Noche sin paz",
-    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hqBeKurpfqoV5msTH5XttGLwFUv.jpg",
-    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3VbeKp/SZNhorEfNTs/9OeqT2brmf3yrel93pw8FF67DfhBxo2NtpJZhZP78wUNos4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "NO ESTARAS SOLA",
-    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/4/w1280/moBrEYoOxLRc1LsFl8IXeilYwtq.jpg",
-    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3VLpG7I22DivJgQd1fLK/c2mPd/XKev6KUnTk3ZX4gLaNbtQt0FmWn7Kp85JPiWnnA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La guerra del mañana",
-    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/7/w1280/tzp6VzED2TBc02bkYoYnQa6r2OK.jpg",
-    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UEFiD1/IWgCgYe1SMCNytD/2+ouErlXoMAYUv/pkVU+2Unf87loh862w9ON7y+LDM=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Tren Bala",
-    "ico": "http://tuvideo.tv/poster/w200/7189301664320807i.jpg",
-    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UskFFLP3u8rrXGxZOzHGjX6DeY5PyzXVUZnpN6zkaR3dUEjZHKn1h1NoF/0/1GGxk=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Diorama",
-    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/gOXTTRXjSo2Lk9LO6oxLL6lMP7U.jpg",
-    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UGZC2IdsvAIRCW3t6qCivhO/61O3wX73krFa8e4GPEiA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Robo entre ladrones",
-    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/l76aJTcLlx8pUiqQd2CIadiEfpj.jpg",
-    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3WH8vapgSMwHhrzHVzh0pCs4VAgS38+JuA6N7/ukfKIwg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Palmer",
-    "ico": "http://tuvideo.tv/poster/w200/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
-    "uri": "wnWTkm1ra6ElgTEpZdemca8FK/2Kt6APc2CZ/fRW++9bSGvmjliS9hNghzG9H0fLpUGP+siM2PZj4Y5NyPmeIA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "El Lobo el y el Leon",
-    "ico": "http://tuvideo.tv/poster/w200/7803821668825004i.jpg",
-    "uri": "wnWTkm1ra6ElgTEpZdemcaIOfdBr2gemHRQrwPZkv2Mu5rUdpRnueRJa+oAsoi4BKm9E8LVgVQYur/X2TocSEw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
   }
       ]
-   }
+   },
+   {
+    "name":"2024",
+    "mode":true,
+    "lista":[
+      {
+        "name": "ROAD HOUSE. De profesión: Duro (2024)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQpyyIKKLhUf+jPs8tgkbRSqk5hHVAt/y/Vx6RW73IV2Y=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Damsel (2024)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85ojGbI3rDMmdWWmMDxmFljySuu.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQCddXCZCBpKaGGjXGPypyNec26fPrDylMAgG/EIYClqM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+   {
+    "name":"INFANTILES",
+    "mode":true,
+    "lista":[
+      {
+        "name": "Kung Fu Panda 4 (2024)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQ1cmuAOb5sgBkG13CnTGaUi+XZzsHwo8369bQmZx4alA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Elemental (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RuphN7wadSCoIhD7u1gkLkx634.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73A6MhFNhjCsWxxHwtxJs8zzLMEGnWXULjvHZR93Ry2dk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Fievel Un Cuento Americano (1986)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jKADo2prqnosOMeh9ZEjRm8eUGI.jpg",
+        "uri": "yCm98BfedwjqHB41xev/tSvUhzhFNU3B3rqHKhR6yBM0bjDJlfHeN9aG2HQSguGc0n6oubNl8G3SIA4RzuuerTiQt61XR1oclIQIMdiYOUA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name":"2023",
+    "mode":true,
+    "lista":[
+      {
+        "name": "Muchachos (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWYH9aTA4R7DwOgVr4YQdxUsff+y35sUFGRcAOhOBqVgmTmtMfjYAzs0KTO2uIH8dA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Misión: Imposible - Sentencia mortal parte uno (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73NIsZeC9PX91qo0oi3EIgRlWrCsOiTFhfhCuEojx5WpwAVLDXJoZtmOaUTRTRe+7w",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Transformers: El despertar de las bestias (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg",
+        "uri": "yCm98BfedwjqHB41xev/teFJZj1Cv/QNXLNjpPaQTiF6fcQWFwPKLNw7wMyzoGBTPeHgV7rtv5zU6J3dB5gAgUGyd3WAkPjYzvU19fLPLks=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Día de la Madre (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rfJTuZMgyqqxaTPQOhPGs6FITgN.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUoLaH+cR5ARITqJdXT3/nBEg2Kuj1zYb9MICrO9BaeU5TSsDq8GWZA3db+uz9fQE0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Sangre y oro (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Tdu098zuhY4AGG5CHYJZRIu5yO.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqX2Y0dGMg3t6bjFGGdx1B2DktjTRLfW3mGQ//cGF4EFPo87bAQ5rZHlkTAUnDBBJbkDdY2zla3MzitRAHGsFjIA",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Argentina 1985 (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg",
+        "uri": "YP7y0cD5XeOAHuAHidYQ3nB/nypCI7r941JkHS6NjaQ7dPeDacAous0px8b1ae4q",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Mezclado por Erry (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fFS7M6lD68JM3VZxrqhrCK9kBl9.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73jtAhawIgYRcQ5nyXURb/Da7bGHVZSrS1vgG48cL2ETc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "The Wrath of Becky (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73C0W1fUy2tzR8mmnTZW4S8d3Jbf/7u96JVrBhXD/GThk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Mafia Mamma (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2za7Cbo2DuZfW8RuXSZNYMtdUJN.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73FHrUHawnqTRkGk6OfgQzovHPfFMTK8sQlsVJeczYdVE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Sisu (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t9VXZkgcxpIwfPUKAWOOONs0vHv.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73Q0yOLe+UCtln6WmtmLHwmpAZrGBS59Hr0fm912BRs2w=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Cráter: Un viaje inolvidable (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppEvMrq2nvV9DfBHuCRilf2MBnm.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73cef6MDIvQ3qEdmdDOX5h2TmNak0H96qy2Z8a6eVMJ7g=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "El último vagón (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/31IB4VXpan7JrQYnnr7g75YqOu8.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73HRKkJunOxDHD4as1BUG7CrbCKQD4DMrpMoH9x6EfH2tCWSP64+M+Z9kjXijlprsY",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Los tres mosqueteros: D'Artagnan (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp739VP4V5qHFffDmKFD55NOdKb7WbkstPGBczbK8gtcPvc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Tin y Tina (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWAwpBkS1pnFy6v1hpoIilrIOtU1iMY49bq3fcJiCp+rlVkaOpvwwwfzGeNv0s5n/Y=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name":"2022",
+    "mode":true,
+    "lista":[
+      {
+        "name": "Robo entre ladrones (2022)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fHQHC32dhom8u0OxC2hs2gYQh0M.jpg",
+        "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3WH8vapgSMwHhrzHVzh0pCs4VAgS38+JuA6N7/ukfKIwg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Diorama (2022)",
+        "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/gOXTTRXjSo2Lk9LO6oxLL6lMP7U.jpg",
+        "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UGZC2IdsvAIRCW3t6qCivhO/61O3wX73krFa8e4GPEiA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Tren Bala (2022)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+        "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UskFFLP3u8rrXGxZOzHGjX6DeY5PyzXVUZnpN6zkaR3dUEjZHKn1h1NoF/0/1GGxk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "NO ESTARAS SOLA (2022)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qVRADANU3JpMyapKjV3eM41VlDG.jpg",
+        "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3VLpG7I22DivJgQd1fLK/c2mPd/XKev6KUnTk3ZX4gLaNbtQt0FmWn7Kp85JPiWnnA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Noche sin paz (2022)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
+        "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3VbeKp/SZNhorEfNTs/9OeqT2brmf3yrel93pw8FF67DfhBxo2NtpJZhZP78wUNos4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name":"2021",
+    "mode":true,
+    "lista":[
+      {
+        "name": "El Lobo el y el Leon (2021)",
+        "ico": "http://tuvideo.tv/poster/w200/7803821668825004i.jpg",
+        "uri": "wnWTkm1ra6ElgTEpZdemcaIOfdBr2gemHRQrwPZkv2Mu5rUdpRnueRJa+oAsoi4BKm9E8LVgVQYur/X2TocSEw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Palmer (2021)",
+        "ico": "http://tuvideo.tv/poster/w200/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+        "uri": "wnWTkm1ra6ElgTEpZdemca8FK/2Kt6APc2CZ/fRW++9bSGvmjliS9hNghzG9H0fLpUGP+siM2PZj4Y5NyPmeIA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "The Tomorrow War (2021)",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+        "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UEFiD1/IWgCgYe1SMCNytD/2+ouErlXoMAYUv/pkVU+2Unf87loh862w9ON7y+LDM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name":"SAGA RAPIDOS Y FURIOSOS",
+    "mode":true,
+    "lista":[
+      {
+        "name": "RAPIDOS Y FURIOSOS 1",
+        "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/6/w1280/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqU0dBSm4j5HI1g1IpDoE64MnIq9y20BBCGvp3qPDu4kF7zPOfNXds6dlUCX3VXM34U=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RAPIDOS Y FURIOSOS 2",
+        "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/6/w1280/iZUSbYbUXol5AezpNIJwwENdyE0.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73OKQEwXCr+/s6C4vywdAvX3UUiNCqfanc2uSXddrYp7o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RAPIDOS Y FURIOSOS Reto Tokio",
+        "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/iKlO5uVXQo3f78uCqjcB6b31eir.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73TCR7GDrUDHxvUTEoRS88QPOyCyqsfNMHkWdw6I2IXHnYFKydLcIb8Mela7Bq1I46",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name":"SAGA DRAGON BALL",
+    "mode":true,
+    "lista":[
+      {
+        "name": "Dragon Ball: Una Aventura Mística",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7f2vIwxEXryqavvgVAcqUe2CG0Q.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQ3q2tyv6/aa2yZIEbel5P+IKFjTup+m+/GJ1PDef4UCY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+             {
+        "name": "Dragon Ball Z: La Resurrección de Freezer",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6QUqAk7quyFIOZoFJmRp14eiorv.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQdJwQ4oN/HI7AXLTnrvqmqqvQSinkkU1w9gz04I31ZUk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  }
 ]
