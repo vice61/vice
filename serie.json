@@ -67,5 +67,67 @@
                 ]
              }
         ]
-     }
+     },
+     {
+      "name":"NOVELAS",
+      "mode":true,
+      "lista":[
+         {
+            "name": "Destilando Amor 1x1",
+            "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+            "uri": "BycvjlaVAlhcY3gHStakm9gdOnmY5SdRJZdX38FJ6k3Xlh3JCgXonhdICgnIcIirKusr3vuKQrYQ/ebRKZZmpfFDuN80Zf8sVSRXickiTgymW1LOuHrBmiONt4aRsAU98RdwFlBqBGM+rdQugcGeeEgH95J0lkr4KzjxUPb3Nk00BJECNS8XoyvpEw+mMgnVCdy2PyctmdZ/7Lr4zzpMP+SRk2vzyeproggBkbCF64yoSLt+aWifjdGEWC365dEL",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Destilando Amor 1x2",
+            "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+            "uri": "BycvjlaVAlhcY3gHStakm9gdOnmY5SdRJZdX38FJ6k3Xlh3JCgXonhdICgnIcIirKusr3vuKQrYQ/ebRKZZmpSaZxZxQYYhnaviAbjQbzBznf7eaC53UcO1VoY40X3nZ6ddVviYJXIyNHDx2qXpINm1H5592MafHSxRmvTSuV4ks5yyrpPGNQyxh4kI6GUcPM/l5YSbo0WA8JfmFJXKG1nYSDI2j0B1YriUaEqz77vkNpvlRRR6oAeddVYlhpFs4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Destilando Amor 1x3",
+            "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+            "uri": "BycvjlaVAlhcY3gHStakm9gdOnmY5SdRJZdX38FJ6k3Xlh3JCgXonhdICgnIcIirKusr3vuKQrYQ/ebRKZZmpXje6B4uMa6DCWNFVCVOZX4UoQyBwpOqB4tPz4wZD2G+NXXXMgELZrniYdNICGI5qtzKjGEkg2Fue45grptD4cok+qph1Bjq48eeVD0eNHyeblOtBK6ijK4eGchJWg9dZWaPlQ1v69vwWrHVSLWPYMJpnpCWBOst0UkPoyF4xqOK",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Destilando Amor 1x4",
+            "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+            "uri": "BycvjlaVAlhcY3gHStakm9gdOnmY5SdRJZdX38FJ6k2Gswdh3PbI+fwVNnyFP62OGtbRVFfhPByXQRnDUA3NOCj7Uw4I6QLKaBWj4scWyGEReP+ot6RHRTnkqngPFXb7IZDx1ntzgDFHbbGVWst5UVDMMS1oevnH8YuUV+lf8vKJx38FZ3/ZtjsRu+dIE39w",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Destilando Amor 1x5",
+            "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+            "uri": "BycvjlaVAlhcY3gHStakm9gdOnmY5SdRJZdX38FJ6k3Xlh3JCgXonhdICgnIcIirKusr3vuKQrYQ/ebRKZZmpQP5cQzjjkfOnt9+wzvh3JlUSCXYrdvaBtJ5x/3wqj2VEoA+1nowkgjAFRvUv9JOQHC+a5jpbq5Og1eEfWoKnvRjhwaFJNSg/Re/VedGOocRNKWh7IYhN/RNicl0RtUUpZur3hDy4JvmtCtDgkzd671NWnNpkFG7/kF+eb64psbH",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Destilando Amor 1x6",
+            "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+            "uri": "BycvjlaVAlhcY3gHStakm9gdOnmY5SdRJZdX38FJ6k3Xlh3JCgXonhdICgnIcIirKusr3vuKQrYQ/ebRKZZmpQuvp1IyUsBSMT8yuyhIdIa/4hbxx+xiO6LbSMtIyK+QocPLD0ePIgSGb9oRdsT1ZKWGSGwgxZEUlOF2uBcTHk4V9BiT94nFgLgc4NNe/h3d4lvgsB08PDdCkaLwHcfSkeC9rZprQIx5nL19tpwey2kgUQIUz2gSrnqC0mvokORN",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Destilando Amor 1x7",
+            "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+            "uri": "BycvjlaVAlhcY3gHStakm9gdOnmY5SdRJZdX38FJ6k2Gswdh3PbI+fwVNnyFP62OLY8ufu0H/0ghXGtl0uMJDr7T22m0IE77EUNs5f8z3IzWJbrBuijhjsCinEHvXWsYME0/O9gZjg5xfq67UG8HXxc2I5R9YAkbMUq4imt2m9c2e6Se1ermLMddaMCsUHYt",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Destilando Amor 1x8",
+            "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+            "uri": "BycvjlaVAlhcY3gHStakm9gdOnmY5SdRJZdX38FJ6k2ZUdaeA7DXkQwToreAIaRUgZ31xMa3y/DR7VeVqXnkgEpkgLBrcMStNcLhsYOP/ti91MS8+CnQ4eMEza13IjQVPfZZuWALp7+nsrtBDqqb2hyDO5CEkzpQTyKPHo1RHnb9om740y5d3YRahJcgYEkmcMsX8lYMMSjEUNmJIZu8uA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+      ]
+   }
     ]
