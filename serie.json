@@ -73,6 +73,10 @@
       "mode":true,
       "lista":[
          {
+            "name":"DESTILANDO AMOR",
+            "ico":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/L3MPoQSvfbHZAJEdskXTM1vdHi.jpg",
+            "temporada":[
+         {
             "name": "Destilando Amor 1x1",
             "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
             "uri": "BycvjlaVAlhcY3gHStakm9gdOnmY5SdRJZdX38FJ6k3Xlh3JCgXonhdICgnIcIirKusr3vuKQrYQ/ebRKZZmpfFDuN80Zf8sVSRXickiTgymW1LOuHrBmiONt4aRsAU98RdwFlBqBGM+rdQugcGeeEgH95J0lkr4KzjxUPb3Nk00BJECNS8XoyvpEw+mMgnVCdy2PyctmdZ/7Lr4zzpMP+SRk2vzyeproggBkbCF64yoSLt+aWifjdGEWC365dEL",
@@ -131,3 +135,5 @@
       ]
    }
     ]
+   }
+]
