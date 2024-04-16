@@ -92,12 +92,12 @@
     "mode":true,
     "lista":[
       {
-        "name": "Muchachos (2023)",
-        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
-        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWYH9aTA4R7DwOgVr4YQdxUsff+y35sUFGRcAOhOBqVgmTmtMfjYAzs0KTO2uIH8dA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+    "name": "Muchachos (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
+    "uri": "t4/BGjYL3+QVLEQ7K9QWvw54T/WLtzdWBVs8ACXRmVeHxteRsYTClh/DBkOBDXqK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "Misión: Imposible - Sentencia mortal parte uno (2023)",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
