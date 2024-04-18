@@ -134,7 +134,21 @@
     "drm_license_url": ""
   }
 ]
-}
-    ]
+},
+{
+   "name":"test",
+   "ico":"https://imgs.search.brave.com/p3ZJNo_gMP6WHqglZtWGpxBGYaXDURRMRI2oiwiuMYs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dzMub3JnL0dyYXBo/aWNzL1BORy9hbHBo/YXRlc3QucG5n",
+   "temporada":[
+    
+      {
+         "name": "test",
+         "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
+         "uri": "GfqxZ9vCOmCPCHOCW6Ek3Vr8GR8Ef8gNVI1DAKmNAxvbt2rCP/S9qPAYmYl9wxKiKbY5Ixs1lrAyez7o2xGssCyu1htLx7qXWdvVoWW9tzEEGpTrq5ggwfx5b7sLqIJszlAAVr698OvxcFwyT4gZJdvJ4tVd1usgEf1ybshaPVauNV+PkOIslj9lweHX9Oip2tRwRt9otISdVjEt5Mcqh8vVZ9+0pyJ0n/sETMWenaywhSQosXvjM6SGXb4iiduKZ/a3CGW2DIvL8/XRKZb89w3s2VmVHmmC/RaDEKxnAtq5mdFcv0hY8eHhDk0e9Ouv",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       }
+  ]
    }
 ]
+     }
+   ]  
