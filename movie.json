@@ -4,6 +4,13 @@
       "mode":true,
       "lista":[
          {
+    "name": "Cellphone (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fe15BYAlUaFi1cHHgGjfe3vRMYE.jpg",
+    "uri": "GfqxZ9vCOmCPCHOCW6Ek3Vr8GR8Ef8gNVI1DAKmNAxvbt2rCP/S9qPAYmYl9wxKigMO4Y8741BkVYsW4mGsLcxTvAyyzJMQeK1JDeXseTYzb/6UA82Ng50fUGvJ+P5pBBHZgRuLCRVK1Vhr9TIu/c+rKmGv4MiZv/tHbZYlwNBEcyFkOXGBe5soCz/C5n1x39ET6Hncrtmv/fCfN7NNOP2jmoYu36YgWwc7KpZQvm+Dx08lzYcfy9rO8Ch1NWt525vNedohcth3oJvvwFWnzxD9nHdiMjWYxNTeA2xqM/ZhE2oxSCEj87tdTMdXn0H4G",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+         {
     "name": "Cazafantasmas: Imperio helado (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",
     "uri": "/uhoIYgF51c/w3jivXDSiDJKZ3fJnU2S0zOCU8ZiF18Xe9EwuuwQC5Kgo1WQyYYOgELAs0pkELHK8ov6mEovGXVFXjHiV2TXci1tETGIsXyTkgNYmR8FfQ3assB61qnElP/jon6Nmv6g08WCGOoueBp2xOAnt3PiqE+ZakYsEGNPVxlDRnVVZvF0EnS0ChWOECRv1TYh8XlImRmYgapgUlx91GQRPb6K/wDPCSSNE0mW8GeoZ91JClTExFdEKJpnXxB0NCgA+04/X3Jk3L2MR2ajwMYNPcrmPwKlsE2D1wPwNb8w1GtNQBqodhyYaiVfRNDYcNh/tBqCFritN6dREQ==",
@@ -30,21 +37,20 @@
     "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQdJwQ4oN/HI7AXLTnrvqmqqvQSinkkU1w9gz04I31ZUk=",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-         {
-    "name": "Kung Fu Panda 4 (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg",
-    "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQ1cmuAOb5sgBkG13CnTGaUi+XZzsHwo8369bQmZx4alA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-         
+  }    
       ]
    },
    {
     "name":"2024",
     "mode":true,
     "lista":[
+       {
+    "name": "Cellphone (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fe15BYAlUaFi1cHHgGjfe3vRMYE.jpg",
+    "uri": "GfqxZ9vCOmCPCHOCW6Ek3Vr8GR8Ef8gNVI1DAKmNAxvbt2rCP/S9qPAYmYl9wxKigMO4Y8741BkVYsW4mGsLcxTvAyyzJMQeK1JDeXseTYzb/6UA82Ng50fUGvJ+P5pBBHZgRuLCRVK1Vhr9TIu/c+rKmGv4MiZv/tHbZYlwNBEcyFkOXGBe5soCz/C5n1x39ET6Hncrtmv/fCfN7NNOP2jmoYu36YgWwc7KpZQvm+Dx08lzYcfy9rO8Ch1NWt525vNedohcth3oJvvwFWnzxD9nHdiMjWYxNTeA2xqM/ZhE2oxSCEj87tdTMdXn0H4G",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
     "name": "Cazafantasmas: Imperio helado (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",
