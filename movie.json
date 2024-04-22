@@ -209,6 +209,48 @@
     "name":"2022",
     "mode":true,
     "lista":[
+       {
+    "name": "Avatar: El sentido del agua (2022)",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2009/12/w1280/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg",
+    "uri": "ISGMQorzRLYc599YHSZzXL2NF0Z9bBwucdeVYZ1s503J33FENNO/alhuclkSfP0BYKBZ855GYkI8C8fnBBpq6JeB/CXr2179AAqpp3XbmtMhQ3Wf8f+66yHPRhX1aeIo/WxtOfDVG8BagUU40Kjr25uUNCZGuW8dpCQN4q4J9Q8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Stargirl en Hollywood (2022)",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/ySBDRXsZSKVBNtZZAEKccNHPZ5o.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3X+XWyUnEpZWvaQAVl7Z64kLODQRgOZfKlPm22JZk9q3i4KS24H1SPRDecksyBi8BE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "South Park: Las Guerras de Streaming (2022)",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/6/w1280/cbVvBYu3POY30cw4C9jtEIygiTf.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3VxzppwJ5Xbavf/YzLK4iFAGNM7xL/5GJvsh+BpJ3hTzWltr4cK6UsKXNY94vL7xBXTYMFdqygAfT6Utqd5ydf2",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El niño y el tigre (2022)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g7LfZhnN96Zs2xv8c0PeaExU1yw.jpg",
+    "uri": "ISGMQorzRLYc599YHSZzXL2NF0Z9bBwucdeVYZ1s503J33FENNO/alhuclkSfP0Ba9vg/9yBO610Hgkrlbxc28LAuHxYyv+sgcGQqZ/nqozuatm/QQg+Yq6gyp5SHnktOGAlP6Ra7LGs9jgIoACmQA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Sociedad de Honor (2022)",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/nUyM9VBcIuGzACORtXEMD9tcgWv.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3UA5iDJRVCeWV4LWM4g4NCtjgTwL24cI+BetJNYtGUNa1bcsV48d056VNboWqmKJPs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Moonshot (2022)",
+    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/nchaDv1TpVNAATnYoW2mrncGsKV.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3XkGCcweGZ24JLIb5ikRC9YtU/CuEbwFg8DFM5VCtOS0Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "Robo entre ladrones (2022)",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fHQHC32dhom8u0OxC2hs2gYQh0M.jpg",
