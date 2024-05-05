@@ -1,8 +1,6 @@
 [
     "com.guoshi.httpcanary",
     "org.blokada.alarm.dnschanger",
-    "tech.httptoolkit.android",
-    "tech.httptoolkit.android.v1",
     "com.adguard.android.contentblocker",
     "com.protectstar.adblocker",
     "com.guoshi.httpcanary.premium",
