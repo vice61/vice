@@ -193,50 +193,50 @@
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUaa2xNBPoy9fjURbC7UIJKx"
           },
           {
-             "name":"ESPN HD",
+             "name":"ESPN",
              "ico":"https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png",
              "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZALdC9+CIXR/WMfYNwkhdn4TN4v536HE8mZG0pwt+RhKWPTqo7ny/vDlkAtqcjVeCvAYpxtPvyfa++DmeARsiCi",
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUY5gq2sDPEdPWViUdhbmva0"
           },
           {
-             "name":"ESPN 2 HD",
+             "name":"ESPN 2",
              "ico":"https://i.ibb.co/RCMYFsv/espn-2B.png",
              "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZBCqpcojdfy1/jy5mTOT7x9r8eyFzn75SUs+AJV/a6PUrXlphfTAtYuUa9oBwXyPambGYeb+nTUScN/P64KSiZc",
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUYlM3dSTauXp7MU7hLaofYx"
           },
           {
-             "name":"ESPN 3 HD",
+             "name":"ESPN 3",
              "ico":"https://i.ibb.co/TLcGvdv/espn-3B.png",
              "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZALdC9+CIXR/WMfYNwkhdn4ecSSguY+RXeR+aBZFQ+MT6TP8Une+nuKcUT+rFCQiP0=",
              "drm_scheme":"clearkey",
              "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUZ5TTmpovjV9bX7Y+ZK7122"
           },
            {
-        "name":"ESPN 4 HD",
-        "ico":"https://imgs.search.brave.com/7PEHCp9Qlaz9ix-gkheyYX1nRwC8nWlJ87UVKEvuoeg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/Lzc4L0VTUE5fNF9s/b2dvLnN2Zw.svg",
-        "uri":"https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNPLUS/dash_fk/index.mpd",
-        "drm_scheme":"clearkey",
-        "drm_license_url":"https://serbox.com.ar/results.php?keyid=37e6a21b0a9f9ea5cad43adebd401751&key=2f4ea11704b96a00ffd21164289a8cd4"
-     },
-           {
-    "name": "ESPN 5 HD",
-    "ico": "https://imgs.search.brave.com/_rlBAsK9pKtHcJWJ1MPb-4jF-d55E_EdQhODMl-eofU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2M3L0VTUE5fNV9s/b2dvLnN2Zw.svg",
+        "name":"ESPN 4",
+        "ico":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",
+             "uri":"fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZALdC9+CIXR/WMfYNwkhdn42/MHm5Yb7UR6b3VwMZUTv6zXrwak0NZZOCscfOKM3Bj/X/joANoICXgRXRI3bQP1",
+             "drm_scheme":"clearkey",
+             "drm_license_url":"t4/BGjYL3+QVLEQ7K9QWv3vnhgwsK5LbwaFZudHeQUa8v6s96E0our+orTQUWDnA"
+          },
+{
+    "name": "ESPN 5",
+    "ico": "https://es.wikipedia.org/wiki/ESPN_5_(Latinoam%C3%A9rica)#/media/Archivo:ESPN_5_logo.svg",
     "uri": "dez5A4z4WD5QF8gm7PEZMGkJC/M8rEWtIYiIdmJqXrVSNNlKVQK9rFNzLMFD0zrKHWXeZwSPQ196tN+Dprmsn3aQ1anmGqWDZX2vYKTLF6eNutbWl760fyIzLQwz5LOz",
     "drm_scheme": "clearkey",
     "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWvzbVKtMRoVRw/PXks5Pkvd3CszdgXvKhdyS2owJLW6SpZ+fJJ/nayXH+ZBr8MIV/HwlZ1rSTxGBH7kFrmjskT13YzSaQsFyMbOY+qaYbqoROqSuvLUcqZCXSUtOOcSaD0w=="
   },
            {
-    "name": "ESPN 6 HD",
-    "ico": "hhttps://imgs.search.brave.com/FiGULOrbc721tSD81ETKfFXjB0Bj3yraMAmbjDLm6G4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzMzL0VTUE5fNl9s/b2dvLnN2Zw.svg",
+    "name": "ESPN 6",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png",
     "uri": "dez5A4z4WD5QF8gm7PEZMFvXGrjPWI3XTMm+uoly8S+gW2f2LW0BCmRGn5nIFuafLPaHr7N5Fn0hLX4gqQyXrGC14TckhCz7+AoIZPdaJaFx233euLFw0+hJWm4AFS3QjyjwVWFRhNN/e5iBtnAKuw==",
     "drm_scheme": "clearkey",
     "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWvzbVKtMRoVRw/PXks5Pkvd39HuUhAGlPHNCyAxRI8Bqj4FuJGDrcsncACf6C280LKJRCq+8Ru04ZhKJcyPbFbQv2pF5BkN68ZbbusnqXKQUsuO2pDK8ZRCfm22UovcGVog=="
   },
            {
-    "name": "ESPN 7 HD",
-    "ico": "https://imgs.search.brave.com/ITdV6grVNJup82F30Upd8zu-A7PkPbQXC1as4Wf6zvM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/LzdmL0VTUE5fN19s/b2dvLnN2Zw.svg",
+    "name": "ESPN 7",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1920px-ESPN_7_logo.svg.png",
     "uri": "dez5A4z4WD5QF8gm7PEZMA2oXQ34UXmSoMLZ1VFL8QwRqBnhXlFVIsCS6vw0Fey6UR7cl8UVcAe0Go/IdWfkwUvDquOXcJkVnB2nN2KPbQ4+Fp5pMTNH/5uJwPKyGmaxhECwY44OAZgWAMp9583Hdw==",
     "drm_scheme": "clearkey",
     "drm_license_url": "t4/BGjYL3+QVLEQ7K9QWvzbVKtMRoVRw/PXks5Pkvd39HuUhAGlPHNCyAxRI8Bqj4FuJGDrcsncACf6C280LKJRCq+8Ru04ZhKJcyPbFbQv2pF5BkN68ZbbusnqXKQUsuO2pDK8ZRCfm22UovcGVog=="
