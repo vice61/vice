@@ -5,7 +5,7 @@
       "mode":true,
       "lista":[
          {
-            "type": "movie",
+            "tipo": "movie",
     "name": "Cellphone (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fe15BYAlUaFi1cHHgGjfe3vRMYE.jpg",
     "uri": "GfqxZ9vCOmCPCHOCW6Ek3Vr8GR8Ef8gNVI1DAKmNAxvbt2rCP/S9qPAYmYl9wxKigMO4Y8741BkVYsW4mGsLcxTvAyyzJMQeK1JDeXseTYzb/6UA82Ng50fUGvJ+P5pBBHZgRuLCRVK1Vhr9TIu/c+rKmGv4MiZv/tHbZYlwNBEcyFkOXGBe5soCz/C5n1x39ET6Hncrtmv/fCfN7NNOP2jmoYu36YgWwc7KpZQvm+Dx08lzYcfy9rO8Ch1NWt525vNedohcth3oJvvwFWnzxD9nHdiMjWYxNTeA2xqM/ZhE2oxSCEj87tdTMdXn0H4G",
@@ -13,7 +13,7 @@
     "drm_license_url": ""
   },
          {
-            "type": "movie",
+            "tipo": "movie",
     "name": "Cazafantasmas: Imperio helado (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",
     "uri": "/uhoIYgF51c/w3jivXDSiDJKZ3fJnU2S0zOCU8ZiF18Xe9EwuuwQC5Kgo1WQyYYOgELAs0pkELHK8ov6mEovGXVFXjHiV2TXci1tETGIsXyTkgNYmR8FfQ3assB61qnElP/jon6Nmv6g08WCGOoueBp2xOAnt3PiqE+ZakYsEGNPVxlDRnVVZvF0EnS0ChWOECRv1TYh8XlImRmYgapgUlx91GQRPb6K/wDPCSSNE0mW8GeoZ91JClTExFdEKJpnXxB0NCgA+04/X3Jk3L2MR2ajwMYNPcrmPwKlsE2D1wPwNb8w1GtNQBqodhyYaiVfRNDYcNh/tBqCFritN6dREQ==",
@@ -21,7 +21,7 @@
     "drm_license_url": ""
   },
          {
-            "type": "movie",
+            "tipo": "movie",
     "name": "ROAD HOUSE. De profesión: Duro (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",
     "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQpyyIKKLhUf+jPs8tgkbRSqk5hHVAt/y/Vx6RW73IV2Y=",
@@ -29,7 +29,7 @@
     "drm_license_url": ""
   },
          {
-            "type": "movie",
+            "tipo": "movie",
     "name": "Dragon Ball: Una Aventura Mística",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7f2vIwxEXryqavvgVAcqUe2CG0Q.jpg",
     "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQ3q2tyv6/aa2yZIEbel5P+IKFjTup+m+/GJ1PDef4UCY=",
@@ -37,7 +37,7 @@
     "drm_license_url": ""
   },
          {
-            "type": "movie",
+            "tipo": "movie",
     "name": "Dragon Ball Z: La Resurrección de Freezer",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6QUqAk7quyFIOZoFJmRp14eiorv.jpg",
     "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQdJwQ4oN/HI7AXLTnrvqmqqvQSinkkU1w9gz04I31ZUk=",
@@ -51,12 +51,12 @@
     "mode": true,
     "lista": [
       {
-         "type": "serie",
+         "tipo": "serie",
         "name": "DESDE CERO",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s8D32MA8NlNgixnAIxVbmt9cazX.jpg",
         "temporada": [
           {
-             "type": "serie",
+             
             "name": "DESDE CERO 1X1",
             "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
             "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWU1nuDuRTShoAcho2Rw24bd/nHvnL+alOJR8I0n/UH+3Iee9m1US2vgowxlWVM6vsU2cKm+bk/ojq8x0erucs5",
@@ -64,7 +64,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "DESDE CERO 1X2",
             "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
             "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWU1nuDuRTShoAcho2Rw24b9Dhrm6+ONPDASH1aRrYT+tPTpVCo1Jgejfhhna/NcdwXWVkyZliyXI7rliFNsvS1",
@@ -72,7 +72,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "DESDE CERO 1X3",
             "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
             "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWU1nuDuRTShoAcho2Rw24bnnfXGYi/wUGJVkaQi6bokHrrIGJWuYgdF/ftojE85zHrEf3FcfKkWFUaFcWYNJ10",
@@ -80,7 +80,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "DESDE CERO 1X4",
             "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
             "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWU1nuDuRTShoAcho2Rw24bFlimN1UkkUBU0aIl3pQZGbrYKI65KotCdcwJooz7n2GoY63oK4lzFvC//AvaOnLR",
@@ -88,7 +88,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "DESDE CERO 1X5",
             "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
             "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWU1nuDuRTShoAcho2Rw24bN7iDTy+FQkI9XHbXeraB2t+e9b2io3QdOPFvOy2LKBngqebNiSrJfWp90mzhOWju",
@@ -96,7 +96,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "DESDE CERO 1X6",
             "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
             "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWU1nuDuRTShoAcho2Rw24bzb6++ChMZGEIz0wpvbn9hDwtmGDkm3X/FQUii0T4uSNu6jCGuXa7gARS4oNplB9t",
@@ -104,7 +104,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "DESDE CERO 1X7",
             "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
             "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWU1nuDuRTShoAcho2Rw24baqRI+21AT5sD695gWsJ6lpn8CyOaeNhGfOx3mUg7Ascfjgmaw+IHLbu3kUEdfXd3",
@@ -112,7 +112,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+            
             "name": "DESDE CERO 1X8",
             "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/mNXnh4Ua8wMvSlAiXXzX7G3Ko5p.jpg",
             "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWU1nuDuRTShoAcho2Rw24bajv58hATygtY2jUWMNSjTSU1MwS4Ji+fOwmqNWbF8oj75/i4n4IO+FZ0Sg3jBnsV",
@@ -122,12 +122,12 @@
         ]
       },
       {
-         "type": "serie",
+         "tipo": "serie",
         "name": "BARRABRAVA (2023)",
         "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
         "temporada": [
           {
-             "type": "serie",
+             
             "name": "Barrabrava 1x1",
             "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
             "uri": "wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+WkxWkv/ymoKKELWhqoDG0KlZu+V8EvqkqkJksAl2sahg==",
@@ -135,7 +135,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "Barrabrava 1x2",
             "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
             "uri": "wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1oTMET5heiDsQu2ORapiOF5V5to83Wa+q4WBOO7+SboLw==",
@@ -143,7 +143,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "Barrabrava 1x3",
             "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
             "uri": "wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+Ux9LaolKAXe6aLfh2elWbfcbOI0Kos+LKBdgH4e0WSXg==",
@@ -151,7 +151,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "Barrabrava 1x4",
             "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
             "uri": "wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1qL8iyA0Q2U9uIUfz0wH1A8tkPU2t9T0WVSfhpQlCCSSQ==",
@@ -159,7 +159,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "Barrabrava 1x5",
             "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
             "uri": "wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+XG1GAn22NSL471LBnOZ3keS4xiiVAhhdNf1bwF/sSqrw==",
@@ -167,7 +167,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "Barrabrava 1x6",
             "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
             "uri": "wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1qJIwZ50myXMo7mTm9MoEDp/FEbkaKfKklvXMNU6UbYog==",
@@ -175,7 +175,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "Barrabrava 1x7",
             "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
             "uri": "wnWTkm1ra6ElgTEpZdemcQDlGUxBHZ2KW8avwqLdm+VK4moUqvT2c7y2a0X/BvxoxD8BZQUr33sKcdEawawkag==",
@@ -183,7 +183,7 @@
             "drm_license_url": ""
           },
           {
-             "type": "serie",
+             
             "name": "Barrabrava 1x8",
             "ico": "https://www.themoviedb.org/t/p/original/4WxxzHCESirA8qzR3r8fSNcjHBn.jpg",
             "uri": "wnWTkm1ra6ElgTEpZdemceoXh140K6R/CfcqQxEnC1oLwiVFxnoccfbbQyb1Xn87L1dJ5ATnfBJyq5M7ipPluA==",
@@ -200,7 +200,7 @@
     "lista":[
        
       {
-         "type": "movie",
+         "tipo": "movie",
         "name": "Kung Fu Panda 4 (2024)",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqe5pdLIoLeZSszA8N5ZvoIS4aB.jpg",
         "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQ1cmuAOb5sgBkG13CnTGaUi+XZzsHwo8369bQmZx4alA=",
@@ -208,7 +208,7 @@
         "drm_license_url": ""
       },
        {
-          "type": "movie",
+          "tipo": "movie",
     "name": "Rock Dog 3 - Perreando por un Sueño (2023)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/39Hr1FKfqqvx0umS60PCCWtBOKd.jpg",
     "uri": "ISGMQorzRLYc599YHSZzXL2NF0Z9bBwucdeVYZ1s503J33FENNO/alhuclkSfP0BsLGH7txkTL+Ww01ORCNINo0KarMHUD+o9rhImEqWyoQWoizSPA0o8IdD1r3IYsn5oUJJzE5hu24XH0PeXGRXJw==",
@@ -216,7 +216,7 @@
     "drm_license_url": ""
   },
        {
-          "type": "movie",
+          "tipo": "movie",
     "name": "La elefanta del mago (2023)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6qjWwffUqjJQ3y6734fhIBce8NS.jpg",
     "uri": "ISGMQorzRLYc599YHSZzXL2NF0Z9bBwucdeVYZ1s5026zgsuYQ8kpctubT0++SdEQkqPIFTAaPV8/5EQLvwFfOs7fdsM97T0IK8rNU3mMRVswc0WicKgSyignv8EkRZ5w9n3b8IXZW535IMKJa0bHQ==",
@@ -224,7 +224,7 @@
     "drm_license_url": ""
   },
       {
-         "type": "movie",
+         "tipo": "movie",
         "name": "Elemental (2023)",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3RuphN7wadSCoIhD7u1gkLkx634.jpg",
         "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73A6MhFNhjCsWxxHwtxJs8zzLMEGnWXULjvHZR93Ry2dk=",
@@ -232,7 +232,7 @@
         "drm_license_url": ""
       },
       {
-         "type": "movie",
+         "tipo": "movie",
         "name": "Fievel Un Cuento Americano (1986)",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jKADo2prqnosOMeh9ZEjRm8eUGI.jpg",
         "uri": "yCm98BfedwjqHB41xev/tSvUhzhFNU3B3rqHKhR6yBM0bjDJlfHeN9aG2HQSguGc0n6oubNl8G3SIA4RzuuerTiQt61XR1oclIQIMdiYOUA=",
