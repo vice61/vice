@@ -120,36 +120,141 @@
     "name":"2024",
     "mode":true,
     "lista":[
-       {
-    "name": "Cellphone (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fe15BYAlUaFi1cHHgGjfe3vRMYE.jpg",
-    "uri": "GfqxZ9vCOmCPCHOCW6Ek3Vr8GR8Ef8gNVI1DAKmNAxvbt2rCP/S9qPAYmYl9wxKigMO4Y8741BkVYsW4mGsLcxTvAyyzJMQeK1JDeXseTYzb/6UA82Ng50fUGvJ+P5pBBHZgRuLCRVK1Vhr9TIu/c+rKmGv4MiZv/tHbZYlwNBEcyFkOXGBe5soCz/C5n1x39ET6Hncrtmv/fCfN7NNOP2jmoYu36YgWwc7KpZQvm+Dx08lzYcfy9rO8Ch1NWt525vNedohcth3oJvvwFWnzxD9nHdiMjWYxNTeA2xqM/ZhE2oxSCEj87tdTMdXn0H4G",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-       {
-    "name": "Cazafantasmas: Imperio helado (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",
-    "uri": "/uhoIYgF51c/w3jivXDSiDJKZ3fJnU2S0zOCU8ZiF18Xe9EwuuwQC5Kgo1WQyYYOgELAs0pkELHK8ov6mEovGXVFXjHiV2TXci1tETGIsXyTkgNYmR8FfQ3assB61qnElP/jon6Nmv6g08WCGOoueBp2xOAnt3PiqE+ZakYsEGNPVxlDRnVVZvF0EnS0ChWOECRv1TYh8XlImRmYgapgUlx91GQRPb6K/wDPCSSNE0mW8GeoZ91JClTExFdEKJpnXxB0NCgA+04/X3Jk3L2MR2ajwMYNPcrmPwKlsE2D1wPwNb8w1GtNQBqodhyYaiVfRNDYcNh/tBqCFritN6dREQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-       {
-    "name": "Damsel (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85ojGbI3rDMmdWWmMDxmFljySuu.jpg",
-    "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQCddXCZCBpKaGGjXGPypyNec26fPrDylMAgG/EIYClqM=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
       {
-        "name": "ROAD HOUSE. De profesión: Duro (2024)",
-        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",
-        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQpyyIKKLhUf+jPs8tgkbRSqk5hHVAt/y/Vx6RW73IV2Y=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
+    "name": "Godzilla y Kong: El nuevo imperio (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjlJaSZh37rQDUagIre4ULP0AUgiv6ICTAjfN9hs2DUQv4UyurXOhKm6TjNPAeNfga",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
+  {
+    "name": "Abigail (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1wIp3yBijtgEpQrHZLqoX5laGLJ.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356CtP7alWQzMamyozEbMyyvG3uhIaofLBmoFkZa5PYXYqnVzTYueGfrq9d0AZB08/p",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La gran película de Baby Shark (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCijwCyk5uhi7a0G0ICcUZ5hwZi.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTpp9D6ph3fnDR1ibHTwe6BDZA9jl/K19ffWFPSlviSXDnVTwMXWX1WuHXag3T8Q8gc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cash Out (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3youHDLigrtIis1NqTjlY8Sk38.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356CtP7alWQzMamyozEbMyyvCaXCColAklCKGs3Ts/RncYt4nPH2sSSWP45i+Z55dHK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "castigos de la traición (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/al7ugHcazS5Eo6n7bm8dzF8vy1J.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjcooUoOBnum0KDg4hYUrSf3WpuV7tRl482BcHT/LGnJQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Jefe de Estacion (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uuA01PTtPombRPvL9dvsBqOBJWm.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356CtP7alWQzMamyozEbMyyvMRdnq0fVoVe2tWI4VaPspJiXIa15hfaq8F8eSJ3v65L",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Darkness of Man (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nFBjI5qFkqfvEvEx6VaylKGSOqp.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjkrOIu+srtwx8oO9uVhZgHJWsZGfG19WNpeiTt3nxAcQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dos chicas a la fuga (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJVGU3aNDLdhAy7yYa2G1XtdYOx.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjeU3eSVR+3+bQemq5eAU4exClwOE4ADmZSuaAOhYp80c=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dioses de la profundidad (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ea8609DKrceNJocKEUpDom6mHzx.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjCv/kzifajnkmRNZeCSTEPNIjjGmZ12B0spKkZE8dWoDE9AAiVE1p4Hp9UD7GdSle1p/lXU0x41Hr3RvfcrE3LA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Housekeeping for Beginners (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXg7Avh7eQzkeasMqwGiDxlQRqi.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjDjtycBw3XJXIgDtlfoCSmoeaX7fm+CsB/y7UFhXnrLvAJIg4FVqZNYaWZJ7jGDjo",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Las Pequeñas Cosas (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5acAWyCPxAR7Q2s3sPEGiwkIjiw.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjfFSitQHrF/F3Hx82GuHpRNfW0odVhJl0go1bcB4BctU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La madre de la novia (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LUy0JxMlCynStB2pCxTInwtjVx.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTj9ktB3r4N8bABV9gVMxDfKdeTR0mjkvMXkiR2z92BAeU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La vida entre leopardos (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tDLiovEqXBSxSQNYqIayzWmtfDp.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON43560SwEUNG2w9wTCzOgJtTjKCOe+LCJU7SyZm1P4BfuPgHqdVzIrIAfC519v2I+Nc6XEwnAKp76/oQ0iETXSD01XQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "New Life (2024)",
+    "ico": "https://reelreviews.com/images/stories/2024/new-life-poster.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356CtP7alWQzMamyozEbMyyvCIAdEqLSuSNjK91F3mDKLrrgj6OuhMxihbhsv3jYEta",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Noche de Bodas (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2iQoSPyAGHseY5NhMM28orLkxjq.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjk5xvaeCNaLQSqKALnue/zAq4R0fL46FAX2u8tOfJYbM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+     {
+  "name": "Cellphone (2024)",
+  "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fe15BYAlUaFi1cHHgGjfe3vRMYE.jpg",
+  "uri": "GfqxZ9vCOmCPCHOCW6Ek3Vr8GR8Ef8gNVI1DAKmNAxvbt2rCP/S9qPAYmYl9wxKigMO4Y8741BkVYsW4mGsLcxTvAyyzJMQeK1JDeXseTYzb/6UA82Ng50fUGvJ+P5pBBHZgRuLCRVK1Vhr9TIu/c+rKmGv4MiZv/tHbZYlwNBEcyFkOXGBe5soCz/C5n1x39ET6Hncrtmv/fCfN7NNOP2jmoYu36YgWwc7KpZQvm+Dx08lzYcfy9rO8Ch1NWt525vNedohcth3oJvvwFWnzxD9nHdiMjWYxNTeA2xqM/ZhE2oxSCEj87tdTMdXn0H4G",
+  "drm_scheme": "",
+  "drm_license_url": ""
+},
+     {
+  "name": "Cazafantasmas: Imperio helado (2024)",
+  "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",
+  "uri": "/uhoIYgF51c/w3jivXDSiDJKZ3fJnU2S0zOCU8ZiF18Xe9EwuuwQC5Kgo1WQyYYOgELAs0pkELHK8ov6mEovGXVFXjHiV2TXci1tETGIsXyTkgNYmR8FfQ3assB61qnElP/jon6Nmv6g08WCGOoueBp2xOAnt3PiqE+ZakYsEGNPVxlDRnVVZvF0EnS0ChWOECRv1TYh8XlImRmYgapgUlx91GQRPb6K/wDPCSSNE0mW8GeoZ91JClTExFdEKJpnXxB0NCgA+04/X3Jk3L2MR2ajwMYNPcrmPwKlsE2D1wPwNb8w1GtNQBqodhyYaiVfRNDYcNh/tBqCFritN6dREQ==",
+  "drm_scheme": "",
+  "drm_license_url": ""
+},
+     {
+  "name": "Damsel (2024)",
+  "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85ojGbI3rDMmdWWmMDxmFljySuu.jpg",
+  "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQCddXCZCBpKaGGjXGPypyNec26fPrDylMAgG/EIYClqM=",
+  "drm_scheme": "",
+  "drm_license_url": ""
+},
+    {
+      "name": "ROAD HOUSE. De profesión: Duro (2024)",
+      "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",
+      "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUcUG7w6AcX6SzQfh8RXSQQpyyIKKLhUf+jPs8tgkbRSqk5hHVAt/y/Vx6RW73IV2Y=",
+      "drm_scheme": "",
+      "drm_license_url": ""
+    }
+  ]
+},
   {
     "name":"2023",
     "mode":true,
