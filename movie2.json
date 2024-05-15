@@ -83,6 +83,83 @@
    "lista": [
      {
   "tipo": "serie",
+ "name": "Juego de tronos (2012) TEMP2",
+ "ico": "https://image.tmdb.org/t/p/original/yZtRt90wNuKXuWWrmAnmDz4IEvL.jpg",
+ "temporada": [
+  {
+    "name": "1",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpnyPYop5fGxg2kXgfCApQh0qQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "2",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpnyYOATntFmqfH6J8ugcma0gQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "3",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpnyN+OahHv7W7eCs14PwzB5Jg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "4",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpnyhfnSqJfGXJk1piUxWnlY+w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "5",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpny8n960cs/EkNSs1zZsj5etA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "6",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpnyJVPRmBo7BInSWEs/udOEcA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "7",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpnyyZjXnYvPqAqIc8OY8Ymw0g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "8",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpnyHLl8KQLNr4qPI4tKKb1N4g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "9",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpnymlqLqaUWgNfZO52L7dsSnQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "10",
+    "ico": "https://hotcorn-cdn.s3.amazonaws.com/wp-content/uploads/sites/2/2018/08/09172231/il-trono-di-spade-casa-lannister.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmoKKfr8Xkdy3Ec3G3eRpnys8/0Lv+DsPYK7liMvAytoQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+ ]
+},
+     {
+  "tipo": "serie",
  "name": "Juego de tronos (2011) TEMP1",
  "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
  "temporada": [
