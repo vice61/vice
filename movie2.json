@@ -4,76 +4,77 @@
      "name":"▐ ULTIMOS 10 AGREGADOS",
      "mode":true,
      "lista":[
-      {
+     
+  {
+    "name": "La sociedad de la nieve (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9tkJPQb4X4VoU3S5nqLDohZijPj.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVw9lsfg9hvO7DmC3aJTpuBnzFmZ1CclhiJmpb8yJYjUewXRB+UCqiLDRchpAAVL0qdBjKNeJHks2oD6QTSecT3c",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dave Chappelle: The Dreamer (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AfRIwykHu9taHgq9DHktdwVLmWC.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+NSxhIp4vxJ0F8aSNiGiVeDGtPDA4qeqqaa+1rh8KDVVeNWLQcgDfDYL47DimXZCVI9a9ClunTxBDdu1sbszsqA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Napoleón (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/re6SSQS1HgBGG9AMiNuPGISOfMx.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+ZIHzvQPVtWxYVzLCfsX/6Qc9vpX/UsqBPeAAZt9jmCL4ug8t97J758C7P8qOstJF",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Self Reliance (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm++uLzVNmohicikVzJgUHk8A3WC66BD+hZVClSjkF4KtWkTP5GGkdzexRyzHlryGh+tHlu+p1SNNevwDRBqJFcSg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los segundones (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVw9lsfg9hvO7DmC3aJTpuBnHUX/8nJNcUdEuCVpYfmQNwx3ArG+rfdduzo0MRJyAXxSeyBjOFxl4sNnWcnrEZGa",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Star (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aFjxI9yMd142au1O74JlUttG4Ki.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+KDga5wEBHvTujVCbBir24jCjYivEYNsIA2wITzpr8ypccpz3kEIyrndj5MquoTBF",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Una vez más (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVw9lsfg9hvO7DmC3aJTpuBn2E3Nsy1t7Sh9nk13Ml7NJS1gLnKZm+/5Y3VL8op9KVw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Wil (Voluntad) (2024)",
+    "ico": "https://pics.filmaffinity.com/wil-451460379-large.jpg",
+    "uri": "GK2ZwboYsmZkKJwIVVPsBsbvdfvdsc5Xrz3vocd19TwW4OiBuAFwSCONTCJQN4u0/0zOHj76EevYcb3gZpTlCRsg0qksKDvNNqfe0k/VvSw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "I.S.S. (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356sc9ChYaS3qXMPKMG9EpMrSr/O2iDPaFJelEOE/EN0a6mJi+HiaGcPByAR80cxFU5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
     "name": "Godzilla y Kong: El nuevo imperio (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
     "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjlJaSZh37rQDUagIre4ULP0AUgiv6ICTAjfN9hs2DUQv4UyurXOhKm6TjNPAeNfga",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "Abigail (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1wIp3yBijtgEpQrHZLqoX5laGLJ.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356CtP7alWQzMamyozEbMyyvG3uhIaofLBmoFkZa5PYXYqnVzTYueGfrq9d0AZB08/p",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La gran película de Baby Shark (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCijwCyk5uhi7a0G0ICcUZ5hwZi.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTpp9D6ph3fnDR1ibHTwe6BDZA9jl/K19ffWFPSlviSXDnVTwMXWX1WuHXag3T8Q8gc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Cash Out (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3youHDLigrtIis1NqTjlY8Sk38.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356CtP7alWQzMamyozEbMyyvCaXCColAklCKGs3Ts/RncYt4nPH2sSSWP45i+Z55dHK",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "castigos de la traición (2024)",
-    "ico": "https://image.tmdb.org/t/p/original/al7ugHcazS5Eo6n7bm8dzF8vy1J.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjcooUoOBnum0KDg4hYUrSf3WpuV7tRl482BcHT/LGnJQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Jefe de Estacion (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uuA01PTtPombRPvL9dvsBqOBJWm.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356CtP7alWQzMamyozEbMyyvMRdnq0fVoVe2tWI4VaPspJiXIa15hfaq8F8eSJ3v65L",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Darkness of Man (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nFBjI5qFkqfvEvEx6VaylKGSOqp.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjkrOIu+srtwx8oO9uVhZgHJWsZGfG19WNpeiTt3nxAcQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Dos chicas a la fuga (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJVGU3aNDLdhAy7yYa2G1XtdYOx.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjeU3eSVR+3+bQemq5eAU4exClwOE4ADmZSuaAOhYp80c=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Dioses de la profundidad (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ea8609DKrceNJocKEUpDom6mHzx.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjCv/kzifajnkmRNZeCSTEPNIjjGmZ12B0spKkZE8dWoDE9AAiVE1p4Hp9UD7GdSle1p/lXU0x41Hr3RvfcrE3LA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Housekeeping for Beginners (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fXg7Avh7eQzkeasMqwGiDxlQRqi.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjDjtycBw3XJXIgDtlfoCSmoeaX7fm+CsB/y7UFhXnrLvAJIg4FVqZNYaWZJ7jGDjo",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }     
+  }
      ]
   },
   {
@@ -1473,6 +1474,62 @@
   "mode":true,
   "lista":[
     {
+    "name": "Race for Glory: Audi vs Lancia (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rwu27eJfUbuHa8zubVXMRWptiZ8.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+KDga5wEBHvTujVCbBir24vR78+eBSYE2EO9NxN3ZJTHbwAI+XsFN4irQm0k42yeO",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Jacqueline Novak: Get on Your Knees (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hC3tjla6HQCIj09fgVE5qdixNGb.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+NR8IgxxsLK6BMBGNeVjZbNSrcHVts+nYeorxRvrTmdcMAAsSXaYc6tgP5uVPBqjbLPe31VZCVL0QXiprCo3Ae4jSwbg/uZ7TnFXd0FJDkc8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Kevin James: Irregardless (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mmyxo5C8Py2QILm1IIt4bMSy3Yv.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+EULs93x/0U5r9ojRbVwQJgPkgMu4hy2ajP8SaNAtjytVt9DsfboqRYJ6VS4Y9DdinFNCQh1/b+0mMbHqs5RgZQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los segundones (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVw9lsfg9hvO7DmC3aJTpuBnHUX/8nJNcUdEuCVpYfmQNwx3ArG+rfdduzo0MRJyAXxSeyBjOFxl4sNnWcnrEZGa",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Star (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aFjxI9yMd142au1O74JlUttG4Ki.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+KDga5wEBHvTujVCbBir24jCjYivEYNsIA2wITzpr8ypccpz3kEIyrndj5MquoTBF",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Una vez más (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVw9lsfg9hvO7DmC3aJTpuBn2E3Nsy1t7Sh9nk13Ml7NJS1gLnKZm+/5Y3VL8op9KVw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Wil (Voluntad) (2024)",
+    "ico": "https://pics.filmaffinity.com/wil-451460379-large.jpg",
+    "uri": "GK2ZwboYsmZkKJwIVVPsBsbvdfvdsc5Xrz3vocd19TwW4OiBuAFwSCONTCJQN4u0/0zOHj76EevYcb3gZpTlCRsg0qksKDvNNqfe0k/VvSw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "I.S.S. (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg",
+    "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356sc9ChYaS3qXMPKMG9EpMrSr/O2iDPaFJelEOE/EN0a6mJi+HiaGcPByAR80cxFU5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+    {
     "name": "Godzilla y Kong: El nuevo imperio (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
     "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjlJaSZh37rQDUagIre4ULP0AUgiv6ICTAjfN9hs2DUQv4UyurXOhKm6TjNPAeNfga",
@@ -1611,6 +1668,34 @@
   "name":"▐ 2023",
   "mode":true,
   "lista":[
+    {
+    "name": "La sociedad de la nieve (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9tkJPQb4X4VoU3S5nqLDohZijPj.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVw9lsfg9hvO7DmC3aJTpuBnzFmZ1CclhiJmpb8yJYjUewXRB+UCqiLDRchpAAVL0qdBjKNeJHks2oD6QTSecT3c",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+    {
+    "name": "Dave Chappelle: The Dreamer (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AfRIwykHu9taHgq9DHktdwVLmWC.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+NSxhIp4vxJ0F8aSNiGiVeDGtPDA4qeqqaa+1rh8KDVVeNWLQcgDfDYL47DimXZCVI9a9ClunTxBDdu1sbszsqA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Napoleón (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/re6SSQS1HgBGG9AMiNuPGISOfMx.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+ZIHzvQPVtWxYVzLCfsX/6Qc9vpX/UsqBPeAAZt9jmCL4ug8t97J758C7P8qOstJF",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Self Reliance (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
+    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm++uLzVNmohicikVzJgUHk8A3WC66BD+hZVClSjkF4KtWkTP5GGkdzexRyzHlryGh+tHlu+p1SNNevwDRBqJFcSg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
     {
   "name": "Muchachos (2023)",
   "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg",
