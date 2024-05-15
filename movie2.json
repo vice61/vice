@@ -83,6 +83,83 @@
    "lista": [
      {
   "tipo": "serie",
+ "name": "Juego de tronos (2013) TEMP3",
+ "ico": "https://image.tmdb.org/t/p/original/9GCtmu571WbJZfBqeVejEdU4QJU.jpg",
+ "temporada": [
+    {
+        "name": "1",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR83PYVY55Sgs5n0m1a57HTLg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "2",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR87SU/7O8cdOn8LQBlYD2OHg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "3",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR8H1ku8NPfYJBh/rEtUtY+3w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "4",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR8k2XVQJ8ZeGXRa4t+FnD8yA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "5",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR81tJncnDOPfzfvcoRUuFBWw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "6",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR8nV67U7jyYIymqJo+cnmxmg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "7",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR8yPJwqOEcPCxGS6xxOvYV5Q==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "8",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR8mNNqkUVKpTvqEDIYu9NHbg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "9",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR8Cw5iz0rdSAd9wxPc94W0oA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "10",
+        "ico": "https://1.bp.blogspot.com/-FmQ3TCVkDXM/WqHYVGPDvmI/AAAAAAAAAUE/MqbFSa-jqM8_hKhD153KCpaCDedmOftqQCLcBGAs/s640/cq5dam.web.1200.675%2B%25282%2529.jpeg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfmB5PErvVI32naHBVbZKHR8VTmV/0C9i8qUdKql5NkxuA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+ ]
+},
+   {
+  "tipo": "serie",
  "name": "Juego de tronos (2012) TEMP2",
  "ico": "https://image.tmdb.org/t/p/original/yZtRt90wNuKXuWWrmAnmDz4IEvL.jpg",
  "temporada": [
