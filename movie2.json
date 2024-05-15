@@ -82,6 +82,83 @@
    "mode": true,
    "lista": [
      {
+  "tipo": "serie",
+ "name": "Juego de tronos (2011) TEMP1",
+ "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z9gCSwIObDOD2BEtmUwfasar3xs.jpg",
+ "temporada": [
+  {
+    "name": "1",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0nflvTgOoqlq2gI+hlrKRxw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "2",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0GVkzcMNzFcjSlp0/9jW/hw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "3",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0N5jPIOe9UFnxRZUtqUiCcQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "4",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0LaQE6lZx1PVqZRup9kHnNQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "5",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0ji15rHcU/pToL6Kg9eb43w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "6",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0Qhgp6GRtdTdcDZeYi6kmHQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "7",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0OJjaGHcfxUdDX081+Kz69A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "8",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0sGj4wtgL64mv/mHJQFVryg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "9",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0KUb0Bod4KbBa8PNuhD9Xqw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "10",
+    "ico": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZflfVKnTcrpg0744xsi4ynz0Y0Ltr5WeG5xXr5iySUYCrg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+ ]
+},
+     {
         "tipo": "serie",
        "name": "DESDE CERO",
        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s8D32MA8NlNgixnAIxVbmt9cazX.jpg",
