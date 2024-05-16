@@ -83,6 +83,83 @@
    "lista": [
      {
   "tipo": "serie",
+ "name": "Juego de tronos (2016) TEMP6",
+ "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+ "temporada": [
+    {
+        "name": "1",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOaONV4KS1u3/3g/9UQvAWItw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "2",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOa5mEZvwFaYQMFokRCsQpO5w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "3",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOaRCQOxclYAEO/eiRALwF6Sw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "4",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOafqhGOuDCo0mw9ZXXZID9Ug==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "5",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOa3tmihORI+b+CGSAqKM9UOw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "6",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOakstEDiRQOX3bm1QWK9gKOg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "7",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOaFTUonz61l/o/+1soSw8N0A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "8",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOasTwpgtrbIILwDMHpuNW81A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "9",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOa4ZGQvDESC3ulzvH28zEDbw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "10",
+        "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfn6IuiS2nTzY4b2N8ZoTbOaGXU+y28LPAFMwC9RNXEbng==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+ ]
+},
+     {
+  "tipo": "serie",
  "name": "Juego de tronos (2015) TEMP5",
  "ico": "https://image.tmdb.org/t/p/original/kAMRCBWyYuLxC3r3hSaWCOUZWbe.jpg",
  "temporada": [
