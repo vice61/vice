@@ -83,6 +83,62 @@
    "lista": [
      {
   "tipo": "serie",
+ "name": "Juego de tronos (2017) TEMP7",
+ "ico": "https://image.tmdb.org/t/p/original/hJ7Zlmpg32umwDwqCdzKD72AvTC.jpg",
+ "temporada": [
+    {
+        "name": "1",
+        "ico": "https://image.tmdb.org/t/p/original/hJ7Zlmpg32umwDwqCdzKD72AvTC.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfkTyGY4hXIosM9QX7Aq18z134eLGVkXq2pbC17qQ4h46w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "2",
+        "ico": "https://image.tmdb.org/t/p/original/hJ7Zlmpg32umwDwqCdzKD72AvTC.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfkTyGY4hXIosM9QX7Aq18z1qUqu/+xsnwE4J3BVtAU5MQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "3",
+        "ico": "https://image.tmdb.org/t/p/original/hJ7Zlmpg32umwDwqCdzKD72AvTC.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfkTyGY4hXIosM9QX7Aq18z1rMheGoq+RYNrnmXBaoKhXQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "4",
+        "ico": "https://image.tmdb.org/t/p/original/hJ7Zlmpg32umwDwqCdzKD72AvTC.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfkTyGY4hXIosM9QX7Aq18z1O2Ps7id1yEioTLF0LAXIug==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "5",
+        "ico": "https://image.tmdb.org/t/p/original/hJ7Zlmpg32umwDwqCdzKD72AvTC.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfkTyGY4hXIosM9QX7Aq18z1VoewPRA2/I+enklQ7dbCMw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "6",
+        "ico": "https://image.tmdb.org/t/p/original/hJ7Zlmpg32umwDwqCdzKD72AvTC.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfkTyGY4hXIosM9QX7Aq18z1uClYA1Mx4lWASxyToifkcg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "7",
+        "ico": "https://image.tmdb.org/t/p/original/hJ7Zlmpg32umwDwqCdzKD72AvTC.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfkTyGY4hXIosM9QX7Aq18z12bH3PJRFySBOLpeEM0loYg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+ ]
+},
+     {
+  "tipo": "serie",
  "name": "Juego de tronos (2016) TEMP6",
  "ico": "https://image.tmdb.org/t/p/original/qBDWhOGuzpDkfuG0Es62ghqFFQg.jpg",
  "temporada": [
