@@ -83,6 +83,55 @@
    "lista": [
      {
   "tipo": "serie",
+ "name": "Juego de tronos (2019) TEMP8",
+ "ico": "https://image.tmdb.org/t/p/original/eh0vG2mpHzazj3PPfQGlnQcqq2g.jpg",
+ "temporada": [
+    {
+        "name": "1",
+        "ico": "https://image.tmdb.org/t/p/original/eh0vG2mpHzazj3PPfQGlnQcqq2g.jpg",
+        "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVx+3D5FTYszA+OZq3b2cF20ejlfVanoYufN6/P0fCSg+7w6jyNs6vXinJ/nCNWSrsg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "2",
+        "ico": "https://image.tmdb.org/t/p/original/eh0vG2mpHzazj3PPfQGlnQcqq2g.jpg",
+        "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVx+3D5FTYszA+OZq3b2cF20ejlfVanoYufN6/P0fCSg+2HUEnuvpMIAnrue2G1HbkI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "3",
+        "ico": "https://image.tmdb.org/t/p/original/eh0vG2mpHzazj3PPfQGlnQcqq2g.jpg",
+        "uri": "T7PrQllxGHTP3r/VSDIWSn74DT+jXzlsl1qrZG1GIDQclDoczxTcI46LWP+ANLpLTKzkaEPLw7mGePujIay94pMrM0jcHcAYxfdaChOIZ3MMulVRNeGREH+ulpXO+6y1",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "4",
+        "ico": "https://image.tmdb.org/t/p/original/eh0vG2mpHzazj3PPfQGlnQcqq2g.jpg",
+        "uri": "B80jPE9GRxEdtZ7/hafb7x8zNRVlccuGdNb9ZISdqK3bLGEQ6NK9g95Zzcdc9pKI40dGZRJfFhilk4ny0U70ORD8rNxlsyYvVRDzq+Zp86JKpa9JRdm2JkM426BUONBl",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "5",
+        "ico": "https://image.tmdb.org/t/p/original/eh0vG2mpHzazj3PPfQGlnQcqq2g.jpg",
+        "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVx+3D5FTYszA+OZq3b2cF20ejlfVanoYufN6/P0fCSg+yehydWeeUFy5YYIor0kjkQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "6",
+        "ico": "https://image.tmdb.org/t/p/original/eh0vG2mpHzazj3PPfQGlnQcqq2g.jpg",
+        "uri": "u/RWWtEV3KU9WlPhc5tU4+mwYYSSrKC5lB2sbjr0Gz4NVwVW8aKqUOkSpwMDfvXHCkXPs4/ClCivNS3nz6GEAj8QT19ugDGHLekZ/pM8o8WrbusXdc5MgCNspcmptOxh",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+ ]
+},
+     {
+  "tipo": "serie",
  "name": "Juego de tronos (2017) TEMP7",
  "ico": "https://image.tmdb.org/t/p/original/hJ7Zlmpg32umwDwqCdzKD72AvTC.jpg",
  "temporada": [
