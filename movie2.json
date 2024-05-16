@@ -83,6 +83,83 @@
    "lista": [
      {
   "tipo": "serie",
+ "name": "Juego de tronos (2014) TEMP4",
+ "ico": "https://image.tmdb.org/t/p/original/AuuDrWTkGQcvyDbkxaU3gKrPolW.jpg",
+ "temporada": [
+    {
+        "name": "1",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dG5myUuhAn+r1bLzxlb7DdLQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "2",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dGPQ7YRHgwHWW2JZQ51Tj8hg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "3",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dG/lN6juj0cWgFuo4Yqa6PzQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "4",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dGUGHMc6tBdfVbxIT7JhBfeg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "5",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dGhLkGbAW3GhD5QJjjp6xD1g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "6",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dGCZIhQJQipduXzixWWYkuMw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "7",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dGlyixGaQ4Nlw+cCh+5t4Gsw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "8",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dGSplXRZdhsLI4UjCq4PY9cw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "9",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dGn063AKtjeiHdEML56DnSEw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "10",
+        "ico": "https://wallup.net/wp-content/uploads/2016/05/27/165831-Game_of_Thrones.jpg",
+        "uri": "Wwk4eE+2Trp+iyYhEJ1JqF408K3oQY5VNWRDZBEaaEz+d0QUiLHzaVAg/Jinwt7x8wXY+n8KWgYp9OqAnB/yzkpKeQUfcdm37s385c/rZfksQL2oy321WEZncv1c++dG6Fb+BZguTX5jwe9kf3HARA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+ ]
+},
+     {
+  "tipo": "serie",
  "name": "Juego de tronos (2013) TEMP3",
  "ico": "https://image.tmdb.org/t/p/original/9GCtmu571WbJZfBqeVejEdU4QJU.jpg",
  "temporada": [
