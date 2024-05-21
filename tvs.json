@@ -1321,8 +1321,7 @@
     "uri": "TnxiECgP8d5FJT4v3TGUJ5MkR4QnkhNtwt0WE8SlnSLBvmkiokhzJwfX3H4Zdv2Q0uLG2CgTwL3HS4iUWFM3yeWn+F5KQ84wteSYDKdrVCdKS04PN4pg0QwXeFI/gBddXX/vqDMwinRVv92AxMOlaQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
-],
+  },
           {
              "name":"Canal 13 La Rioja",
              "ico":"https://serbox.com.ar/panel/ico/regionales/rioja.jpeg",
@@ -1763,10 +1762,7 @@
              "uri":"hir1HHpQac50YPTzp9ag4CSi0Z+UuFRpfyTKyTjHCnR0Ifbfw5Q5EOWBp3g0RlRNM3F8QWiCL3msM/pQuSgPQg==",
              "drm_scheme":"",
              "drm_license_url":""
-          }
-       ]
-    }
-    
-    
- ]
- 
+            }
+        ]
+     }
+  ]
