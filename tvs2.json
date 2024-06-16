@@ -269,19 +269,26 @@
             "drm_license_url": "rveQeR04KbKQJtfyNj/xQlYp/H0fRipk2VNuvN/Ri5Cq+IS1f5hcmvdlkUsH4lzrvuxq5XOJNPyMjdBHJxjP5Q=="
           },
           {
-            "name": "DIRECTV SPORTS",
-            "ico": "https://miovh.servinter.online/panel/ico/deportes/directvsports.png",
-            "uri": "pUvSnDbhdP/xbSbTt2S/1DRuVukRJdHBowTAoJxKbe4Fxnb+9O3BlDz0CeN4HMReBTIN/MdzDaq6G5VH0RHr2tLUC5nxwozQgMrvpM/Uy+7hPCThpJtUDBRnMksYHwEjq2ZNJ1aRuF4qjU8feXk9B+kYW1k2j9p5siNPbQLMBeMNlO4XPmr91e6giKYP+9Ts5kpj5ESIOEhBB5i7ClsHUvsEYoVhR+FWb1uA70ttpLP+kWMGvQKsWWMM+tfaQ+AVWyFovdDeQju8wOzDWCbqJ1xpHGXJxmPFkdTrBoMSORw04Bzh9Ipc6ifM6R7E2GtEpP2W5SxA7uS1PSysuORFzWcjA8uuBrC3guMzLotg25k=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "DSPORTS 2 HD",
-            "ico": "https://miovh.servinter.online/panel/ico/deportes/directvsports2.png",
-            "uri": "DxwY6mlGMXDr4sSgitkPBdqknqCZGClDMYq5tPlq+uxBfsabSW3PvJpzYjw6kSWn+7ZYNHHwFajxnavBt5JJ9FIfR/BQPDhvEXG0sDdUPB0dbiyqeF5he4Jr9AiqubwZ",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
+    "name": "DIRECT TV",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "Ozl8Yuy1g2OTPcyvYjzVu0LHaiH+YTIpyMx8GVEON6xSf75Hb5YCDxY7y98RRr3y8eNi5OX6r9PhERqG6/Kmjg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV 2",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
+    "uri": "Ozl8Yuy1g2OTPcyvYjzVu0LHaiH+YTIpyMx8GVEON6xSf75Hb5YCDxY7y98RRr3yyUsba+DtrL7MUeCtR3AneQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV PLUS",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/1/613_blanco2.png",
+    "uri": "Ozl8Yuy1g2OTPcyvYjzVu0LHaiH+YTIpyMx8GVEON6xSf75Hb5YCDxY7y98RRr3yxGsQCmdTG+CrXFjlbdLT4Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
             "name": "EVENTO",
             "ico": "https://miovh.servinter.online/panel/ico/deportes/logo.png",
