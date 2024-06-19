@@ -4,6 +4,13 @@
      "name":"▐ ULTIMAS 10 PELICULAS AGREGADAS",
      "mode":true,
      "lista":[
+       {
+    "name": "INTENSA-MENTE 2 (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/tMnOaOuKEdYzuXPjpoX8L4bVhQx.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3WoM5w6rtJstOtE/gcDt+cuGkdzhFQivANJOcZNwIU9JXA0u8aEVp1KwvHWd16rfPE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
      
   {
     "name": "La sociedad de la nieve (2023)",
@@ -67,14 +74,7 @@
     "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356sc9ChYaS3qXMPKMG9EpMrSr/O2iDPaFJelEOE/EN0a6mJi+HiaGcPByAR80cxFU5",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-        {
-    "name": "Godzilla y Kong: El nuevo imperio (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjlJaSZh37rQDUagIre4ULP0AUgiv6ICTAjfN9hs2DUQv4UyurXOhKm6TjNPAeNfga",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+  }    
      ]
   },
   {
@@ -1993,6 +1993,13 @@
    "name":"▐ INFANTILES",
    "mode":true,
    "lista":[
+     {
+    "name": "INTENSA-MENTE 2 (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/tMnOaOuKEdYzuXPjpoX8L4bVhQx.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3WoM5w6rtJstOtE/gcDt+cuGkdzhFQivANJOcZNwIU9JXA0u8aEVp1KwvHWd16rfPE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       
      {
         "tipo": "movie",
