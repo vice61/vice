@@ -83,6 +83,20 @@
    "lista": [
      {
   "tipo": "serie",
+ "name": "LA CASA DEL DRAGON TEMP2",
+ "ico": "https://image.tmdb.org/t/p/original/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+ "temporada": [
+  {
+    "name": "1",
+    "ico": "https://image.tmdb.org/t/p/original/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+    "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWzn+ZpDNafq+P9ZMhojyktKRdFPcjZNCAYDnleLBtaVPRp2K7N8T9N6RzzuCLFMIMimh6sZQ4Sq7YVWRIROIft",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+ ]
+},
+     {
+  "tipo": "serie",
  "name": "Juego de tronos (2019) TEMP8",
  "ico": "https://image.tmdb.org/t/p/original/eh0vG2mpHzazj3PPfQGlnQcqq2g.jpg",
  "temporada": [
