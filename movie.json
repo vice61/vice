@@ -3,6 +3,13 @@
      "name":"▐ ULTIMOS 10 AGREGADOS",
      "mode":true,
      "lista":[
+        {
+    "name": "Bad Boys: Ride or Die (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3XsreseRWxuzv9YvhxVxevWCliJO+orLrii1pRWLaBymnQdo8mJpgJwvE0ZVhNk8Po=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
      {
     "name": "La sociedad de la nieve (2023)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9tkJPQb4X4VoU3S5nqLDohZijPj.jpg",
@@ -65,14 +72,7 @@
     "uri": "4gy1aGc+rNjfHtBJNYConp0bBFdHM/CI7DavVABIYbBrGp3hQHxu9qpEoZON4356sc9ChYaS3qXMPKMG9EpMrSr/O2iDPaFJelEOE/EN0a6mJi+HiaGcPByAR80cxFU5",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-        {
-    "name": "Godzilla y Kong: El nuevo imperio (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
-    "uri": "4gy1aGc+rNjfHtBJNYConkrpbXPKlkZxNS3ODZEibTqfafSbo389QqeP0zy2PqTjlJaSZh37rQDUagIre4ULP0AUgiv6ICTAjfN9hs2DUQv4UyurXOhKm6TjNPAeNfga",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }     
+  }  
      ]
   },
    {
@@ -120,6 +120,13 @@
     "name":"2024",
     "mode":true,
     "lista":[
+       {
+    "name": "Bad Boys: Ride or Die (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg",
+    "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3XsreseRWxuzv9YvhxVxevWCliJO+orLrii1pRWLaBymnQdo8mJpgJwvE0ZVhNk8Po=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
     "name": "Race for Glory: Audi vs Lancia (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rwu27eJfUbuHa8zubVXMRWptiZ8.jpg",
