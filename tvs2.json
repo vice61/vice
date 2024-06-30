@@ -3,6 +3,34 @@
        "name":"▐ NOTICIAS",
        "mode":false,
        "lista":[
+        {
+          "name": "GH 24HS",
+          "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
+          "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBVei7N1RaqDJqYqsDH+XglKQ==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "GH 1",
+          "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
+          "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBVkS0JKjo0RoWPRrrZrYATwA==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "GH 2",
+          "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
+          "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBVSf4Jz+Qf2nS8Meot7e4eEw==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "GH 3",
+          "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
+          "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBVghdupkHPsPMktlFqTgIMPg==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
          {
             "name": "AMERICA",
             "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
@@ -135,6 +163,34 @@
       "name": "▐ COPA AMERICA",
       "mode": false,
       "lista": [
+        {
+          "name": "COPA AMERICA",
+          "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+          "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBV7TDiO9F3Cg11b+sSPleXRg==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "EURO 2024",
+          "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
+          "uri": "JVKxDC8ytYMjXQVQ3TnQN2UsZ5kPKKiBSSIc+j1UPHdHY/3rjcPuzGgsp/jpb+8+gvmXpv1eozhNscHUKQvqHlZW7H5CjGS+8OAX2TZOI3/+K+ksRJQ3irFQv8I0ykMiV4P8paI6o2UwYkBbVEnKyA==",
+          "drm_scheme": "ClearKey",
+          "drm_license_url": "UuMn5ADtvA+u7LVls1jWkVgOPMfY+rop46rdDmd63b+NTWVOKMc66w8Gcej1YmsMEDUJlVsTLCWMyU2AVu/3uA=="
+        },
+        {
+          "name": "EURO 2024*",
+          "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
+          "uri": "vcHQlM7mYGeuyG+OHCvflYQVzvU/+HuHQDqOueffV5LOYZw2AKUNdjjGgWNB0sYAnfPnMuGm0By8H3yxPk2b0Cx1VCJXqzTGS6Lcs8I3sQTjZumXBhye1T2yjU/zVDmo",
+          "drm_scheme": "ClearKey",
+          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqHU485GbItGuJwn25O6qg9CV8BVelwO01HqZEZ8DepeBNdY3cYftAGSh91ZgRU+tJULCB7iVnAVP3AmXpi+rTRiR0WXE9f/oufh8ok6354aNcAQo7E7tmv5SYZiFVWUKQ=="
+        },
+        {
+          "name": "EURO 2024 V1",
+          "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
+          "uri": "Neh9egoLfWFBBMQ99lxM9+yu0co44K+7mLgXmuJLkDLXmy4TqI3GG0YFltQ/2+vGEBc5VnNyMXNedgK/vLGAuCN/ZoqycufkEBOmpK5q4hMTcxA+2VkldrfmwNzy3Shg",
+          "drm_scheme": "ClearKey",
+          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKn7xk1TQ/M45xJ21ZDFMapJx7I1DXbAMn304g2V/OQeqzQ29Eba6olSXI+kc002XDFCDg3d+zgpbifHbAFR2Y/lb0NK7P+uxA6KSIwYo7RTaVJ9bhK1WrHySVEmHldo8GQ=="
+        },
         {
           "name": "BRASIL",
           "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
@@ -2117,6 +2173,75 @@
           }
         ]
      },
+     {
+      "name": "▐ PLATAFORMAS",
+      "mode": false,
+      "lista": [
+        {
+          "name": "APPLE TV 1",
+          "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+          "uri": "MPs1LKrMNy1rulFFkKlonLyJ5P0XENhv4jAJj40bJPtr5dYK9YfxAUADFhsvieZSzB+J2Gv+I+UXXHsTUOhvBzt/v8q/n+tYxS7it60Oziw=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "APPLE TV 2",
+          "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+          "uri": "MPs1LKrMNy1rulFFkKlonLyJ5P0XENhv4jAJj40bJPtr5dYK9YfxAUADFhsvieZSzB+J2Gv+I+UXXHsTUOhvB+pAMK+CgwjOOPAOejEXTqE=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "APPLE TV 3",
+          "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+          "uri": "MPs1LKrMNy1rulFFkKlonLyJ5P0XENhv4jAJj40bJPtr5dYK9YfxAUADFhsvieZSzB+J2Gv+I+UXXHsTUOhvB3VFfS28csZIC+KZDn7cGF0=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "APPLE TV 4",
+          "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+          "uri": "MPs1LKrMNy1rulFFkKlonLyJ5P0XENhv4jAJj40bJPtr5dYK9YfxAUADFhsvieZSzB+J2Gv+I+UXXHsTUOhvB5tgrQ7yX5P3pDVc/HEs4G0=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "STAR+ 1",
+          "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+          "uri": "MPs1LKrMNy1rulFFkKlonLyJ5P0XENhv4jAJj40bJPtr5dYK9YfxAUADFhsvieZSzB+J2Gv+I+UXXHsTUOhvBw/hQR2wrNs0IMCaObzRP00=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "STAR+ 2",
+          "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+          "uri": "MPs1LKrMNy1rulFFkKlonLyJ5P0XENhv4jAJj40bJPtr5dYK9YfxAUADFhsvieZSzB+J2Gv+I+UXXHsTUOhvB+nm1LGK6514LOJjfQ7M1ts=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "STAR+ 3",
+          "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+          "uri": "MPs1LKrMNy1rulFFkKlonLyJ5P0XENhv4jAJj40bJPtr5dYK9YfxAUADFhsvieZSzB+J2Gv+I+UXXHsTUOhvB4e3BLk1V6UsBUR2mHAI6SI=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "STAR+ 4",
+          "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+          "uri": "MPs1LKrMNy1rulFFkKlonLyJ5P0XENhv4jAJj40bJPtr5dYK9YfxAUADFhsvieZSzB+J2Gv+I+UXXHsTUOhvB/1kNwUoFDC4Eq5rb4+3T1Q=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "STAR+ 5",
+          "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+          "uri": "MPs1LKrMNy1rulFFkKlonLyJ5P0XENhv4jAJj40bJPtr5dYK9YfxAUADFhsvieZSzB+J2Gv+I+UXXHsTUOhvB29uUjc+46czC/aslcFlu3Q=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        }
+      ]
+    },
      {
       "name": "▐ 🇵🇾 PARAGUAY🇵🇾",
       "mode": false,
