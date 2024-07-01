@@ -4836,7 +4836,14 @@
           "uri": "nrlh/mQjJ7IzJFGasCEF75A2xm74Qt4D/W0Wwfo824I2JuNXuRBHvCyERTksobv8viGWrp86K8NCOqC0sYtGW077GbX/jhehsIZ9Sj/amGYngiuzHouwdlyrVDYci36OsEbOlxxGQSImI7icPVl+GI14aS0IqJSjjTNXvsgBy8M=",
           "drm_scheme": "",
           "drm_license_url": ""
-        }
+        },
+          {
+    "name": "test",
+    "ico": "https://miovh.servinter.online/panel/ico/deportes/logo.png",
+    "uri": "aBdzUUSTqfMaLdPi4Zh6pi6kcn85OApR+K8rUkqhcNLkp8xQxwphuQcy51iwumv8",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
       ]
     }
   ]
