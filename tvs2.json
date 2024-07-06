@@ -171,166 +171,152 @@
     "drm_license_url": ""
   },
         {
-          "name": "COPA AMERICA",
-          "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
-          "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBV7TDiO9F3Cg11b+sSPleXRg==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "EURO 2024",
-          "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
-          "uri": "JVKxDC8ytYMjXQVQ3TnQN2UsZ5kPKKiBSSIc+j1UPHdHY/3rjcPuzGgsp/jpb+8+gvmXpv1eozhNscHUKQvqHlZW7H5CjGS+8OAX2TZOI3/+K+ksRJQ3irFQv8I0ykMiV4P8paI6o2UwYkBbVEnKyA==",
-          "drm_scheme": "ClearKey",
-          "drm_license_url": "UuMn5ADtvA+u7LVls1jWkVgOPMfY+rop46rdDmd63b+NTWVOKMc66w8Gcej1YmsMEDUJlVsTLCWMyU2AVu/3uA=="
-        },
-        {
-          "name": "EURO 2024*",
-          "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
-          "uri": "vcHQlM7mYGeuyG+OHCvflYQVzvU/+HuHQDqOueffV5LOYZw2AKUNdjjGgWNB0sYAnfPnMuGm0By8H3yxPk2b0Cx1VCJXqzTGS6Lcs8I3sQTjZumXBhye1T2yjU/zVDmo",
-          "drm_scheme": "ClearKey",
-          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqHU485GbItGuJwn25O6qg9CV8BVelwO01HqZEZ8DepeBNdY3cYftAGSh91ZgRU+tJULCB7iVnAVP3AmXpi+rTRiR0WXE9f/oufh8ok6354aNcAQo7E7tmv5SYZiFVWUKQ=="
-        },
-        {
-          "name": "EURO 2024 V1",
-          "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
-          "uri": "Neh9egoLfWFBBMQ99lxM9+yu0co44K+7mLgXmuJLkDLXmy4TqI3GG0YFltQ/2+vGEBc5VnNyMXNedgK/vLGAuCN/ZoqycufkEBOmpK5q4hMTcxA+2VkldrfmwNzy3Shg",
-          "drm_scheme": "ClearKey",
-          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKn7xk1TQ/M45xJ21ZDFMapJx7I1DXbAMn304g2V/OQeqzQ29Eba6olSXI+kc002XDFCDg3d+zgpbifHbAFR2Y/lb0NK7P+uxA6KSIwYo7RTaVJ9bhK1WrHySVEmHldo8GQ=="
-        },
-        {
-          "name": "BRASIL",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
-          "uri": "efS4elR/2tdkHpFdWDQ3nCnzcFcIJM5B8/ZUSdG1bfq5MLVhpSGZGVy075NxN1rhNUmnn3OXcaXhENriqtYh5R5pxxF1LaxUr1pJmbGlIOE=",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "BRASIL",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
-          "uri": "efS4elR/2tdkHpFdWDQ3nCnzcFcIJM5B8/ZUSdG1bfq5MLVhpSGZGVy075NxN1rhNUmnn3OXcaXhENriqtYh5Wxs5cjmrxKAJJQ+sAMKt8Q=",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "BRASIL",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
-          "uri": "idX8n0cb1N+vFR2g68iFtCkP9oci4UoxBZ7xCc67/aVDCetODEevRjqUss2zKIutpa4ihfysCIChYEAzPsPMmQ==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "ARGENTINA",
-          "ico": "https://seeklogo.com/images/A/afa-argentina-3-star-logo-CE85FC39D9-seeklogo.com.png",
-          "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA0fOpe0XFDA/CSMRnsX8gYevC/Gcj7j8UKZaI3InmfIq8OXHke2c9Fatj/QHrkKNvIKstrPjtzpxZ5hn8GLqJL",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi/kxbF66U/NX+R5UFpcdB5oESjXxlbZKp9r+zB20nvs8Iea04v0lG0T6NvD3ZiwT12UCZqJU0UUgJAZJT7F3MR7GCacCedn8SXNmD4DSrv1xWk4ryCTt7DHrZ5hwZHIJQ=="
-        },
-        {
-          "name": "ARGENTINA",
-          "ico": "https://seeklogo.com/images/A/afa-argentina-3-star-logo-CE85FC39D9-seeklogo.com.png",
-          "uri": "EK37m29rGU7R9fv/4u/mwnC3C3+fznqNMt2HJu/wbWBmpT+Z+zS7zwFaSOkTN8Aqd+2mYCdvrMyo3O+cWUFzMkuwYA27Ilj8kDHUT2RlPufdg0OGKfg8O5BW4S5TGp33",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvMFK8KR9NdzOJxHLGo36OmRPR1tJXx64+UGjDKn6qMUtAO4ZXfz1C65uMsHNSSjUQzxCd4b6MFlPixbkTqWgTe0bHsumnJ1JVJRHrMkntwmWZHfuvF9eU2Wn/NDku8xAw=="
-        },
-        {
-          "name": "ARGENTINA",
-          "ico": "https://seeklogo.com/images/A/afa-argentina-3-star-logo-CE85FC39D9-seeklogo.com.png",
-          "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDKo//72D6XuvPk2EB8vs0HW0tvPF7zQf5aHl1i+wI9u0YFSyljPg5dibfKrsD34uQ=",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqmNdVtSMtt5J8O+9VCO+2Y4wWeTvx4FUUzoZ2VNBjoawSSzuioohblRKRJZ+2LecDcCsLRyNcKZprtgZdg8r8Bp0h6SRpDr4tNYvuxdwymSIOf5DHj9FGzSFkljoRlfmA=="
-        },
-        {
-          "name": "URUGUAY",
-          "ico": "https://seeklogo.com/images/A/asociacion-uruguaya-de-futbol-logo-8AE2DF5DB7-seeklogo.com.png",
-          "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZC1jJieFdbVZnosmUxBVyGyjaUAcwENv/F8AfVhxTFtSB62UDBdaXLoP4/WNkqUESBEhEqhIrNTw4ziiWa24mTF",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvgcIDd8F2X45LHK5dZlzhNPb+9N5fgZxecIdiiY4WUsoZ6oLDbnW560eeknjyvUNNYx+caTRl/2d+uapYVeIM3ZTvdJ/PdjA7h2AyBgbHOXtqIW3zFJAD0B/VaCNE8nwQ=="
-        },
-        {
-          "name": "PARAGUAY",
-          "ico": "https://seeklogo.com/images/E/ESCUDO_PARAGUAY_FRENTE-logo-608E519542-seeklogo.com.png",
-          "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAMscz0a9817ISpDOxJywoy2Bn0/z0+cUaDAtOI4EJqk/WCZoASVSB0duuyDrCI80E=",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpq4Xr4iB+haIjpzTOUQm8e3AxPVdb9hI7DRTXS1KkSCOArRtdRMJpoHaQIAGFVTXVt5uDmHSrpZnLy9qfcDXY1CE8p0cxo1RkTgByrMgQ3+muQwLbzX62UUmjCcYNC49w=="
-        },
-        {
-          "name": "PARAGUAY",
-          "ico": "https://seeklogo.com/images/E/ESCUDO_PARAGUAY_FRENTE-logo-608E519542-seeklogo.com.png",
-          "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZAr9YeYhb2tWw3HP/yzoYnuuA54zn6MGV6xT5VXJ2/QTCcNJEexAGPtYi/JtDdryBJ8mhHR4J/GH68tAM3GgSO8",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKlgCwpVyi0gdFe5n9yd3J8KZQoPUFxERQfCXiFIhUx/t7NQEvKUH1KeS1lZ0ydYNrQQAZdtzWZhF63GvUyY1lgvmOOmnRjuVztJT5+82Al7o+9R2WoyTAc3XPGjS124jxQ=="
-        },
-        {
-          "name": "COLOMBIA",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png/600px-Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png",
-          "uri": "LjywlnGv+eUY0477W56vmuLYkaI4OZsT7LBRqp+Y7V86dYKqR9PYm+VAQClPkrx41hKAN1hPBaHCg1tZyPdwCw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "COLOMBIA",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png/600px-Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png",
-          "uri": "gm1PMLYF4TyIgfE1r0lGy4Fkac2MBhWUSS6fksHMmMdfW3ig3ssz8HRIVYUmlrTjITK6HHXtDIAe6UK5GYGs9A==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "PERU",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/257px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png",
-          "uri": "Ozl8Yuy1g2OTPcyvYjzVu0QIGHI5C4D+2YPafLiwS2CdIGQR1OqXs8HYQibzq2Y+XUQ67FeD0Lz6daowegSFtkVhMqGllW2RaMCKTBR50bM=",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "PERU",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/257px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png",
-          "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzH5yHX31HbiRwYeWqJPFR+jaG/8igF6CWTmY6rm7ZpHM=",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "BOLIVIA",
-          "ico": "https://www.fbf.com.bo/img/escudo.png",
-          "uri": "Ozl8Yuy1g2OTPcyvYjzVu0QIGHI5C4D+2YPafLiwS2CdIGQR1OqXs8HYQibzq2Y+CdGKS4uEHdfLTOP9xMJLrIJ3XN4O9Quz8HgcUmGioEo=",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "ECUADOR",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg/285px-Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg.png",
-          "uri": "LjywlnGv+eUY0477W56vmuLYkaI4OZsT7LBRqp+Y7V86dYKqR9PYm+VAQClPkrx4nY80IE11ernUyEGBGA8akA==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "CHILE",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg/800px-Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg.png",
-          "uri": "Ozl8Yuy1g2OTPcyvYjzVu0QIGHI5C4D+2YPafLiwS2CdIGQR1OqXs8HYQibzq2Y+wpNJLzzfvTNKGNGxLPt0Krx463yEHEsXkgCNbEVMPq8=",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "VENEZUELA",
-          "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logotipo_de_la_Federaci%C3%B3n_Venezolana_de_F%C3%BAtbol.svg/800px-Logotipo_de_la_Federaci%C3%B3n_Venezolana_de_F%C3%BAtbol.svg.png",
-          "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzL83JevIzi+k0VPdksfGx98FNEawcEK4DuZyJWQeXap4=",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "MEXICO",
-          "ico": "https://i.ibb.co/YTZySMk/MSMX-62.png",
-          "uri": "FKTli/J7N/SZ6+OyGNcPYzfU65jeX5f0YarOki+EYYSoCdt830liFtWG2aT4kVyB2XFihdTkaN3VobOHiq5L/g==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        },
-        {
-          "name": "MEXICO",
-          "ico": "https://i.ibb.co/YTZySMk/MSMX-62.png",
-          "uri": "LjywlnGv+eUY0477W56vmuLYkaI4OZsT7LBRqp+Y7V86dYKqR9PYm+VAQClPkrx4zotajbf9w/zEgFEOv2XvWw==",
-          "drm_scheme": "",
-          "drm_license_url": ""
-        }
+    "name": "TUDN ",
+    "ico": "https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",
+    "uri": "UJ5QHZ9HLFBc3kyfb0vsm+ScfcXcWNGWx2yJBU8Cnn5zlQNtrtShHYCzOkzTIJSmlUWe0dJTPtw1KWwQN/oQrIhDZR5EYJ8q7RWHBJfRw2sPWuCa6zGrXt7Ya5O4LFNk",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVMAX",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png",
+    "uri": "nRG1DcGnBgBl2ZEYGUtBQ9hY83zNeipig7fs2aS9sTvdCmwaIXMRyhPW8UAZjzBV7TDiO9F3Cg11b+sSPleXRg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TYC SPORTS",
+    "ico": "https://i.ibb.co/Np3S1HH/2024-05-17-19-27-22-png.png",
+    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZA0fOpe0XFDA/CSMRnsX8gYevC/Gcj7j8UKZaI3InmfIq8OXHke2c9Fatj/QHrkKNvIKstrPjtzpxZ5hn8GLqJL",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKi/kxbF66U/NX+R5UFpcdB5oESjXxlbZKp9r+zB20nvs8Iea04v0lG0T6NvD3ZiwT12UCZqJU0UUgJAZJT7F3MR7GCacCedn8SXNmD4DSrv1xWk4ryCTt7DHrZ5hwZHIJQ=="
+  },
+  {
+    "name": "DIRECT TV",
+    "ico": "https://deportestvhd2.com/img/logo-canal/DSports.png?up",
+    "uri": "nRG1DcGnBgBl2ZEYGUtBQy4kHtcTmLet0wrUuHQe8gVlBG3BTQsN/5Vn3I2vpRM5SNvQTmainKpSPeSP89ehBB/mgyt8vlO8E9yktk3OrpQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV",
+    "ico": "https://deportestvhd2.com/img/logo-canal/DSports.png?up",
+    "uri": "nRG1DcGnBgBl2ZEYGUtBQy4kHtcTmLet0wrUuHQe8gVlBG3BTQsN/5Vn3I2vpRM5+cmgvK0Ug/7PCBNE7KQBy5Z6mYiBZ/+b5h5YAHwWfcA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV",
+    "ico": "https://deportestvhd2.com/img/logo-canal/DSports.png?up",
+    "uri": "bPT+WxAPfv4+EVPkjfTU57hKH86daDnP7oY90h3D8A5DASyu64+8hoa0l60/sxuzYwVhvvV7uYfcRKELsOuycOUxNZcYBlVeE3VDTDhv8zQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TUDN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",
+    "uri": "nRG1DcGnBgBl2ZEYGUtBQy4kHtcTmLet0wrUuHQe8gVlBG3BTQsN/5Vn3I2vpRM5Z+KqD6rAhDqvFD/3nUO+kGy5iRv+5dmViI80/USjmLU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESPN ARGENTINA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+    "uri": "mVYKDRpRdKPK0vbGwo4dQKDXtFeQafjPnALSu8yjrei5lOO8Ee00Y8MuWtlz5dJhP9cXxmYvbOpPzo4d5YL1KioYGtlIPoILl8H4qVhmSXysGNC3m0eH+vOzio+Fwwji",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKiQVNhdcrT9w5ToIpVRJPBbepW7iUrHUYlaF/FuV+raDgv2dqb7XmeI23/pvG6CtyKhPtZmP9B/DYOnUUJQfvvr0CPLaTZiqnV8CvM1dnS9cpcVcOZCNd5tX11kEHgmqag=="
+  },
+  {
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "LjywlnGv+eUY0477W56vmuLYkaI4OZsT7LBRqp+Y7V86dYKqR9PYm+VAQClPkrx4RV1Xrr0QQ88nvthso1aP4Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GLOBO BRASIL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "idX8n0cb1N+vFR2g68iFtCkP9oci4UoxBZ7xCc67/aVrSmISxhJ392ZdhxE2nSKjm9+PugUVbZCUqsCPeAxvsA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA 1",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+    "uri": "kVSAGofZBc/sq7xYMkMJ0smio87zuimc+qJ9W5qezJH1yHtnp9ichcs/7MpcZMCA/399YZZ5WWMUbByKjXc0rkshSuqlCeyQt98q1NqT8ZgjoEeYsXcQxlBhKBQqkMTpJiYhm4WOOURxX3GNggTWQVZ2bvuxE6xC45ikw37kU+U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TVE_HD_Logo.svg/2560px-TVE_HD_Logo.svg.png",
+    "uri": "JVKxDC8ytYMjXQVQ3TnQN2UsZ5kPKKiBSSIc+j1UPHdHY/3rjcPuzGgsp/jpb+8+g8itoCztourbRMKiwW3VlccA/N4H2TwMDfMBPavyBvzXVwYzVaO39T2DgPJ3MvaO",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpNOTuj3ukY9nSzqXoy4zDbBN+j1Llaz6OaJtskgw/27d8gZuEwZnsMKQnRQkl8DyOWFXg0fe9ixVGbrz0pUOSRUJOtH3kKPwa9epqvhJtxhjAQjZprNkOrz6Zay6IT5PA=="
+  },
+  {
+    "name": "RTVE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+    "uri": "8nn4p8V0IwQaqY+YFGj9M4xNt6qCRVfsQ1yeVHH7+g3ClD9w/uuQ2MhpXVrjOJct",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RTVE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+    "uri": "8nn4p8V0IwQaqY+YFGj9M5sqOlGjT+/NQ8CymbGcS2rhOxEIbjCUmcsi2raKvmHy",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MATCH!",
+    "ico": "https://i.ibb.co/7jFLwdp/Match-TV.png",
+    "uri": "lPtLkvEpVsmO7pHsr5AM38XfuIyPGn7m9s3gI93NpMHL+t8yETR1x/CVTqwP9v8WT700VZPzwcKxc/poMy4L9w==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvN7MBJFTD8v/Yqq8F2yxU4xV0vs2P5AcXulkqGVHHstzyiz+NZph+UbcsPGr55Tqg7IutNMtSYhBiyeW05hsrEqVtw5vsd4mXttTdydlVAigCa/eq6XKJ0ZZb0u3u+BFg=="
+  },
+  {
+    "name": "EURO 2024",
+    "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
+    "uri": "vcHQlM7mYGeuyG+OHCvflYQVzvU/+HuHQDqOueffV5LOYZw2AKUNdjjGgWNB0sYAnfPnMuGm0By8H3yxPk2b0Cx1VCJXqzTGS6Lcs8I3sQTjZumXBhye1T2yjU/zVDmo",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqHU485GbItGuJwn25O6qg9CV8BVelwO01HqZEZ8DepeBNdY3cYftAGSh91ZgRU+tJULCB7iVnAVP3AmXpi+rTRiR0WXE9f/oufh8ok6354aNcAQo7E7tmv5SYZiFVWUKQ=="
+  },
+  {
+    "name": "TVI PT",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg",
+    "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqXpCrKj/DcV3WQpktI2AWVA3R/mNQe+AJ5omyKOeyyk+lsAqcY4HAqo52axZgG733jefbhX0jqBRyPly35pV8Gj",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "M4 SPORTS",
+    "ico": "https://m4sport.hu/wp-content/plugins/hms-global-widgets/common/styles/images/m4-redesign/m4_sport_rgb_a_B.png",
+    "uri": "NlnIxH+qNK0wcVMnO1vDQbuNQKBpKVEaCHeSZG2aPxBQ4y1elPsDI6eqiZg9Fh1Mj42r/JVqF2KIrFRfst9iZI42ojTm6lFmPHOt51I+fgk=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKtbep9hfgj+2X2OYp2cYcxvhaGsd5sRwD+Mss7fpf+Py+wZLQ+oDdMyDL1hg+R3EJgXlwSc9BuqkhIR1SjJUYr/pE72ObTjWkwbnNAND5pvwrenWfcdXTrxc+u3EBdBgsg=="
+  },
+  {
+    "name": "VTC HD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_VTC1HD.png",
+    "uri": "V0BUTKoeLkDGOIUwVa+c4DgH2ZshB9xCwYbxzAeNQNfg2Jdc2RS/6JnB6sv5wGEn",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BBC HD",
+    "ico": "https://www.pngall.com/wp-content/uploads/15/BBC-Logo-PNG-Photos.png",
+    "uri": "ziL0X5Ixt7+FrbhXCi4GWqmz9U7Ygi9JugN7GZbH2JjYuo6XFLg9Jf948EDXsU207wclQyf80sQxcmWfWnI3yFNuakqhgB3zTR6Wg3wIptUFl1Drc3jP1+25I3xZsNSx3K8WmmIATiP9uC9ml/tZiQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ARD 1",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/f/fb/ARD_Plus_Logo.png",
+    "uri": "j7nwAtgaRSkkCFZuN5qlR4ioGw8+U6C4zST3NZODD80iw9mIRTNLFmUC5arIbc/cSU5fy/rNrPzMXRIUG6ZwH0HehfpUiRbJgWDpg+sepV8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
       ]
     },
     {
