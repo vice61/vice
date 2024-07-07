@@ -1,7 +1,5 @@
 [
-  {
-    "name": "➤NOTICIAS",
-    "samples": [
+  
       {
         "name": "GH 24HS",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
@@ -156,7 +154,7 @@
           "drm_scheme": "clearkey",
           "drm_license_url": "rveQeR04KbKQJtfyNj/xQlYp/H0fRipk2VNuvN/Ri5DrKnPP0olY56IX3NqdIESzSAblBvruh/Z1Pt52AeZ024Rj9XrtK+DBqj7zAYqqifE="
         }
-    ]
-  }
+    
+  
  
   ]
