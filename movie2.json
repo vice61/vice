@@ -115,7 +115,85 @@
     "drm_license_url": ""
   }
  ]
+}, 
+     {
+  "tipo": "serie",
+ "name": "LA CASA DEL DRAGON TEMP1",
+ "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+ "temporada": [
+  {
+    "name": "1",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYveL7KwhD8bcAkdovrY/+Zv/uDY66DyN7kIhm5NN82tjCQ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "2",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYveLKkIWSOhraXs1jGdF+MXEDmZ7CsDXOWfFkuTe0rldIq",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "3",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYvePsZLoKF70VhnX7cELxChRgrBmM3uvChPyuF7q5vKFVP",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "4",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYveJRcoUmjSsrpPzQ0mOADQaCHvKdP89n31CV/PXZHVAdx",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "5",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYveHTvJe3bZHBmrS9Rx5s4dfjD6XdQXgLb5k+cMUAn9mGl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "6",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYveJRkldO2dKNnEZ0rYrOQo+YmAnuRr3rGMHeainXu4uEN",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "7",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYveKATBOTyTHCfOJSPHbYNCIiyZFL0APMI0FXYvDm0VSvb",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "8",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYveJ2rRSoMvriNuZkpB0sr+I/DhPHzs2YKKRKbslHxGaYt",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "9",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYveMfR4q+R1hlCbLymoE7Fip8ixNysH26QPS22c3lYopSd",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "10",
+    "ico": "https://image.tmdb.org/t/p/original/bR5zZnpcd91yorO3qza3aSgsM1a.jpg",
+    "uri": "C6oK+Cj8z3YeYOZcSjYveOLusQbIBFwiZcC8WfhkTad6GPp7wQHilFez8UvRBWC0",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+ ]
 },
+     
      {
   "tipo": "serie",
  "name": "Juego de tronos (2019) TEMP8",
