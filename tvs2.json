@@ -281,9 +281,16 @@
             "drm_license_url": "rveQeR04KbKQJtfyNj/xQlYp/H0fRipk2VNuvN/Ri5Cq+IS1f5hcmvdlkUsH4lzrvuxq5XOJNPyMjdBHJxjP5Q=="
           },
           {
-    "name": "DIRECT TV",
+    "name": " DIRECT TV",
     "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-    "uri": "Ozl8Yuy1g2OTPcyvYjzVu0LHaiH+YTIpyMx8GVEON6xSf75Hb5YCDxY7y98RRr3y8eNi5OX6r9PhERqG6/Kmjg==",
+    "uri": "VB/flduNTQJZBytMt7MwA49ZsY6oIcptXleuGCTOh/zHkYS5uPwkKASuginPi6lBy96wRH7zRwOxXGskcYI8Gg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": " DIRECT TV op2",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "+x0UDhPqKA/IPduHvbHzVd12d3TuldDa5e9QmqKknEsW6VK3I2C7Fx7XWOaM6/FmoXr/4JW7CSXm/7wejtWXMA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
