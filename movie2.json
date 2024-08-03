@@ -5,6 +5,41 @@
      "mode":true,
      "lista":[
        {
+    "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
+    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPitS0kpVY+JoIvBWz7a23S/ZFGVxkc1DVZ91NDEwjmZVe",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DEADPOOL & WOLVERINE",
+    "ico": "https://image.tmdb.org/t/p/w780/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPimCnY++DNMlTM7EpJ8a4lUtszKXRL+G7ueERZnxnO/Nh",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UN CRIMEN ARGENTINO",
+    "ico": "https://image.tmdb.org/t/p/w780/1iGVhDwTaLMPYVK2DeOLa1uAKjN.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPirYmteI+ytI8c1qcJwDsFOr6ZyWDwnq75isvCq9e4xrK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EN EL TORNADO",
+    "ico": "https://image.tmdb.org/t/p/w780/fKQqv4z82KGKVVTaB1vKfBdxoef.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPiu0xCm19zq4nZIt22sWykVhI+LL1bWUDiJBROyiQqDMC",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EN LAS PROFUNDIDADES DEL SENA",
+    "ico": "https://image.tmdb.org/t/p/w780/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPilYV1glBSLa753iXILqnjbGlsPrh4Dck3n+46oUdQOSW",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+       {
     "name": "Cuando te encuentre (2012)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bJZ5ubs5YqPLOJ706JS7MXV3YsS.jpg",
     "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqWzn+ZpDNafq+P9ZMhojyktj5V+wlwPAnE90PWbzOCpeIv+hW1BwDGSRo36tHtCrG207whBOGds1gs4BtpQZhNQ",
@@ -37,41 +72,6 @@
     "name": "La sociedad de la nieve (2023)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9tkJPQb4X4VoU3S5nqLDohZijPj.jpg",
     "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVw9lsfg9hvO7DmC3aJTpuBnzFmZ1CclhiJmpb8yJYjUewXRB+UCqiLDRchpAAVL0qdBjKNeJHks2oD6QTSecT3c",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Dave Chappelle: The Dreamer (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AfRIwykHu9taHgq9DHktdwVLmWC.jpg",
-    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+NSxhIp4vxJ0F8aSNiGiVeDGtPDA4qeqqaa+1rh8KDVVeNWLQcgDfDYL47DimXZCVI9a9ClunTxBDdu1sbszsqA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Napoleón (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/re6SSQS1HgBGG9AMiNuPGISOfMx.jpg",
-    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+ZIHzvQPVtWxYVzLCfsX/6Qc9vpX/UsqBPeAAZt9jmCL4ug8t97J758C7P8qOstJF",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Self Reliance (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
-    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm++uLzVNmohicikVzJgUHk8A3WC66BD+hZVClSjkF4KtWkTP5GGkdzexRyzHlryGh+tHlu+p1SNNevwDRBqJFcSg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Los segundones (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg",
-    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVw9lsfg9hvO7DmC3aJTpuBnHUX/8nJNcUdEuCVpYfmQNwx3ArG+rfdduzo0MRJyAXxSeyBjOFxl4sNnWcnrEZGa",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "American Star (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aFjxI9yMd142au1O74JlUttG4Ki.jpg",
-    "uri": "BJp4GJfo26eROEANksW1ALvuxpBPqMDDSHMmFek8xVzYbcO7n1BtDrmj5x6nHlm+KDga5wEBHvTujVCbBir24jCjYivEYNsIA2wITzpr8ypccpz3kEIyrndj5MquoTBF",
     "drm_scheme": "",
     "drm_license_url": ""
   }
@@ -2140,6 +2140,41 @@
   "name":"▐ 2024",
   "mode":true,
   "lista":[
+    {
+    "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
+    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPitS0kpVY+JoIvBWz7a23S/ZFGVxkc1DVZ91NDEwjmZVe",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DEADPOOL & WOLVERINE",
+    "ico": "https://image.tmdb.org/t/p/w780/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPimCnY++DNMlTM7EpJ8a4lUtszKXRL+G7ueERZnxnO/Nh",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UN CRIMEN ARGENTINO",
+    "ico": "https://image.tmdb.org/t/p/w780/1iGVhDwTaLMPYVK2DeOLa1uAKjN.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPirYmteI+ytI8c1qcJwDsFOr6ZyWDwnq75isvCq9e4xrK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EN EL TORNADO",
+    "ico": "https://image.tmdb.org/t/p/w780/fKQqv4z82KGKVVTaB1vKfBdxoef.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPiu0xCm19zq4nZIt22sWykVhI+LL1bWUDiJBROyiQqDMC",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EN LAS PROFUNDIDADES DEL SENA",
+    "ico": "https://image.tmdb.org/t/p/w780/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg",
+    "uri": "k8bV6Azh0a0YP9EI35J4V0w5zlcBh8Z6+UwBsxr8Sd+ux/SmHExQfi++dbhaIe9Oz4C0RYwVnmQP96Cm2gDPilYV1glBSLa753iXILqnjbGlsPrh4Dck3n+46oUdQOSW",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
     {
     "name": "Soy Celine Dion (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/woznEiocvx8HMYKB2KloHATrDji.jpg",
