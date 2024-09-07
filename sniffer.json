@@ -1,6 +1,8 @@
 [
     "com.guoshi.httpcanary",
     "org.blokada.alarm.dnschanger",
+    "tech.httptoolkit.android",
+    "tech.httptoolkit.android.v1",
     "com.adguard.android.contentblocker",
     "com.protectstar.adblocker",
     "com.guoshi.httpcanary.premium",
@@ -62,5 +64,12 @@
     "e.hskj.c",
     "octohide.vpn",
     "nqtj.qlcsn",
+    "com.redlee90.hideusbdebugging",
+    "net.accelf.devoptshide",
+    "com.Vysgames.Exposed",
+    "com.applisto.appcloner",
+    "com.gmail.heagoo.apkeditor.pro",
+    "com.yumo.current.activity",
+    "com.willme.topactivity",
     "com.evbadroid.proxymon"
 ]
