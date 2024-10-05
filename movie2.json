@@ -77,7 +77,7 @@
   }
      ]
   },
-  {
+   {
     "name": "SERIES-ESTRENOS",
     "mode": true,
     "lista": [
@@ -89,84 +89,84 @@
           {
             "name": "Todo sobre Vicky",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/878589.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yyJMXApYR61sfyd2v/r5P1XVGW4YszAA+X9NuZQo4wUM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Barrilete cósmico",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879606.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yCi8yEdx6ZBTdv5ghPZf14n4QcEcKCtByl43Pbmk2zJo=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Ametralladora de likes",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879607.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yIWxzeK/7i3QUv9cjOIbFxbm564NM+YYgOx7k3u/Dq4s=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Leona pero no campeona",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879608.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ykW1rJLK+Kb+pgXaIqTEsUgo5gb5gEbkNZ3vP42dHztU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El juego de la vida",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879609.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ygyS8rQYFFzYuoqJXJ9EaqcIKDkFQhVcXW5hVmfW+2S4=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Pizza Delivery",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879610.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ysbeprvl27S8B+fN794gVgc2J8/EnfmOJbX9rmCxXaRg=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Todas se casan menos vos",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879611.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yXSQCFNiV9PxjiifrgRFvjXtSWR1l1bcb/1ryQDOY0QQ=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Rota y Roto",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879612.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yg04lpdw/30kSBwsrVMIR1f0K6BxNfaXmZn3qq0YyYc8=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Historia clínica",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879613.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yZUUzxVC6qezw+ZV24+wSkQTr6pO58MTX13MzMVIu4fY=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Un zapato feo y cómodo",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879614.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ythMVfdDRJiBsnwu0GoZyezdeziVXg1ZVtJoHKkf2pF0=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Mujer quilombo",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879615.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yJkS/Lo39QybQDvs9qRZpaTrYOtu2HGrUDb9NDlf1wWQ=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La sirenita",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/879616.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yR1eoPDTsUK91c+CftftIr3HyHadtIGPWKOZADOAPNXc=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -180,70 +180,70 @@
           {
             "name": "Episodio 1",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/873653.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y6ECrlYcQgCttzTzKKpywaH3+3wOcER2g8yKVkfpJlz0=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 2",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/876007.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y/glVDigxDYv0GgNQENbyJ7DSXBsHfRVwytUIBjFZbUw=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 3",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/876008.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yz6PbHrk3vS7b7XfXKQd0NH+BHkSpkWJ9t2z4lP6srZU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 4",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/876009.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y7limirlKC3ixj/BgzTBeB/iepODbArbeCz5DW7eGJ54=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 5",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/876010.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yD63gjKz6uzzAqtNo1epI0H14C2+fQvs5o9ayEj3mO+I=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 6",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/876025.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yxfat0knM/o7aeQPs3Hylm11IE0tRpoTal1WrqMrhWf4=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 7",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/876026.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yKwnaptO3fa7dHYPGBxWSYr094LxBmkv21j+Qvvc1sWA=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 8",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/876027.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yxaTneKV2yt0EOd4YutFF4DXTxUmT85sFsJWkH/Jy+/A=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 9",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/876028.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yuCQWg/HKI7HVB7o5ofXqn6FzLkXA/HD/RDdHsHvHO7w=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 10",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/876029.mp4",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y4i6EgyuBv62n2ZBxeu7sjJ1hBLE8CY/jmf1lYrK6BvQ=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -257,63 +257,63 @@
           {
             "name": "Wanda Maximoff",
             "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-            "uri": "http://167.114.173.24:25461/series/Locky2025/Locky2025/2622.mkv",
+            "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5DpzPEpC995avWpTu3S4Atg==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Visión",
             "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-            "uri": "http://167.114.173.24:25461/series/Locky2025/Locky2025/2623.mkv",
+            "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5SpmOb7z2oec4TUagQ/UYlQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Falcon",
             "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-            "uri": "http://167.114.173.24:25461/series/Locky2025/Locky2025/2624.mkv",
+            "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5rvBB19tY5M3oQ0qw0dL81g==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El Soldado de Invierno",
             "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-            "uri": "http://167.114.173.24:25461/series/Locky2025/Locky2025/2625.mkv",
+            "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5yeYkoPuFPk1iyk0773F7pw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Barón Zemo",
             "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-            "uri": "http://167.114.173.24:25461/series/Locky2025/Locky2025/2626.mkv",
+            "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5WJTN8SFRjbbtOnslPt6dGA==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Sharon Carter",
             "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-            "uri": "http://167.114.173.24:25461/series/Locky2025/Locky2025/2627.mkv",
+            "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5PwflbiUusksQwvtpsQ3hjA==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Loki",
             "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-            "uri": "http://167.114.173.24:25461/series/Locky2025/Locky2025/2628.mkv",
+            "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5wlY+5PhfDZIr7xJA02akXQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El Teseracto",
             "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-            "uri": "http://167.114.173.24:25461/series/Locky2025/Locky2025/2629.mkv",
+            "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5ejJ6AA6+tis1IkWG/WlSiw==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Viuda Negra",
             "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-            "uri": "http://167.114.173.24:25461/series/Locky2025/Locky2025/2630.mkv",
+            "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5HsPZN/eoqloVNIGVSOPdOg==",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -327,42 +327,42 @@
           {
             "name": "Baby Cap. 1",
             "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/57683.mp4",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAF0OqIVqrHG0mPlLm0l4fL0361ItHIk/+GCNvDrBALvU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Sagitario Cap. 2",
             "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/57684.mp4",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAgoRd2I3WS1tREqGfC4WhmWXG2aQJ26KIVXGvVBEGxSs=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La línea Cap. 3",
             "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/57685.mp4",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAq0gkH7+bfIRIwkdRaRfh5Za81ZQRsAUJHjlQQGTvoL4=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El corredor Cap. 4",
             "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/57686.mp4",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVA5ZtJWWOL2U/oB4z9QxxeA8NtwrltJ4qjtAQTmDOwSmM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El silencio Cap. 5",
             "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/57687.mp4",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAjgx9NS1PoahjSHxXnf28tpzbIAxc5ogPXv+Xf9nGLTk=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La Maruca Cap. 2",
             "ico": "https://image.tmdb.org/t/p/w780/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/57688.mp4",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAr5Z3BRk73zR7i9B7rR8zsvHKRXf6tvBFaB2BUKHYhdk=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -376,56 +376,56 @@
           {
             "name": "El Amazonas Cap. 1",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/2394.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAYpW831jBJLsZXhM9jT2/UA3JCB/FpNDyOtOMCfSN/1s=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Roma Cap. 2",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/2395.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAj6XJEyQ/38ydyo7RU3d5q1ucgDy3crcKDWqe8ZM9Sjc=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Egipto Cap. 3",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/2396.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAFgIbxmehxppf2AseFWMRMAyw3AosCH971vOkzvQTsPE=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Butan Cap. 4",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/2397.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAh7rZdTcPk1tfJbXJE6N7PMh8eQFWLKPqqwvReBwWFsE=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Etiopia Cap. 5",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/2398.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAxG44N71Zr9nyPDscq8ZN7Yt0Kdy+CqkRrvFNzDHlfWU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Moscu Cap. 6",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/2399.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAFkfzZ6o4lsCei2fRLyu4+5vnqUZ2x1ikOzfhsgn/oNU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Camboya Cap. 7",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/2400.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVA0OYeN6h+VkEPfLYDvsV9Y4v0bwrcaYjXLNaxsrIKVJI=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Caribe Cap. 8",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Locky2025/Locky2025/2401.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAlwjM94YYq9YTG1sKM5If1yzJN9ulQA/5YnlGa9F6WaA=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -445,56 +445,56 @@
           {
             "name": "Abducción alienígena en Pascaguola",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096882.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DpezImpjLzoq8Q+QPVM05EvxRA26KXr9wmgQ+4Yv/W1U=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Los fantasmas de la plantación Myrtles",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096893.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNFh6cT4mIL8t6NM+PGKM/i9wtgnMo6SZt2ys6NoCjqc=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Los Cinco de Yuba",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096881.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DAY13FmrAzNTbMbv1POjnNiJhNUWhb+jHFiiDXhp0ci8=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La conspiración ovni",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096904.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DnFKGMDG1ggEFbnKIndPffgLVS9IrYptu67IMgNiubEg=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La maldición del lago Lanier",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096897.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DDXkOhwKn2F6jC6R41KXAYKRUlIKwz+M4rcqkqeBcEGU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Los misterios del monte Shasta",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096901.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D1COhBLeG3b7Ur/824csmqUFtqJZ59tCi2+KiP6RMMC8=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Masas sobre Washington",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096888.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNy6Gc6psnPnaWNjreRStcuzCD2UZYA4tD3wUIyzxcyo=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Los pies del mar de los Salish",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096884.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DTYUzAPcorSjXwLxIpl17+0z7GtXG6fY2kFc0FUZEZFk=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -508,56 +508,56 @@
           {
             "name": "Episodio 1",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1082705.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D24ljcQIgHye+tCsForm0RTlXHV/DsCw7byUb+dZcWhE=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 2",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1082710.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DS79VqFRUvgKhUNcXImFXoar9ETMr6G3q1LUFej3salE=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 3",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1082721.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DorN9x3JQAxTbzRGYXkEAxN2Le7vLOv0uF/SuuklvkJA=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 4",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1082718.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DrMRlD7JrjBFHE1gN7QE0FMPuI1ofOh/fIgMFz0hZCtI=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 5",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1082724.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DgOn1oYmCtvHMJZGfRP4sbWXKeJnGhktMi9/YEAv20ig=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 6",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1082714.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DqzBBsmyGy0JocRbbkECfwXsyWm4uGUvBJvuf9Orsdqc=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 7",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1082696.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNYby7yH7GZZpM2udaxj+CxROlYBjkjn6ZD3K6n5oiUs=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 8",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1082700.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DBImQ49NpcFR5lmk1I4Kn8GCi/7GqUn6c6aPtvahZBpc=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -571,21 +571,21 @@
           {
             "name": "1.ª parte: El profeta",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVIeVmMg9ETRngnaFsAc3O6b3SS.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1086867.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DZWjYeNJtVekLZ7TaZofPv2WKP5Rx90EQf2iCHU/YCJM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "2.ª parte: Las plagas",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVIeVmMg9ETRngnaFsAc3O6b3SS.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1086857.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DgNahdOKYjR0ne/LxZ57FCIDbbvfT+rYz44JlvDFZb6g=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "3.ª parte: La tierra prometida",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVIeVmMg9ETRngnaFsAc3O6b3SS.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1086870.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DwMwNISx/8iOXVRICj18kZycOPEyQ2I0LdW/n7FTaHPU=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -605,35 +605,35 @@
           {
             "name": "Chafa",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096296.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5De2dI9Xl0Vv/7APivewmowLsZjpkvrtTpuIsMZ6jsI9w=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Lowak",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096294.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D5zYLdW4YjhMmC8F0imcb2kDYciFL5SyVXCuFIxrJEjQ=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Tuklo",
             "ico": "https://imaage.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096297.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DVW6Fij9yhD6fLyz43FaytJ1aO6O8dgdjcDVnVcvudNI=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Taloa",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096302.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5Dfep6N+ROkacJU6AK9w4I6GoqpZwWhha7iz6EH5iWego=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Maya",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1096295.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DdGXVOvlcYv3S1x2oAl0IiGPkYt/zjsYLIiFupy1Jxfk=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -647,77 +647,77 @@
           {
             "name": "Un proyecto peligroso",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085037.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DFAplz+8vYi9CHHskXMF+iNPFWKULCHZC5wBR1oIOBqY=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Una acción solidaria",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085038.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DcfshjwjYjuMUnQbohFz+NWB/ntweWuhCxBzbjIq854Q=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Una turista en Buenos Aires",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085039.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DbodfdVhMMNpdFvXA7MOY3gNZ2jTHKkmABQPD9utx86Q=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Una amante para Zambrano",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085040.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DdT8XrbaH/AcNUz5fjvZLNERro2tH2hIVxUWhb7Wl85U=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Visita sorpresa",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085042.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DLORsaGaz6yNE+hyycQiiKTkfgMW3VIssDNLGFFjj/XU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Chofer nocturno",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085044.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5De/0/gBfDitpczMP+BruxMVeJ65lCjM2gDogyrZcPnmg=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Acompañante terapéutico",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085041.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DvmIxs0yMO9QTerJS6nr+ZdMlb47ayCO8qpQMpgLe4Jw=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Sabotaje en la sala de máquinas",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085043.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNGwYEr1PRwLg2mG3rwse7qkvJlyj0XanWpn7fsqCBdo=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El ocupa del 5B",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085050.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DiMnMsBrrmoqw3nOf62tGh/alkv/sgAV/SQwEG6INUns=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La hora de la verdad",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085046.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DYzlr55QB1CzItg8mJ0HwW15TcfPjXpFRCll/YWyO4wA=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El ave fénix",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1085045.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5Dnm+vi9YTiflXTjM5IXJdbwYhCcfVaNrd1DPHPdvpCkk=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -731,56 +731,56 @@
           {
             "name": "Una mujer solidaria",
             "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/710815.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yg20xnA78V6qnKXT713wAxWIg3xtcQ6s22N2Nrh1qKH8=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Una alianza inesperada",
             "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/710816.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ySG0vGvKB2xIJUVhOr66lBiFRTzUljhKW8UA776op2Is=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Un pequeño susto",
             "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/710817.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yFqHg53iOZ5tdBb6JnYM/50LuTCGSclpFYnMLO69n7nc=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El último adiós",
             "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/710818.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ytLN9dsU3ug2Daew2MkuHSSvWHC7ErhaRf7ZGm0dIu0Y=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Allanamiento sorpresa",
             "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/710819.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y2i6vi3NNkZtTzwLJvJYPwgcUP60+lCHUN0Uv08yf+7Y=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Junta médica",
             "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/710820.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yBed0wDVHdMcFWyQnCYU/IRzoy8+EGtwSoBZtkVFu/zQ=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Aceitunas para todos",
             "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/710821.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yfV7vDfaE8pHQmwg4XVaBSRE4eN1Wbv/fAVe9pd4/+zI=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Sabotaje en la sala de máquinas",
             "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-            "uri": "RM61iDxnJDTr1M3KEJsYUQGp9rMsq/rmkajcE0hF7dcATySDgUb3zzKckiUNWj8DUXKvDLpt1dB5Ovr3kw/welMcdYbQOahFeW1RJOT461I=",
+            "uri": "2tUqre4Ve6UnTDqhbnokh/JRzCXafSlLUS2BNULa+O+IqqeNtczi7SJ8oUeqV+SLTJPNYhgf2J6qu7gYNEwXMYm9hai8Xs2sLPKQ3LpsrMZjv4tnMtU0u+VOXnc86xSffqysgvyKE87jBqN2JNvszw==",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -794,49 +794,49 @@
           {
             "name": "La Convención",
             "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/852868.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y9qnlcW1CueocvvklaMtZB6qtZZsH4yTsD6lshDWBjxw=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Soluciones integrales Basurto",
             "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/852869.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yoS2P89+DctAYNyiTxbGHqQKIg5roYQ+QI4/cDHhjZWM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Y bueh...",
             "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/860284.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y2T/mTeD5nSln1P+f/qqF08dRsOpthrT3F/yC3fK+KW8=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Otra oportunidad",
             "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/862631.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ySi82ZDFcyQ/3uHrE9DJHZjpbhwfB/NRls5HI7Mr0AVc=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Un beso en los labios",
             "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/864842.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ySFmBpeuU0mBpq54xj866tx6eWXP5ytuk3YaI3UQ0ZKM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Portericidio",
             "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/867765.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yuBlvRrf1QmUnui1rKr2IA9hpOUMs8VEFuCkqGiPa2ns=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Eliseo versus el Estado Nacional Argentino",
             "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-            "uri": "http://multiextrem.live:8080/series/Movies5555/Movies5555/870546.mkv",
+            "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ydd8z09xFgcwff8acO/0wJEvElK291SIVfdqZSfI8Cyk=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -850,42 +850,42 @@
           {
             "name": "Resurrección",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1095082.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DUxbHiCmI1JFij4D2RdylLJxtgWLFthS4e3aJXksZdig=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Promesas",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1095089.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DrBqBRRNIX7bSL2/Px25F/r9lKbn4O/N+KJ7wThFbDNA=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Traicionado",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1095088.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D8ZJs91dDaPbNLO4DgpxAYO57ZbFAj+t3DfqN2RthOuc=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Amado",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1095106.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DgsgpKUESamjnKaNBnpwlvrKO3ttvE2mObrh/YVXYGv4=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Cosecha",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1095092.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DXO/+575n5KuqN1D2clJuuTwONhk4ht4cBSW02zvenCM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Hogar",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-            "uri": "http://k4livetv.com/series/Flamengo2025/Flamengo2025/1095099.mkv",
+            "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D0QzAGPqkMIT+oZHngQ3FMdVC3AdK6XuZaRYrrWiJm2o=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -905,49 +905,49 @@
           {
             "name": "Desde las sombras",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/3588.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lpQg13Et/4DBdCIG3ruWVYC84olFjLWzR6tiCFpl2Gms=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Hacia la oscuridad",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/3589.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lTiqlHGeRYf7MvmvJ5CSJaFhMXuy4skBBpX/q04ir7BM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Bogan",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/3590.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0ltCJmN9ZPAN0CF+HXv2fIEb+rg17i3hI5qcLBnalDwmM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "En marcha",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/3591.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lBaXHCjSkglcA41MSHhc5T5eLVJQFKqEzFWFAPKguQJU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La huida de Bogan",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/3592.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0l3OxvtBfrah/7AawyssHGcmhjJdwNwHKMrj7dCwHmwhs=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El cementerio",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/3593.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lj6b8bbGyNuxFq5GM1GjuP5+0oXqgeE1kKUtkFHSjgik=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La hora de la verdad",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/3594.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lVcKKCCHoIkCQ01qSNZyapzLGyOOoSVTTeUyHGQrowgk=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -961,84 +961,84 @@
           {
             "name": "El Ragnarok",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2107.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0liMlzB8506TXcjvkPt3StrHt4ofZmfW6EFkvzEQDOVtg=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Un adversario a la altura",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2108.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lByMI0tHu2tHa7dJRIks9USl0RNlq5b30YnyaoYJuJb8=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El golpe maestro",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2109.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lLHyKbniBLXgOGs+vULi6yTCUkzxtrP6fVYBX1+yvxcM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Alegría",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2110.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lyXlO9WbskB/h0xzXx+GKKNNAlYsk1RtrUMt1ZeMCZ9g=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Archivo n.º 00000000001",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2111.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0l1OxooQ3ru0ocsWn7X0P9HNJShVsG+yPlQhLN3hPCXKA=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Una gran imitación",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2112.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0ljta24YaCUAU4XRVvmMs28bbpw5C6GyuWDq4mI+VaRA4=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Expulsados del paraíso",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2113.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lJtj+bRCsXh26EY5LvsSdkAFK/hKcsWi2ukBlKbcgEms=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Lleno de gracia",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2114.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lVVdeDRRgjeKKtqFZch90VFNzSk1yNx26ZoTM3lCbLUA=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El tirano del océano",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2115.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lSr4mIV8T1u3YdHgxRcTwlcLVyXhw1XcigmNQbjI5a3g=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "El gran perdedor",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2116.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0loMMHTfaQrOXp4OLXrEHj681DWzxYdWDBt04tKUh8a14=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "La golondrina se asoma al abismo",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2117.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lpAkPW08A/gLPn+Otdy7pdhuZSOZ/NdmS4jXKxKTgouQ=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Y el Ragnarok continúa",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2118.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lRPmaEh5S2WOJ7gC17UXyqm+N4vbdERkypgJgMwuP+BM=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -1052,56 +1052,56 @@
           {
             "name": "Episodio 1",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2101.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lEFKWFuHvSOCQE25t3fQnc7Ggn5cqIURCFxjxUkvYCbU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 2",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2102.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0l9/UjOSEjzLbjbOMWnBlnaAQVbq5NfUJlaXiM02DmFCU=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 3",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2103.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lkPK2Xw4ZqpxLWRinOgkpldjOS3NV5SLl/eYDiSKXVS0=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 4",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2104.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0l1XUT7AAxpQ0Wm/x7GKlNTHkAlL60h9oj1uJop3PODsM=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 5",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2105.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lM6hOvfkvo/KDzAS/qBeW/hudMfb2H0ZxN44CrKA2NO0=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Episodio 6",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-            "uri": "http://conectplus.com.ar:25461/series/Brasil500/Brasil500/2106.mkv",
+            "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lWx3ROTz/uFcX3rdW8EAZ9GB4KH0Q2R0bL8hP1kfoofk=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "EL ENCARGADO TEMP 3",
             "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-            "uri": "",
+            "uri": "GIrU6PBIehQ2wyl37NFJ7w==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "INVASIÓN SECRETA (2023)",
             "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-            "uri": "",
+            "uri": "GIrU6PBIehQ2wyl37NFJ7w==",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -1121,35 +1121,35 @@
           {
             "name": "LOS SIMPSONS 1-5",
             "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-            "uri": "http://multiextrem.live:8080/live/Futuro2025/Futuro2025/778679.m3u8",
+            "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2nMx1VNAXE7jKVhpZDAhmfPZgfUjjklNvOz3TSem9amQ=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "LOS SIMPSONS 6-11",
             "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-            "uri": "http://multiextrem.live:8080/live/Futuro2025/Futuro2025/778683.m3u8",
+            "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw29+vbgcPm8fxyvzQ/ygrhDKLJqxdTu3xHtkWSaGqtbjQ=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "LOS SIMPSON 12-17",
             "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-            "uri": "http://multiextrem.live:8080/live/Futuro2025/Futuro2025/778682.m3u8",
+            "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2wyOUtajVYtoCPYNFhafoBcYH+vwhOmEOd+0NhRyChGE=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "LOS SIMPSONS 18-26",
             "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-            "uri": "http://multiextrem.live:8080/live/Futuro2025/Futuro2025/778680.m3u8",
+            "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw29V23iETdDLWifizMcj8eCEZuuLWFhHo1poSJkSorw28=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "LOS SIMPSONS 27-30",
             "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-            "uri": "http://multiextrem.live:8080/live/Futuro2025/Futuro2025/778681.m3u8",
+            "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2SKCie2tZoqoMx9nesF7Tg7Z04lFLrCizTa77cbhCHe8=",
             "drm_scheme": "",
             "drm_license_url": ""
           }
