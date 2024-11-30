@@ -3,13 +3,13 @@
     "name": "▐ NOTICIAS",
     "mode": false,
     "lista": [
-      {
-        "name": "AMERICA",
-        "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
-        "uri": "ZylNRmvg22ulyw8uQe0okw57sV7qUrC6sPdnAwU2pZUHnB1yMeHciEEkynvi6TbjvB+/gUftT+lRYPg0JvmHu228dvvCSuQ5SRAVlBD9+3/RfmNqH7fEuLdd0PUKJBt9",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgn5RhA6NaEIz1Snz5T380Is"
-      },
+     {
+    "name": "AMERICA1",
+    "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
+    "uri": "yNG7buWPiJuO9oy7FbZyZ79ZPkMuEgimlDKbkHXNS/yWOk2jtKRN5qINKk0m7hO8HisIy6qCogXKqZ6MEiJYL/En+JGjP9AvgrefWPgDFceUL42cP8Bb+msgMzyDgr/NzHHd+TO4Uxlp94GUyMEbSM++MqrJerZXECCP6+oH0LLD1mh/E6PZoHSIUq7fPBvo",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "eNOmdPTuSOhK2oaBIy1ahLFCv2oDzLUVlmUF+aKsz39/Kf6jHrgGV607+TTH2iuBRl20Z6Z0a4DaWyTGPnNIZxeFH2TMMtLx3TUGzSYeeZU="
+  },
       {
         "name": "TV PUBLICA",
         "ico": "https://logos-download.com/wp-content/uploads/2019/01/Televisi%C3%B3n_P%C3%BAblica_Argentina_Logo-700x470.png",
