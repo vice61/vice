@@ -560,6 +560,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "Disney Plus",
+        "ico": "https://www.infobae.com/resizer/v2/GGFKCTZ6RJEYFLTAS3U6QSEDSY.png?auth=99163efacde58fc61f3610d8c4d28b5c71b488f8a8fd5ffe787426088fa1d1ea&smart=true&width=1200&height=675&quality=85",
+        "uri": "CyxfVFrYPbKMV9P5EczrjDNfdhFwC/mbAjM5Y1w773P6id8ctdYRojDUmIr7oE294jdqkWLeH0AT/9QUVfQU5KoZRZCBa5AZeU5Mb6wWOsc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    }
+      {
         "name": "ESPN PREMIUM",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
         "uri": "FA9kn9vGZbF/2p9Ocl2weRGdAOTYGG2NZLvR6S3oCRrMmVEGyKlHJbGHeGtjMT3667sJ/5FX20SBIAy6SRXaJg==",
