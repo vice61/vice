@@ -1337,6 +1337,16 @@
     "mode": false,
     "lista": [
       {
+        "name": "CINE HISPANO",
+        "ico": "https://i.ibb.co/PgsXhMV/cinehispano-removebg-preview.png",
+        "uri": "AVOCG/dqyQC/mI5F1VzK30kY3anytTCPp3tahbr5X/O5QP0YXw4LnUCj6YINew1BVJC68NMJNbg299aeGk8wsFK8tmu5/mm8YdsIVaDidiM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKuoXo8ylakya6szJJtvsOcrlOcAJCfNLSL7xyxk6tJHNdH2hhJ7UNEeRNojtUkDz8Ig5WoCkBW5jT2s3zXWRS4p6sbPDAFq2roBR+qk3CjyNUXV65f1kWr5+t57eV5sJ9g==",
+        "referer": "https://player.sensa.com.ar/",
+        "token": "1.0",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "BRAVO TV",
         "ico": "https://tele-libre.org/img/bravotv.png",
         "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDnJzrpiqiyI/o6LyHe4nbRjzi6/DlNSj/WkdhgmbsgPXgYO7fFiX9VqPbr9IEWGHKbmN1mOvsBvezXbgrdR9jT",
